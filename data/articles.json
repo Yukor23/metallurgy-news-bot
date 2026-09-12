@@ -1528,14 +1528,6 @@
     "fetched_at": "2026-09-11T13:42:14.710055+00:00"
   },
   {
-    "id": "47e59e3110ff8958",
-    "title": "Промежуточные итоги на середине сложного года",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51azFaQ01iTnM4a1c4ODEyRHZmRWRVejVUbEFKN01na2hGUzdXb2hjVkNBU2xwekk0UGQtS0E2Z0kyYi1VZHlFcXZ5aVpwSkx2?oc=5",
-    "source": "Металлургия РФ — общее",
-    "published": "2026-07-14T07:00:00+00:00",
-    "fetched_at": "2026-09-11T13:42:14.710274+00:00"
-  },
-  {
     "id": "c33d7abda1ee7e74",
     "title": "Китай не за горами",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyUUxCWmVSVjJpQVVkRkctMVVMZlJJNUllNk5YYnNYaGlPTnB2MU5BalRtcFZKeVZ3UXRNRzF4Qm9USlF5eTJPWFdlZ1JGQQ?oc=5",
@@ -1862,5 +1854,117 @@
     "source": "Крупные компании (Северсталь, НЛМК, ММК, Мечел, РУСАЛ, РМК, Металлоинвест, ТМК, ВСМПО-АВИСМА, ЕВРАЗ, Норникель, Полюс)",
     "published": "2026-08-04T07:00:00+00:00",
     "fetched_at": "2026-09-12T04:46:05.070624+00:00"
+  },
+  {
+    "id": "4d07a9ce0bc69827",
+    "title": "ВС РФ разгромили металлургию Украины, лишив противника нового вооружения",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NZE1IV2xqckt6LS11NFZacS1mOUxIcFNwNnRVU3BVT2NVZ2QtdXd3SVFfNmN5aXhsa0M4RDIyQnloOHZWYjY0?oc=5",
+    "source": "Металлургия РФ — общее",
+    "published": "2026-09-12T05:44:00+00:00",
+    "fetched_at": "2026-09-12T08:52:59.087015+00:00"
+  },
+  {
+    "id": "2fdf89383589f57c",
+    "title": "В результате удара ВС РФ были поражены объекты металлургии и портовая инфраструктура Украины",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR2tXM2N1RTU4NF9fcG5XTi1yd0lDQ3FtVkZqc1JmWm51MnBKRjlsbUNQRXZNaHU3VXl1QThvNUdoWXEwSzBNd0ZqcEdaaGZ5WG1TSTdCY1ZMUE5OaUlrQVZnNlJEbFUxMkp6ZE9TZ21vVm8xamgxdm10SzEwSFBIak5HQk9mS2FMRlMyMjRVQjNnNkVjeEM1Rm5Jc0h3LXU4UEdPaERSdzgtSk84TFJvZi1Rd1BCUGY4RVBzZF84cjF6c0p6V0RkaWp3?oc=5",
+    "source": "Металлургия РФ — общее",
+    "published": "2026-09-12T08:09:28+00:00",
+    "fetched_at": "2026-09-12T08:52:59.087039+00:00"
+  },
+  {
+    "id": "ccc28aec3d4a9c66",
+    "title": "ВС России обрушили металлургию, работавшую на армию Украины",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcS1pWWtnTlRLWnNrTWYwSl9BcE5CQWpaT0RCQU9EMkxUcWhFeWVlbGM1QjlvT2NJMERHUUJPRFRwd09XeXRnMlRMbUp5RkNhNFJXVDB4Y1VRLTFobVgzckx0aks3c2V0V1J2Q0NmelQ4U2RmbkZqQk91dHRPbmdXYVdPZFhEc0lNNGc?oc=5",
+    "source": "Металлургия РФ — общее",
+    "published": "2026-09-12T06:01:00+00:00",
+    "fetched_at": "2026-09-12T08:52:59.087050+00:00"
+  },
+  {
+    "id": "22750c0dc4f451a6",
+    "title": "ВС РФ разнесли украинскую металлургию, а ВСУ снова оказались беспомощными",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ieUJhRTJBRE53Sm9pc05yMWV5NVBlZHR2bWJ0RlItS2FHWnRSVjlQVnVadHdEYXNiZm1sX2Z2SUpmWm1uVVU5ZnZLd1k?oc=5",
+    "source": "Металлургия РФ — общее",
+    "published": "2026-09-12T08:01:00+00:00",
+    "fetched_at": "2026-09-12T08:52:59.087063+00:00"
+  },
+  {
+    "id": "b8ae01197d878bc9",
+    "title": "ВС РФ резко продвинулись на фронте и массово ударили по украинской металлургии",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xMll4Q0FjMUJFS3hTeGVncTdsWlVSbERwVWs2Q2RHMmFlQUFvTWllT1RSVVNnSmRqcVoxeE1zbGtLeExBNGkwblNCVnI?oc=5",
+    "source": "Металлургия РФ — общее",
+    "published": "2026-09-12T08:12:00+00:00",
+    "fetched_at": "2026-09-12T08:52:59.087079+00:00"
+  },
+  {
+    "id": "9e1208af1c8f704c",
+    "title": "Минобороны России сообщило об ударе по транспортному объекту в Одесской области",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XS2FFNFZVaDNPSTJPdE9YbUc1SmR3Yk1zYlQ5OWxnZUhXRGhvWVAwVHFtOFN5OFBzTGdyek5KVzYwaEdmRWhaVlZTOEF4dw?oc=5",
+    "source": "Коммерсантъ",
+    "published": "2026-09-12T06:09:17+00:00",
+    "fetched_at": "2026-09-12T08:52:59.889302+00:00"
+  },
+  {
+    "id": "aebefe6a78e1d5a5",
+    "title": "Минобороны сообщило об ударах по металлургическим предприятиям Украины",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWVBMSVRab3RibFNmMV9EVnY1ampaQ2R1NlNTQ3RCNGk1eEVtRUNEYjRlSGtyQ2NLVHdHQk52U1BjX0E3RXRURWNGeTQyYTR0RFJIMzBHOUVFX0JzUnBqTnhqbzQzQdIBcEFVX3lxTE1vU1llQ2lrOWxWaUhjdEJHX1JUVUxocVhIWUJWd0Fjb0g1cVFJSDFqZGxTLWVSdVUwWDhCUldhejMwWUZYcXRtU2hhRFBOdXg3VFFKQlIxSWYzTHh5QlVycDJrb093b0ZxS2hUMy1OczE?oc=5",
+    "source": "РБК",
+    "published": "2026-09-12T05:56:45+00:00",
+    "fetched_at": "2026-09-12T08:53:00.483165+00:00"
+  },
+  {
+    "id": "a25d3b50d560c1a8",
+    "title": "В Белгородской области из-за атак дронов пострадали три человека",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBZTY1YU5KaXpFMDFicF9KUXkweVBVS0xnWUlENndKWmZJdzJlaTBsNDI5a21xQnUySXZiODI2SGxVNzhNcVAzYnRsVTlVOEVBRUgxZHJCS29tbld3UWM2WDFfeVB4UdIBcEFVX3lxTFB6aHQ1M3NKZjQxSnNlcGRXQlNzbXdjR0RTUGM0cGxWV0pkMkJXMnFJZ3pCaHRJcmRLQWl0T085TFFTTFRTcm94elphNXdPZmtER2tIR2UyVE83OTVEaU9SY0ZmUy0yNjZiWHNjcVRpbnE?oc=5",
+    "source": "РБК",
+    "published": "2026-09-12T05:38:49+00:00",
+    "fetched_at": "2026-09-12T08:53:00.483238+00:00"
+  },
+  {
+    "id": "dac359a4c461463b",
+    "title": "Площадь пожара в заповеднике «Утриш» под Анапой выросла до 10 га",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pLU5uSk9pYTI0QkxpbFV3VElYU1hsemtYOWJyYmQ5ZU9VN1dIbUJQTFJhS3l1Sy01Ym52bHI3NEh4OTBQaGo1UW83bGFxMEtUem1hSk1nVFh0YkgxcTE4a2NPbHE3d9IBcEFVX3lxTE9EZjFZbmg4N1pXekRFallKSmVhZlZYMDdlLXQ2cnU5Nlc4MHZBZVkwdEVwZ2M1czFDQXFRMnZjVll5T2tKMFlRbUlBLV9hTTV6eE9XNzhJSEN5b3BiMFFpV3VwakoxS1BBUmZ6OUJ1ajI?oc=5",
+    "source": "РБК",
+    "published": "2026-09-11T07:28:00+00:00",
+    "fetched_at": "2026-09-12T08:53:00.483247+00:00"
+  },
+  {
+    "id": "e3d67eee63c4887f",
+    "title": "Маркетинговое исследование рынка негашёной извести, гашёной извести и гидравлической извести в России, 2018–2026 гг. Прогноз на 2026–2030 гг.",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vOGlxX1VUaldiUWJrYlViUGRUVXU2elZ5TVpPZUkzUXBfX0NkUTB2ZVRLOGRJQ1ZUZ3dfUlltTFhlRnFYZnBrczh6VFVmOV93VEE?oc=5",
+    "source": "РБК",
+    "published": "2026-09-10T07:00:00+00:00",
+    "fetched_at": "2026-09-12T08:53:00.483263+00:00"
+  },
+  {
+    "id": "bb39fd42f5d7a50c",
+    "title": "Лукашенко назвал возврат денег условием для новых договоренностей с США",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9paXEzVzVLWnNnT3NwZ2dvdU1UVWNhMFFoa0ZvWURRTXdLUDFkWDN0ZkFzMVh5LW9tRTZXYjBuaklTS1ZPOWtmYVNXNzQ2bU5IQnRLWTNxYjNPNE1KV2d2V3ZXUW9HZ9IBcEFVX3lxTE1abkV6NUVWUzZzX1NaUHBhaXQzYVZkYS0xUU5TSDlfNzhPZ1ZTMTFCbjNMLWg4YmdJR1U1d0wyMklldllSMjRvcmY1MnNsX3djUDUyenBGdnhndXRDck5vbzZZZlFWaUZGZ2c2YnhJNTY?oc=5",
+    "source": "РБК",
+    "published": "2026-09-11T05:26:00+00:00",
+    "fetched_at": "2026-09-12T08:53:00.483283+00:00"
+  },
+  {
+    "id": "f900f37953dbd478",
+    "title": "Anthropic сообщила, что хуситы использовали Claude для разработки ракет",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qWldSX2FrdS1IeGdqbWhpUm5UX1N3eTFaNU5NYnVVREQ0ZGpwR01aTzIxbVdxOENIajlxV3VQblB4ajBpRGVjUklnNVFtOTVBWjRHMGp1SlBCTXl1ZzFYT1FOYk95UdIBcEFVX3lxTE5LU3FEaEJxaDhEWlUzYmFWc0JzbFRCdC1MejFpdzJQMTlNdHh4TFdZVUNqSzcyVjA1Zk95MjlFZE5WMnpYQXZBZVh4bXVJeURhUkVybk9ORDJxYmhlcmcxVndMdnA0UFo2X2hMV3AtX3Y?oc=5",
+    "source": "РБК",
+    "published": "2026-09-11T01:59:00+00:00",
+    "fetched_at": "2026-09-12T08:53:00.483305+00:00"
+  },
+  {
+    "id": "aa2ea539a63f7502",
+    "title": "Федорищев рассказал о последствиях атаки дронов на Самарскую область",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWdkRJemhLbTRZWDV5YTRQT1MzQk9TUmttNGZVazJVckZVVkZjMWRDX2p3Zk02YjRDbGJYYmFMVFlYWXpuSC0zUzl4ZUQxM2NESVJrTXo3OEFsbzZ1MVdfNkdMYU9iS3lIS1g2bnlNYVLSAXtBVV95cUxQUG9QaVFHTTR3MUlLSXk4TGhrR1ZYN1JUQ3BmdkVxejNOZGZSZzA0SWVmV3dvMEZwS1VJcW90V3pJQlgteUdoYndfaUxXUDdfdmQ2dUNQcHpvTDdkT0FEcXdESDhkMmctc3JGNkVtWUtqUkxocWRqbXVQbUE?oc=5",
+    "source": "РБК",
+    "published": "2026-09-12T05:44:06+00:00",
+    "fetched_at": "2026-09-12T08:53:00.483314+00:00"
+  },
+  {
+    "id": "1d80614bf68259d0",
+    "title": "Российский металлургический кокс попал под антидемпинговые пошлины Индии",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNmg2S0dJM0xETGM4dVVGeTZETHVOQS1SUkRfbjFQMEIxbmM3bzBGM1FMWjRxUjJJdm9wX3ctQnBMb2M1RlJrRWlzX212Z1Z2?oc=5",
+    "source": "Металлоснабжение и сбыт (Metalinfo)",
+    "published": "2026-08-10T07:00:00+00:00",
+    "fetched_at": "2026-09-12T08:53:01.018592+00:00"
   }
 ]
