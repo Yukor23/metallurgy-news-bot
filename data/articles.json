@@ -1352,14 +1352,6 @@
     "fetched_at": "2026-09-11T07:35:12.968672+00:00"
   },
   {
-    "id": "44a9ba6ce2a21992",
-    "title": "Красноярские металлурги используют ИИ, чтобы бороться с санкциями",
-    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LV0xGWExyWEduTlRYRTJpbS1ySXg5YVg0dFRhM3c1WDctSHphaTltb1lxbTN0bnY3eXF4c3RsSzlFeFpSSENj?oc=5",
-    "source": "Регулирование и пошлины",
-    "published": "2026-07-16T07:00:00+00:00",
-    "fetched_at": "2026-09-11T07:35:12.968694+00:00"
-  },
-  {
     "id": "57bb00e0dbd3550e",
     "title": "Свои бьют больнее всего: европейские пошлины обрушили экспорт металла из Украины",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ONXhZRnk5VThMZHlodVdpSFRvVGhlRGI5TXY3TjdRVWViTjYzai1JXzcyVzNDMHN2bEZlTDY3cXpKaHA5MVh4a2lOMk04NEFINDg0ZTZKZ194YkhzVW9QcmR5RG5xRmFoWXFVdkdRMUQ0dw?oc=5",
@@ -2174,5 +2166,29 @@
     "source": "Metaldaily",
     "published": "2026-08-13T07:00:00+00:00",
     "fetched_at": "2026-09-14T01:43:20.959715+00:00"
+  },
+  {
+    "id": "b7ded01c5b75021d",
+    "title": "Домны нового уровня",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1QTl1ZVl0SkNmU2FUMVlaQ19vUVo5d01tNnpOYjdKbWNXX0V4d3VDaDd3MmxFOWE3OE4yczFWcFNZc2xtYVdEYXl5ZHRsUQ?oc=5",
+    "source": "Коммерсантъ",
+    "published": "2026-08-10T07:00:00+00:00",
+    "fetched_at": "2026-09-14T07:10:45.388274+00:00"
+  },
+  {
+    "id": "7d5d3270a6c2a9d4",
+    "title": "Эмитент РУСАЛ: профиль компании, кредитные рейтинги, выпуски ценных бумаг, новости - РБК Инвестиции",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TejZJYXhfSERPc2dOREJxTmVqbUc1WG9tMHk4NVZTN2hsRC1zT0JBRVJmVGVsT2FhdFZ4MDVBdXdzajNoTlJ1YUtTazFBQQ?oc=5",
+    "source": "РБК",
+    "published": "2026-09-07T10:31:13+00:00",
+    "fetched_at": "2026-09-14T07:10:45.920144+00:00"
+  },
+  {
+    "id": "d9fbb99eadea035b",
+    "title": "Эмитент ММК: профиль компании, кредитные рейтинги, выпуски ценных бумаг, новости - РБК Инвестиции",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQZTB3dkxoaURhNFExV083MTNVaFZsNGxZUG9BU0paQzhGTWpYQ1c1WW96RmVSbTYzQnlSM0hfcE1pTHpFTEh0VTlmcw?oc=5",
+    "source": "РБК",
+    "published": "2026-09-07T11:05:18+00:00",
+    "fetched_at": "2026-09-14T07:10:45.920160+00:00"
   }
 ]
