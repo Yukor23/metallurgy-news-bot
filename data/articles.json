@@ -1112,14 +1112,6 @@
     "fetched_at": "2026-09-11T07:35:11.813401+00:00"
   },
   {
-    "id": "07932f9a2dc2e206",
-    "title": "Новости металлургии — 07.2026",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wN0J3Q085ODVYNFl3a3NYN0VJd3dpN3pibmxTcWhaeFlscXBJZHVwTDhfYTZRcFRvX1BPUlhaUGRhLTFnZE1oaEtDRXlqSm9SeFhqb3hB?oc=5",
-    "source": "Metaldaily",
-    "published": "2026-07-18T07:00:00+00:00",
-    "fetched_at": "2026-09-11T07:35:11.813446+00:00"
-  },
-  {
     "id": "455a7ae6446c0532",
     "title": "Новости за 08.2026",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92RVREU09KUUZfY1VBbGRIQ1VHVE9CQWhoSXVaTzRwcUhGYUY1X0pxVzg0cHhJd0VUbVprWlhSWVVnSGJ0NklRaG9XeWJlbDA1VkVnM193?oc=5",
@@ -1246,14 +1238,6 @@
     "source": "Крупные компании (Северсталь, НЛМК, ММК, Мечел, РУСАЛ, РМК, Металлоинвест, ТМК, ВСМПО-АВИСМА, ЕВРАЗ, Норникель, Полюс)",
     "published": "2026-07-27T07:00:00+00:00",
     "fetched_at": "2026-09-11T07:35:12.416307+00:00"
-  },
-  {
-    "id": "9fda991e4fa45428",
-    "title": "Металлургия – каркас российской экономики",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9laDFKeDVxYTVyWmxKb1V1QkNudlpOTDBVV2JfSjBONG4xaU1pY2NfS3VnWm80a0VobndPc1B6a21VT3JLTnNna3NEZlU2NWhOc1daZ2dHMTBHX3pYckdHNE5WZlVoZw?oc=5",
-    "source": "Крупные компании (Северсталь, НЛМК, ММК, Мечел, РУСАЛ, РМК, Металлоинвест, ТМК, ВСМПО-АВИСМА, ЕВРАЗ, Норникель, Полюс)",
-    "published": "2026-07-18T07:00:00+00:00",
-    "fetched_at": "2026-09-11T07:35:12.416328+00:00"
   },
   {
     "id": "e8e3c44f4b56add1",
@@ -1982,14 +1966,6 @@
     "source": "РБК",
     "published": "2026-09-11T10:47:00+00:00",
     "fetched_at": "2026-09-12T17:57:51.791897+00:00"
-  },
-  {
-    "id": "9d86932c6158bb50",
-    "title": "Магнитка празднует День металлурга в Притяжении",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04aHR6T2xaTTRrMDAxcUpndFpNZXVEZEFBRlRhRXk0M2h0aU5uSlE4am5GclZWVkl0dXhtWWFmZEVrbEF4OUhoSnhzM0wyaTdu?oc=5",
-    "source": "Металлоснабжение и сбыт (Metalinfo)",
-    "published": "2026-07-18T07:00:00+00:00",
-    "fetched_at": "2026-09-12T17:57:52.359202+00:00"
   },
   {
     "id": "778c798f28333fb8",
@@ -2862,5 +2838,101 @@
     "source": "Крупные компании (Северсталь, НЛМК, ММК, Мечел, РУСАЛ, РМК, Металлоинвест, ТМК, ВСМПО-АВИСМА, ЕВРАЗ, Норникель, Полюс)",
     "published": "2026-09-07T09:30:00+00:00",
     "fetched_at": "2026-09-16T05:12:16.599568+00:00"
+  },
+  {
+    "id": "f9bffa088dfcf80c",
+    "title": "GSM Танзания заказала у Danieli стан для завода арматуры и катанки мощностью 300 тыс. тонн в год",
+    "link": "https://www.steelland.ru/news/business/15460.html",
+    "source": "Steelland",
+    "published": "2026-09-16T09:59:50.555821+00:00",
+    "fetched_at": "2026-09-16T09:59:50.555834+00:00"
+  },
+  {
+    "id": "395943097d0c40d9",
+    "title": "Магнитогорск выбрал логотип к 100-летию",
+    "link": "https://www.steelland.ru/news/business/15459.html",
+    "source": "Steelland",
+    "published": "2026-09-16T09:59:50.555848+00:00",
+    "fetched_at": "2026-09-16T09:59:50.555850+00:00"
+  },
+  {
+    "id": "4f0864267e9f6c65",
+    "title": "Сегодня в фоторубрике рассказываем о ремонте обжиговой машины, который за лето провели коллеги с «Карельского окатыша»!",
+    "link": "https://www.steelland.ru/news/business/15458.html",
+    "source": "Steelland",
+    "published": "2026-09-16T09:59:50.555861+00:00",
+    "fetched_at": "2026-09-16T09:59:50.555862+00:00"
+  },
+  {
+    "id": "db3256c1bfe05298",
+    "title": "Конференции ИД «Коммерсантъ» - цифровая площадка для дискуссий на самые актуальные темы",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcl9rWXlYV0RJd0pqV3NYME9SNXZ2TjdBVnA4SG1ORTMxTXRLVWpsck16VTJhWkktcjZjM2ZfelEyOGtfTFFEZU9jcEFOSnZjTHpZZ3loanBiQlJRczUzWERUVmI2N0VwR2ZEMWVidFNnYlVxcl9FTS1BeFVDXzVhc3VSRUozQ1NiOW1qdDhkeS1XR1pCMFQ2SG16MVZaOUJzb3JrMVRLYjJTLXM?oc=5",
+    "source": "Коммерсантъ",
+    "published": "2026-09-16T07:01:34+00:00",
+    "fetched_at": "2026-09-16T09:59:51.938398+00:00"
+  },
+  {
+    "id": "2c447f425d7da51c",
+    "title": "Алексей Орлов хочет увеличить количество станций метро вдвое через 10 лет",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nNWU5bUJ6VTJNelAzVHhHc3g4V2xERUgzeldNUzNfVXdtUXYxMXhMUEo1WHh0dE1jZjR4S0VILU5DMmMyRWtoQ010dHFWZG56M1JuNWlTVTljdFY2bkFyalNjTGhvbFJ6cUV2djR6dHZJdXdWQk5GN1F2Q0lsd9IBc0FVX3lxTFBEWjNSTldkbEhJckNVMXJxNVIwN3ZZdjNoWjZ2VS1SZnpJbmdNbVBxXzg2enB6bHQ0MzUxUC00MWpXWExXczlUWFVGbTVxTk9mcUFqUW5XODhhcnpzdjg3Zk5HQmVsZHhhNUhkZUg3WVBnVXc?oc=5",
+    "source": "РБК",
+    "published": "2026-09-15T07:22:43+00:00",
+    "fetched_at": "2026-09-16T09:59:52.478411+00:00"
+  },
+  {
+    "id": "33ad3271d8f923d0",
+    "title": "Новый престиж: как промсектору Татарстана справиться с дефицитом рабочих",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBETUh1Z0ZNdWdHQVNyZnlScjB0QndIcEZPUFhwS3ltckVIQmEzclVRRHVFT2hRQ0drRENSMFk3WVhaMllKcTc2VzZ1MTJYOGw3NEo0M25zMkNxQUhwcHBkR1U0VWI1Y0NERDZVTXk5ZzjSAX5BVV95cUxQaFNacmIzNG5EcmNuTFpVdXRsUVd5ck1rOHg3TnlTMGszNHoydjhudHNQM0F5ZVZiMlhCWldST2V4TzhSNkJTVHdIVGwzNTVzM2pqbktzalkwdzUtcld4WVIzVEJ3ZzAzbzl2VTYtRG5qQmQtR21BRFh0SFdWSlE?oc=5",
+    "source": "РБК",
+    "published": "2026-09-16T07:21:14+00:00",
+    "fetched_at": "2026-09-16T09:59:52.478426+00:00"
+  },
+  {
+    "id": "83e0d1abf8e8056a",
+    "title": "Долг застройщиков Татарстана достиг максимума с начала года. Инфографика",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yNFBzbkJKU2VWd1d5cW1yVG9lWm1QSHB6ZV9qSHpJSVZPVmdhN2VPVU9NS096U0E2NTgwZGNuWXZSMjdURDNkU2kxWmlhUjg1bEhTN3Y4bnU5UHFRZkVhaTBGako0TGJDaGgxQ3dnSGPSAX5BVV95cUxOYjhVakJGM2xRaUJBakU1ZGw5Sy1mbUZkQVdCaEx3Y1J4LUN2NXc0azRmZGNvVmtuNVJqYlEzd1ktdFJNMjg2eGRRTGJkZkYtc3kzSjJ3amh4TW1CVF91UXRaTXhFZzZDWlFjVDJkMTN3c1RQdklKQThTeU9nWnc?oc=5",
+    "source": "РБК",
+    "published": "2026-09-16T08:25:28+00:00",
+    "fetched_at": "2026-09-16T09:59:52.478466+00:00"
+  },
+  {
+    "id": "c5fb748355baf7c5",
+    "title": "В Татарстане выросло количество частных инвесторов",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PVG1wNmtyWVBYRWluc19NSG9QakRUSmNWRXVQMUhGaS1LNG5wMjNkdHQ3V0RCVzl4WTNuYk5XOEtUSTVEb3A2TWotOUtLNVJLaF9BN256eTF2cUhUb052NldXVm5pZHBGQXJ5cnZR0gF7QVVfeXFMTlF1TE5RaHhGSFBMQkk5YmQ5aE8yZGJHaGJpWHNucU1oYTFtQndNbHhyeG5VRmxLTmRnMXhyTHdHQS1Qd1RKUkJWTXhQUUxMamJ4WkhVSFFTUDgxWm1yTmZqMFRGUjNRUi1wV21hNHRhVnpyeWQ2OVpuY1M4?oc=5",
+    "source": "РБК",
+    "published": "2026-09-15T10:39:26+00:00",
+    "fetched_at": "2026-09-16T09:59:52.478475+00:00"
+  },
+  {
+    "id": "3e3c446dd825513f",
+    "title": "Набережночелнинская агломерация обошла Казанскую в рейтинге эффективности",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zd3IyeHVlOS10cFFQWURmSHJuUUtxeVBpNTc3Q20zSTEtTUE0VjVmaHZseXhwMG81clFlaVN5aE9NRmNoT2dKNTdnMW9pRm1QVHNxdlU5NzJJRHR3VENib21ZVFRiYko5ZkRtc0Rn0gF7QVVfeXFMT24tRXhraF9WODhTYmJfakVfdEpEMGFWRGxfcWNhS1hwZDBHejh6ZTFfWG9Oc1QyZ0hUSGZIWEYtX3ViUE5uYjIwbnVyQTVPYzNzS0R5RHIxNTNCTFd3bXpWVVVoWmU5WGRabnkwNDZqWEM1S3hrOVhyMzFZ?oc=5",
+    "source": "РБК",
+    "published": "2026-09-15T14:32:56+00:00",
+    "fetched_at": "2026-09-16T09:59:52.478484+00:00"
+  },
+  {
+    "id": "633c114e61ce0d5a",
+    "title": "В Казани на озере Кабан запустят шоу фонтанов",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DbnZNQi1SNmdiNjRFRU5FRzV2TkhmZWNpeUlET3lKOVZqX1ZfekpQcm5VUlctbk5lUmZxamxqSVc4X0xYdTN6QS1MLXlNMnFpcjVabEtMemFGekZCdklqMDg3TUtpWl9FQmV2Ql9R0gF7QVVfeXFMTl9ZbkJRRFZmTHp3cjlBRnVMamxFUDRRMnVhdjQ4T2pPVWZBNWowWWJtcW56d0dNLVVraWZvRUFBUlhPSklZUkxaeXlsTXdnMDhyTUtCNm9nX1J2c3k2ODJOZHF2c1hEeldWOFcwRFJvWkFaR0daLUROUDFF?oc=5",
+    "source": "РБК",
+    "published": "2026-09-15T14:49:00+00:00",
+    "fetched_at": "2026-09-16T09:59:52.478493+00:00"
+  },
+  {
+    "id": "c3fc27901b9c08a4",
+    "title": "Для реконструкции исторической части зооботсада Казани собирают аналитику",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hZHpWVm82QWF2U2VfUDIyWHZrZDN5bmxCYnlzZHVrSnlYbFg2dlBjLTNsQ2pfMG1USjItREJtaW4tNjBYclNnZmtNSVZHUzFxdUE0WjhqWE9pOXd6ZzhXaFAxRUN5SW1BTDRuZjdR0gF7QVVfeXFMUDZreEpDaWpFV0ZTU2pJdUtoTmdSR3VEV21XOGZmNnlZZndXY1RRYWpXMmE5WXhvTjZ4a29iOWY2Ymd5X0IyT3Z6YkUwVVFkUnBkWlc5aUFUcmlJc3R0V1NUenZxcWZsZ3o0RHFJWlNjVDZneExIS3FlRXhV?oc=5",
+    "source": "РБК",
+    "published": "2026-09-15T15:47:13+00:00",
+    "fetched_at": "2026-09-16T09:59:52.478501+00:00"
+  },
+  {
+    "id": "657bf57dfb5dd155",
+    "title": "Россия нарастит поставки металлопродукции в Таиланд примерно на треть - Новости металлургии",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OM2hJSURqSjlXd0U0bVJMYlItZXRCNTZDS3FOTEpCejhzVUFJSmgxWkM5MFRZc1NOOVkzcWQyU29TcUI2RVhuRzFGcHJFUzNw?oc=5",
+    "source": "Металлоснабжение и сбыт (Metalinfo)",
+    "published": "2026-09-09T10:00:00+00:00",
+    "fetched_at": "2026-09-16T09:59:53.014913+00:00"
   }
 ]
