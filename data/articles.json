@@ -304,14 +304,6 @@
     "fetched_at": "2026-09-11T07:35:09.163824+00:00"
   },
   {
-    "id": "235bbfe4750411a9",
-    "title": "Муром - Металлург (0:0) 12 августа. FONBET Кубок России по футболу сезона 2026-2027 гг.. Протокол матча",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFhwWU5Gd2picmlJb3JlUTBCMFJuaEVwS0p4ZElhbmg3bndJem9waWlzNERQMmJhb2ZoTUpkSUdrdE1rLTRsMExHeDhtaEFXdDBNQ1ZweGVCWlU5MW1rUlhlSWFQdHlmVWZTd2pWNk8wSTFJOF82RXlNS3l3a1ZtQU1jSFVfdWZoOU41ZlljaExybUx0?oc=5",
-    "source": "Металлургия РФ — общее",
-    "published": "2026-07-31T20:16:10+00:00",
-    "fetched_at": "2026-09-11T07:35:09.164007+00:00"
-  },
-  {
     "id": "88efab047c17d7ad",
     "title": "Криворожский металлургический комбинат приостановил работу",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc01aN2hoSnFHd0FwM3J2MWZDcmFJQkVHNi05VjBLbXVIemFjcUdJbTJGajFzNmdDMmZqWXpzdWkxNm4xOFVvZk5NTVpFMGZobG1PZDZYc1h6ZTVBcmZnRTlvOTZ4dTBaQ1Q3dGR1SjUzbmpHN2dwV3dvckNFSlZPU3ZIRUNWY3lodi1UTkU1cU5BSEZLdEVTZDFnUkYxS2ZvZkN3cDVR0gGqAUFVX3lxTE9RZUYwc3RyZjRKb0ZPc1MwSF8tX3o1YXdOQjRXSFo0bUltczVqLWcxYXdCSnN1TnRDUFRIRjczX1FPanhDOVQySzQxUXJ1dG5WWFNndlUtUnhrZjVZWVBrUDdKcHZOYUhLN1BPMDFfUklFRm43SnIxcWNTN3ZKNVV3Uzd0S1ZrUndlR3pHUUhoQVdHdlgwRHd2eUxBc0NPdEdEa1ZHek9NNmxR?oc=5",
@@ -6382,5 +6374,53 @@
     "source": "Крупные компании (Северсталь, НЛМК, ММК, Мечел, РУСАЛ, РМК, Металлоинвест, ТМК, ВСМПО-АВИСМА, ЕВРАЗ, Норникель, Полюс)",
     "published": "2026-09-24T04:20:00+00:00",
     "fetched_at": "2026-09-29T20:15:58.110584+00:00"
+  },
+  {
+    "id": "26e1cb82ff2fa9a7",
+    "title": "WRS создаст в Техасе первый в США завод по восстановлению материалов из отслуживших солнечных панелей",
+    "link": "https://www.steelland.ru/news/business/15636.html",
+    "source": "Steelland",
+    "published": "2026-09-29T23:47:12.364775+00:00",
+    "fetched_at": "2026-09-29T23:47:12.364794+00:00"
+  },
+  {
+    "id": "316b1bced931e1e1",
+    "title": "NYT: золото из Венесуэлы застряло в США — рафинеры отказываются его обрабатывать",
+    "link": "https://www.steelland.ru/news/business/15635.html",
+    "source": "Steelland",
+    "published": "2026-09-29T23:47:12.364803+00:00",
+    "fetched_at": "2026-09-29T23:47:12.364804+00:00"
+  },
+  {
+    "id": "a23939827cae5ee3",
+    "title": "Минфин США объявил о масштабном ужесточении санкций против Кубы",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LOHpUR3pNVE93WDF2WTNrRkIwODNiaFcwODJYWm95ekZmNU52UXJFMjhMM1lHNzhVWXZ3V2hEWi1oUTZQY3hkRXB2eV8tUQ?oc=5",
+    "source": "Коммерсантъ",
+    "published": "2026-09-29T22:18:51+00:00",
+    "fetched_at": "2026-09-29T23:47:14.032226+00:00"
+  },
+  {
+    "id": "9574422c9126787b",
+    "title": "Металлурги смотрят в землю",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sbGJSSkVyakJOb2hlbUoybUFXNU8xM09kZGdEd09nMnhqanlWN0hKWEVhUUU0VnhDT2JIYXR3a3U4OEl2cHNiMl90NTluUQ?oc=5",
+    "source": "Коммерсантъ",
+    "published": "2026-09-29T23:17:35+00:00",
+    "fetched_at": "2026-09-29T23:47:14.032254+00:00"
+  },
+  {
+    "id": "13f753e5d63d358e",
+    "title": "В Магнитогорске стартовал IV Всероссийский детский экологический форум",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaVAxQ2ZTUFFOZEt5M3BnTXQ3SWxXZ3RuVmdsNEZUZzdkS05oUHFqT2tLTFNYdUxXZVBPb0piZXZuMG8yMzRoTWZxbFd5OTNKOVh5bXRGYTR2QnRTSnZaZFhKTUZvTFJORy02WF9acHpWMDl3cExjVnd5WkYwaWx4NDBEcm1JMzlVQ2VkRmRTZFBCZWJ2dEZjcFM2Ni1yUjN6WmlJS2dZQkpUdFhLNkdGZlVCZTRQeTI4WHB2Wmh1LUJSTW5uYkxOZjZkaGdMYlppMjZ0bk0xSkVDRVhyZFlsUVRSTnJVV2Jjc0Y1VjBUUmNWQU1TaXNBZTRlN1pEZHpYb2pGa0xtVFY?oc=5",
+    "source": "РБК",
+    "published": "2026-09-29T11:18:57+00:00",
+    "fetched_at": "2026-09-29T23:47:14.738990+00:00"
+  },
+  {
+    "id": "df1316278ab13397",
+    "title": "ИИ и гибкость: как строить бизнес-стратегии в 2027 году",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zUzJ1RjFBTi0tSXdhNkxDZUJrVDNqbkhlSzdHMTVyV2V2OXc1RFo5VDhJZ2xDdEJLZzdGQVBiQjFWSVVNSUVDdVhkMEN3NFV4c1A2d2J6a1BSck85ZDlnODB4SQ?oc=5",
+    "source": "РБК",
+    "published": "2026-09-29T14:19:19+00:00",
+    "fetched_at": "2026-09-29T23:47:14.738999+00:00"
   }
 ]
