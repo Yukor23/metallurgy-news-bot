@@ -6118,5 +6118,61 @@
     "source": "Коммерсантъ",
     "published": "2026-09-28T23:30:21+00:00",
     "fetched_at": "2026-09-29T02:43:15.541319+00:00"
+  },
+  {
+    "id": "6e25bf57128376a2",
+    "title": "Молодые специалисты ММК прошли посвящение в металлурги",
+    "link": "https://www.steelland.ru/news/business/15620.html",
+    "source": "Steelland",
+    "published": "2026-09-29T09:05:54.537583+00:00",
+    "fetched_at": "2026-09-29T09:05:54.537602+00:00"
+  },
+  {
+    "id": "e2b17b2e7d081162",
+    "title": "Блиц с Михаилом Черкашиным",
+    "link": "https://www.steelland.ru/news/business/15619.html",
+    "source": "Steelland",
+    "published": "2026-09-29T09:05:54.537614+00:00",
+    "fetched_at": "2026-09-29T09:05:54.537616+00:00"
+  },
+  {
+    "id": "3442951d501a254a",
+    "title": "Без середины",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wMFg5V2duTDgxWGdnUGlFVXpTYVNiRnhyZDVOZHdOQXIxWDZ5UXdQQUNjR3dhUG9QNEpMU21iaHRMOWlmdVpuazF1WE5xdw?oc=5",
+    "source": "Коммерсантъ",
+    "published": "2026-09-28T16:22:51+00:00",
+    "fetched_at": "2026-09-29T09:05:56.163882+00:00"
+  },
+  {
+    "id": "d6af6b1095a9e9d6",
+    "title": "Индекс промпроизводства в Мурманской области вырос на 2,1%",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWdUUkRYR3VnSVNPUEdveGZKZFRELU9hWWdod0c1N3VwdFpmSW43SmlTZG5lVk5rWmF5UFdWSmZMdFpKRUZ0bGhvUzBwVjk2M2lQclk3dWFCblJUTWRxSm9TNDRQdEhxVzJFaHVCazdPVVBsNVhjbjdGTHlmcHJnWF9xOFZDdjM4VXhkbUlR0gF8QVVfeXFMTmpIVjZnSFQ2NVpxS3RrSnRRUmdwdGUxdFhZeDEtUjZIeU5hbWdIQkluckNFclNtd1p3ZXFhcjlpUmpJY2JZVWdPZ0RTa0pELVpRRUZXWDI4SEhMUFU1alZ2clVCdXVLaE9WTDl1emNCZzFIa1FfNWt6NFNNQg?oc=5",
+    "source": "РБК",
+    "published": "2026-09-29T07:40:27+00:00",
+    "fetched_at": "2026-09-29T09:05:56.734160+00:00"
+  },
+  {
+    "id": "e5a0308e9dde2fa5",
+    "title": "Выпуск № 122 (4336) (2909) от 29 сентября 2026 :: Газета",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSMWVmaXcxY0FzSmJyanUyVUxoMlpEd0JzcGtnMk9LVjNpR2FaYkYyRHNRMWhQMXhReFBBOTljSlR5QWY5WEdNUVRWeTVIQ25P?oc=5",
+    "source": "РБК",
+    "published": "2026-09-29T06:52:13+00:00",
+    "fetched_at": "2026-09-29T09:05:56.734239+00:00"
+  },
+  {
+    "id": "f5542d3b056bd875",
+    "title": "Что будет с ценой платины после трех лет дефицита",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VWC1JMHlvbVN4N1lQTEJqeFdMazJtRW13RE9jUzhXcXc4U3NjbmhaV3BuVHRkWDd5c3R5eVNVSVI4T01EQmRoVmJFSWRkdnNCVURiZWNneFFISlFqcTJ4dmZUbkJ4ZVFvcTNoWXdZTWdHQdIBe0FVX3lxTE04TkI1bzliQ0VZYU15d1JfLU9CRFBDZnF0M0Q2VDNpZWdWQVJGSkx2ODk3SXFrOVJQdG90RzlQRzBGSnA4bENWMGtRWS01bTlBeFhaSDJCVDJaNEtjMmJ1UXJ4eWZMTm9CSS1hUVA2a1UtVGhVeUdBMWVuVQ?oc=5",
+    "source": "РБК",
+    "published": "2026-09-29T04:02:45+00:00",
+    "fetched_at": "2026-09-29T09:05:56.734265+00:00"
+  },
+  {
+    "id": "4ebc03391a7d42b3",
+    "title": "Маркетинговое исследование рынка плоского горячекатаного проката из нержавеющей стали шириной 600 мм и более в России, 2018–2026 гг. Прогноз на 2026–2030 гг.",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZDZHWjFVRV9GWlJJNUxnN0VhenpLdDlKWEwtTlU4UVgxc3hqalpmNDN2QXhqM2xRVlhPWXRBX21TemxfMXR1YUtTSXE1R1F0TmV2SU1sejRPUQ?oc=5",
+    "source": "РБК",
+    "published": "2026-09-25T15:55:25+00:00",
+    "fetched_at": "2026-09-29T09:05:56.734274+00:00"
   }
 ]
