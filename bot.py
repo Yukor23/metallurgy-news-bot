@@ -9,6 +9,7 @@
 JSON-файлах в data/ и коммитится обратно в репозиторий workflow-шагом.
 """
 import hashlib
+import html
 import json
 import os
 import re
@@ -75,7 +76,13 @@ def chunk_text(text: str, limit: int) -> list[str]:
 def send_message(chat_id: int, text: str) -> None:
     for chunk in chunk_text(text, TELEGRAM_MSG_LIMIT):
         try:
-            tg_call("sendMessage", chat_id=chat_id, text=chunk, disable_web_page_preview=True)
+            tg_call(
+                "sendMessage",
+                chat_id=chat_id,
+                text=chunk,
+                parse_mode="HTML",
+                disable_web_page_preview=True,
+            )
         except Exception as e:
             print(f"[WARN] send_message to {chat_id} failed: {e}")
 
@@ -167,9 +174,12 @@ def build_digest(articles: list[dict], days: int, title: str) -> str:
     items.sort(key=lambda a: a["published"], reverse=True)
     if not items:
         return f"{title}\n\nЗа этот период новых материалов не найдено."
-    lines = [f"{title} ({len(items)})"]
+    lines = [f"<b>{html.escape(title)}</b> ({len(items)})"]
     for a in items[:MAX_ITEMS_PER_REPLY]:
-        lines.append(f"\n• [{a['source']}] {a['title']}\n{a['link']}")
+        link = html.escape(a["link"], quote=True)
+        source = html.escape(a["source"])
+        headline = html.escape(a["title"])
+        lines.append(f"\n• [{source}] <a href=\"{link}\">{headline}</a>")
     if len(items) > MAX_ITEMS_PER_REPLY:
         lines.append(f"\n…и ещё {len(items) - MAX_ITEMS_PER_REPLY} материалов за этот период.")
     return "\n".join(lines)
