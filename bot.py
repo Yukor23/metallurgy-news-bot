@@ -20,7 +20,7 @@ from zoneinfo import ZoneInfo
 import feedparser
 import requests
 
-from feeds import FEEDS
+from feeds import FEEDS, KEYWORDS, STOPWORDS
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
@@ -115,9 +115,30 @@ def parse_published(entry) -> datetime:
     return datetime.now(timezone.utc)
 
 
+# Ключевое слово должно начинать слово, иначе "олов" ловит "уголовное",
+# а "медн" — "комедный". Поэтому перед совпадением не должно быть буквы.
+KEYWORDS_RE = re.compile(
+    r"(?<![0-9a-zа-яё])(?:" + "|".join(re.escape(k) for k in KEYWORDS) + r")",
+    re.IGNORECASE,
+)
+
+
+def is_relevant(title: str, summary: str) -> bool:
+    """Отраслевая ли новость — проверка по ключевым словам (для общих лент)."""
+    text = f"{title} {summary}"
+    for m in KEYWORDS_RE.finditer(text):
+        end = m.start()
+        while end < len(text) and text[end].isalnum():
+            end += 1
+        word = text[m.start():end].lower()
+        if not any(word.startswith(stop) for stop in STOPWORDS):
+            return True
+    return False
+
+
 def fetch_new_articles(existing_ids: set) -> list[dict]:
     new_items = []
-    for source, url in FEEDS:
+    for source, url, mode in FEEDS:
         is_google = "news.google.com" in url
         try:
             parsed = feedparser.parse(url)
@@ -126,15 +147,19 @@ def fetch_new_articles(existing_ids: set) -> list[dict]:
             continue
         if getattr(parsed, "bozo", False) and not parsed.entries:
             print(f"[WARN] '{source}' returned no entries (bozo={parsed.bozo})")
+        kept = 0
         for entry in parsed.entries:
             link = entry.get("link", "")
             title = clean_title(entry.get("title", ""), is_google)
             if not link or not title:
                 continue
+            if mode == "filter" and not is_relevant(title, entry.get("summary", "")):
+                continue
             item_id = make_id(link, title)
             if item_id in existing_ids:
                 continue
             existing_ids.add(item_id)
+            kept += 1
             new_items.append({
                 "id": item_id,
                 "title": title,
@@ -143,6 +168,7 @@ def fetch_new_articles(existing_ids: set) -> list[dict]:
                 "published": parse_published(entry).isoformat(),
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             })
+        print(f"  {source}: +{kept}")
     return new_items
 
 
