@@ -7344,14 +7344,6 @@
     "fetched_at": "2026-09-30T08:25:42.120688+00:00"
   },
   {
-    "id": "b28e35f3960b35d0",
-    "title": "Спектакль «Любовь и голуби» в Старом Осколе",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU5keDZsRUZadWJ6TlhycWdyb09aU3ItZThpa1lSOVpueUNfel9TNzF1VGxpN2ZFREUtZ01MeGV2LWFHQXgyQ29NTG9wZmRvSFFMSTN2a0NmaUhwODQzNDN0YmwzYWZvcWZrSUFQb19tRDNCZ2F2Z0V4MVFPZEY5aDdUWllnNGJM?oc=5",
-    "source": "Металлоинвест",
-    "published": "2026-08-11T16:01:30+00:00",
-    "fetched_at": "2026-09-30T08:25:42.120821+00:00"
-  },
-  {
     "id": "09eeb3bcb80ec00a",
     "title": "Инженер ВСМПО-АВИСМА Владислав Попов – призер Чемпионата высоких технологий",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOamZTN3pSaG1rZnVWZzNGZUdNUk9sMlkwTHhZSm45V3hfUFhqV2NRY3FEQnR5ak40aEJqZkpkZXNQY2kxZHNsODZDUjNFUjFnRE5sV3BKaDhnSGZMeGJqTmk5aVZOR1BRSTgyeV9wQ2NFby1RTnFiOGwyUmdaMnl6VFB1NVF6T28zREtydy1qZm1RbG9LeTR4dWstQnRqMFVNU0FKbU5UVFZ5dUNrZ2phSTJB?oc=5",
@@ -21574,5 +21566,125 @@
     "source": "SteelOrbis",
     "published": "2026-10-09T06:28:50+00:00",
     "fetched_at": "2026-10-10T14:50:04.652496+00:00"
+  },
+  {
+    "id": "b75e461960cc564d",
+    "title": "”СТАН” усовершенствовал технологию изгиба деталей для авиа- и автопрома",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zOEQxa1VMaE0zOVlaaGJ0QUtTVXFxdkhqVWRxbUhTLTBFbW9zUjhheVZIRmZpVUxBZ0sweWVhZFl5dUFWN2NBOHNSYnVyb2hjelhENW1TVldhUQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-10T14:53:20+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651372+00:00"
+  },
+  {
+    "id": "d967b361211523fd",
+    "title": "”Primetals Technologies” поставит в Китай оборудование для фольгопрокатных станов",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxM2VuTVJrRFlGWW5XdVpGbFdYeWxtZ1B3aUxWT0tjdGl4TXNuR0ZuazNWNkRSa0FqTzNXelBwU0RzMXFxM0o3a184R2cwRTRIMWlrT0VnT0tEZw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-10T14:53:20+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651386+00:00"
+  },
+  {
+    "id": "2ba8ebf227221012",
+    "title": "Погрузка черных металлов на ж/д в Челябинской области с начала года снизилась на 2,8%",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90VmtJSGVKOS0xTzVyZWJ3ZHEtR295MU02NGNzR1FVR1JVSk0yVl9VYnNmNkd5bTNRbnkzVW1VZWljNGZ5NTRiejJRYmZ2ZUdFMXRNazY3OEhyZw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-10T14:53:20+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651391+00:00"
+  },
+  {
+    "id": "59f62863d7e53443",
+    "title": "Канадский выпуск железорудных концентратов в июле вырос на 15,6%",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KczdXNWRWWlE5NW1MZEpac1I1dmtlcWNGc3dYekpwX2N0SWxvRkZYWV9Vc1FZWGdnek9QMk9seUFZTmZTcU4yY1IwV3lGYkF0Y3BYQ0pXbWVNUQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-10T14:53:21+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651428+00:00"
+  },
+  {
+    "id": "9b71190e3a012cd0",
+    "title": "Новая автотехника для подземных работ с двигателем ПАО ”ТМЗ” проходит испытания",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFxMnlRMHNxNFhnZk5LMWVDQUVsbnJNbXpNR3h0elcxVGpGSFh6LWJDbFJCMnhYaVdSdkJtUGtFdlBUdTZpSEJZQnZ4R1k5TU1mXzFSZzEyUQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-10T14:53:20+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651433+00:00"
+  },
+  {
+    "id": "7f5449b4f53669b9",
+    "title": "Погрузка черных металлов в Курганской области за 9 месяцев выросла на 22,1%",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lQkYtbnJYQjBUd1FtTDBiMnNZMkVFNHI2dUNwUUNPdks0U0MwZGl1cEFKU0VlMG5MTWp0LVlQQTd6d08zYWpLajdzb3pQSVZ3TDlZQmU5SE1SQQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-10T14:53:21+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651460+00:00"
+  },
+  {
+    "id": "9c2ba44933380d64",
+    "title": "Переплавка токарной стружки в Пакистане",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGRnBJMGJqeUY0T0dud0pjRDR2R0d6dXRFdnp3RXpENENTZk8tMkNQU3Nxei1rb3ZySzN4WHBReGpBRnlqTkczYmpBSmVQYS05bFU4UkNqdGtlZw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-07T09:29:30+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651495+00:00"
+  },
+  {
+    "id": "e8d97e654edabd10",
+    "title": "”СТМ” завершили сварку рельсовых плетей для одного из двух путей будущей ВСМ",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHdFEwUVhYY3ZtOXFiRmYydVEweEVCQ2FHOWQyTjBZejNPc3ZYZFJqemQ4M3Q0OUVIMHpibkFiREVqNGkxcjFWZG5WR1JFNHpHZG5uaFN2a3NJUQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-10T14:53:21+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651506+00:00"
+  },
+  {
+    "id": "d401f5334b2d2681",
+    "title": "Китай в сентябре получил 76% мировых заказов на строительство судов",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZaFpjWW0zODFRMS02eDlSMFU4dk5sbWFsSHVScDY3TzJrYlR2a2hBQjRDT21mWUdfcHFCNlBaazN2amNqOVpMQm1IV0RKRGN5TklnLWJySDNUQQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-10T14:53:21+00:00",
+    "fetched_at": "2026-10-10T19:02:22.651532+00:00"
+  },
+  {
+    "id": "81b5f7fa1c24d510",
+    "title": "Крупнейший сталелитейный завод Украины законсервируют",
+    "link": "https://tass.ru/ekonomika/28202103",
+    "source": "ТАСС",
+    "published": "2026-10-10T17:23:21+00:00",
+    "fetched_at": "2026-10-10T19:02:29.727318+00:00"
+  },
+  {
+    "id": "6aad95b669289ee0",
+    "title": "ФАС опубликовала данные для расчета НДПИ на драгоценные металлы за июль 2026 года",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEZ2TkRrUTFHSnJ3dHVsRkd0aXZMUDYzNDEzM0F3VGdwYzBUaXFpMWhHYkYwdjV2QjZfQ3UzdTlPdUJvM0dMbTE4dHdwQkx0aU81M2xra1F2S0JJWTY2dGJfTG9ZcjM4b2k1N1JYQXUxZWo0eU9meUFseXVXQ3hJaTh0N2cxaXVFRF9VUmxhMklTM2FYVjg3c1NVdkJwZzJkRXJnZzlqWHNMeWdXOXc?oc=5",
+    "source": "ФАС России",
+    "published": "2026-08-14T07:00:00+00:00",
+    "fetched_at": "2026-10-10T19:02:40.090626+00:00"
+  },
+  {
+    "id": "2a0b1ea0b41b37dd",
+    "title": "Oil prices settle higher as more production shut ahead of hurricane",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-09T02:28:00+00:00",
+    "fetched_at": "2026-10-10T19:02:40.706636+00:00"
+  },
+  {
+    "id": "8d95ff964a178f58",
+    "title": "US issues final results of CVD review on hot-rolled steel from S. Korea",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEJOOTVVSm5zb0lKbU10ZTh4bnAzLWVsOEFkc2J0OHcyR0FsNFhwMFowRVU3Y2xDSHEzNFpBdlZLSGJ1T1JIZnJGdk5ZSDJob2tWUjJRbXNtOTBlQXppelZaSElkdUY3WVNwTlBBVVlOaTR5QTZmRTh0YWVOZVJhTUFlb054Z24wenlYUlVVblpISjBVanhrNkh0ZVJJWm1pNUplOE5UelJyWFM1M0l6d3JxaHRiM2MzbnRKVE4xb3dPZjJubTZfcDY0UlI?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-09T14:56:15+00:00",
+    "fetched_at": "2026-10-10T19:02:42.726922+00:00"
+  },
+  {
+    "id": "6afe780d54e21cb7",
+    "title": "Heavy truck sales in China increase by 13 percent in January-September 2026",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOW1fckZhd3BhN0piWkVYTHY5OElpbHJMeWhUa0s1Yi1Ybl9OcElCSm1CZjc1NTlKR0hRMWFFc3ZNMGJIN2RRU0JOS1NYY3BGZTdFTkpHOE9DZGxsaU1WaU1aaUR0NDdWLUZhNU9IOHVwSUhILVhiLW1PcjhzMDB3V3VWbGI3UWFzQzNDSWR1THdJMWQzdnRQTkx1bXlNVWtVV0tRdkM0Q04xRmxJV25TbDh2ZWRIWEphbUVNQ0FXOERTcGVkYzVXMThfblVKLXc?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-09T06:32:32+00:00",
+    "fetched_at": "2026-10-10T19:02:42.726926+00:00"
+  },
+  {
+    "id": "ea03ea2e40963948",
+    "title": "Canada calls on Cleveland-Cliffs to submit plan on Stelco job commitments",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzZhNWRXZ0dYWjY4cXdjakpRdmRpYUkxXzh4S0dGYUlwNm5PRGZpYS1oR3ViY2xmcFlyM3lDd2ROT2prcXpEb0JQa1ZtWm5aUlFmSVVYdzBfbEtSTjVmVXdhanlyX0RBZ1o4dXhuaTFWdHpRTGlfN1lLNlNaOWN1VDBlWS0xTWNQTjBXRzh0ZlozY0NhdmZmdlc2S0FndzlNRWI5QVdJUjJLYXExbEJIVlA5dnJGem5UZF9WWjM5WWNsVDV1Z21lRWU0cnN5cVY2?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-08T20:31:17+00:00",
+    "fetched_at": "2026-10-10T19:02:42.726931+00:00"
   }
 ]
