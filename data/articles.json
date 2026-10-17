@@ -30454,5 +30454,149 @@
     "source": "SteelOrbis",
     "published": "2026-09-17T07:00:00+00:00",
     "fetched_at": "2026-10-16T22:52:23.590077+00:00"
+  },
+  {
+    "id": "1e52c84a8345db91",
+    "title": "Парламент Гренландии принял резолюцию о запрете добычи полезных ископаемых на морском дне",
+    "link": "https://www.steelland.ru/news/business/15843.html",
+    "source": "Steelland",
+    "published": "2026-10-17T00:59:12.355994+00:00",
+    "fetched_at": "2026-10-17T00:59:12.356009+00:00"
+  },
+  {
+    "id": "dea670a96ad49dce",
+    "title": "Buffalo получила разрешение на завершение строительства и эксплуатацию поташного завода в Дисли (Саскачеван)",
+    "link": "https://www.steelland.ru/news/business/15842.html",
+    "source": "Steelland",
+    "published": "2026-10-17T00:59:12.356024+00:00",
+    "fetched_at": "2026-10-17T00:59:12.356027+00:00"
+  },
+  {
+    "id": "074bb0750e912671",
+    "title": "Пакистан в сентябре нарастил импорт черного лома на 18,3%",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQXFqclJXZkZpNjNQYzV3VEtWSGtFY1NteGpnYWZaU3Z3Y1NnZDA3bTB6TTA2Sjd3bUxLdE1LdVBhTktGTkxtVXpzMmlZYVhwRThpT29RRUlXUQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-16T22:47:07+00:00",
+    "fetched_at": "2026-10-17T00:59:13.264294+00:00"
+  },
+  {
+    "id": "81f2fe3ada0663db",
+    "title": "Инфляция в еврозоне ускорилась до 3,3%",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1saDF6c2xfVjZTa0hPYk1QUU9taG1QOW5mYVhESVJTVkhLcjNyM3FNSGhMclkwTW9iZ3NxN2VTRklRTldPendVNTREelY?oc=5",
+    "source": "MetallPlace",
+    "published": "2026-09-02T07:00:00+00:00",
+    "fetched_at": "2026-10-17T00:59:14.228563+00:00"
+  },
+  {
+    "id": "74654f2e793ea5c1",
+    "title": "ЕЭК предложила ввести 25,2%-ную пошлину на импорт белой жести",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GbjFHckdLbDJtanQyYXpmVi1Sc0RPZ0NzVDk4bTZfSllBNkI1RHRTck9JZ3ZtWURoMHNhYnd0TlJfeWV4UUtpMVRVUXY?oc=5",
+    "source": "MetallPlace",
+    "published": "2026-09-02T10:12:43+00:00",
+    "fetched_at": "2026-10-17T00:59:14.228577+00:00"
+  },
+  {
+    "id": "ecc6db8c0fa1d85c",
+    "title": "Производство заменителей красной икры в России выросло на 29%. Почему это произошло",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0FlcmlZOHEwaVpCN0hpVktUZ3hKbGI3Qi00eXM2M0l6elVDS1pCbEgtN3ZtV3V5T2VSMEt4Y3EzNUhBT3c3azFycFk3SlQyTGhGdVlQN2tUbXY4X2hTTWlNdkpfQzhuYlF2YVhNcXVkSGhYekFIOUh3Sm5JUGhVLXNTLWZoMzdZQVNNcHdPb1kxdnJmQUZYMFFtX05uVVJSbmZPNHRfXzJXLTZsODJOZDN5TXFxbGo3Rk5YUU5uQnNEc1k?oc=5",
+    "source": "Росстат",
+    "published": "2026-10-15T20:34:41+00:00",
+    "fetched_at": "2026-10-17T00:59:29.666866+00:00"
+  },
+  {
+    "id": "15113a0972c97f02",
+    "title": "ФАС продолжила спор с «Русалом» о формуле цены на алюминий",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41S0toNHdpNmtMY3RJUk9MelFvYTdWYkNBT0thRmNBcmZjOEtpVUhkLVlaa2J4dW9tb3A5OWRrN0J4N3VabEJpVGdYNmhyUWN0?oc=5",
+    "source": "ФАС России",
+    "published": "2026-09-22T16:59:46+00:00",
+    "fetched_at": "2026-10-17T00:59:30.932575+00:00"
+  },
+  {
+    "id": "e23ee2c22ce8795d",
+    "title": "US air traffic controllers reach deal with FAA for 2.8% pay rise, WSJ reports",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVNMX1BYN0VKRnZWaHgwV25fckI3ZnozVll6bFlwb0ZRNDZCZ0JnZExJMGxjWVI5OWdoSWk4Uk1aRFZhSjBneG1TRmFLNDZCdU56NXZfMTd5Y3RGbUdYZ0lERjFsUGx6TmF2ZTZmdDBuSWptZkI4RFF5bEE0ZXdPbmVJR2Q5SHFQemxNN0pNZ1RTUzZCMXFoS0RGdHJLTUN2N3VYeXVEMkRfWDVrQXNWaWt5MGRMNTdQZ09idDRvLWRaSU4zakE3NQ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-16T21:02:03+00:00",
+    "fetched_at": "2026-10-17T00:59:31.586650+00:00"
+  },
+  {
+    "id": "2b67b1eb721a8eab",
+    "title": "French ministries' pension costs drain public service spending, report says",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUc1NlRfWEZfX1BJelMzUWl3R1VCajlweDBxX3M0bjUwMW1Yc1hLd2ZXT2hENnlJaUlXNldqU3Y5MUhmbXktdl9vMktQdFZtZVQxZnB5a0FxY1kxX05YbnVrMHlzZjZmWjFlanFINGhPN1lrUjM1ZGpFejZaZDR5bEF5ZUVaMHJWNlZKNTUyd2I3ZWFIT1NzYTZ6WkxSVGluWjgzUDRJQ2FnX2hUZTlhV085NWZXOVFPeGt0ZzBqcUUzME9PT1gtU1RQOA?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-13T15:07:44+00:00",
+    "fetched_at": "2026-10-17T00:59:31.586698+00:00"
+  },
+  {
+    "id": "97c0b8fedca9484d",
+    "title": "Germany gas storage low but no supply risk, regulator says",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUlwci1pcHp3ZkJ3TXgtNHNLdEFaTk5rREY1Y2NQZnFLcmdPREtBYWNlLUR4SFZnMElkU0hOcVdKYm9KRnl3ZWotU1dBRDRabk5BMXZZV1pqN0lzaUhCaHhOR0xxcEZoRkNwTHRMZ0QxUWlKWDRMY3l0RnJ1bk1faHRCR1hGOTBzcG0xcU92R2RyTnJ5aGxHTDU5UkUxcFhkY3RLTkpSWXg?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-15T15:29:45+00:00",
+    "fetched_at": "2026-10-17T00:59:31.586758+00:00"
+  },
+  {
+    "id": "725da96f7ddd6b3e",
+    "title": "Diesel deal opens way for more Russia-US cooperation, Kremlin envoy says",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWk1FdEVWSHpodkVsWWZfNVBla2NxcmVVcFZLNzlOd19kOVhpaFVSME1SWEpad0lrb29acTJSYlc3OGVSQ0puVFhfZXR6QnZMcG5pRGo2RFBNemFSbUV2TVdKcWpJVF9sNmJfaVJETWdldW1zWHRxMVpLT0llUU1BRmUzeGVzZ1B0clFibHFGYzlERWlXRG5BNWF6LUpnNWVQMFZFSU5BNWtjTWNCLWpvRk1R?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-14T12:19:40+00:00",
+    "fetched_at": "2026-10-17T00:59:31.586766+00:00"
+  },
+  {
+    "id": "b694fc1524c44449",
+    "title": "Trump says he hopes Pope Leo will 'get better fast'",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQnVxWERaY1daS3lFMlJIREV0WWRXWWo2UGlNU2NSSUgyQVMxcE1GMmd5UXJDQVZTcHQzcWpCS1U2YnFmY2M1bkdRa0N6eFZNZUxnaEZEaVRjTFZzUWtHdl9NY3Ezc19vMFIzbXd0b2RMdVdBTks3el9tVGhHeWIzMFB0X3R4OENNX25QTkIwUkRlSFN6OGI3R1lFa0lfdjg?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-14T23:53:43+00:00",
+    "fetched_at": "2026-10-17T00:59:31.586776+00:00"
+  },
+  {
+    "id": "e4b1e5c5d67d0caf",
+    "title": "US retirees to receive 3.6% Social Security increase in 2027",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWZySkdIZ0V1NVU2S2VLWE1sZFdWUndpRnFZWDNwYTJjTE9nSVJ3Y01QQ0g2bjUxRFdqaU9GTUdaTTNHRGZsZmxuRDNCU2x3MTFGNGwxdEN3OV9PWnQzaGloakpQMHJFSHBmd1JveVVNQV9kTmhRZHR2aTAtRWxvekVuV1YyUkp4MzdKdlBrTnBJckdvdHFKdW5YeU1pZw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-14T15:24:42+00:00",
+    "fetched_at": "2026-10-17T00:59:31.586789+00:00"
+  },
+  {
+    "id": "75f62d7053eb3e3e",
+    "title": "Brazil's CRC imports soar as August exports slip",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjR2bEZyNjJrbzhYZUtiSldaN3VicFc1anZuQlNqTE5yT1lOWDlJNkRiUUNoa0RoQUNORlJSbnlZSWI3OXJqQ3VGd2NuZ3dvZEh6Q053TDBnSUF4Nm5PcWNMdVBBNElYZ0xKVURDTThJSVA5THNKMm5Bd3NDMUR0bFBMajdKT1BsZFZrYnhsV2c1SGFvT2dTMjlfZ0pqc1FDM2xmSVhzem1fZ2Uwanc?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-09-18T07:00:00+00:00",
+    "fetched_at": "2026-10-17T00:59:33.597513+00:00"
+  },
+  {
+    "id": "1b10ebba64c1d4f1",
+    "title": "Indian automakers partner with authorized facilities for vehicle scrapping",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDl3SllLa1Vod0t2SWtQcnpWaWZwSGFKYldZSUlaM3lDaGlTUkU3VTNPMjRfbG5xcnJLeFN2N0hWZEpMdEY3R1cxQ2h5SEphT01PdUZVdnhTWnNZQm5VTVdaRFRLX3l2eXZqVFkwazEybDZnRzVzNFI1c1pkMTFrZ0RTdDlWSnB0LURTYjNuYUFiaGUwN2dGNkdnWFFfTnNtaGFmQXlTcVpPV0pKLUZMUi1ZOUJta193akcyVUpDZExlV0ViUEZyc3ZDb2JPX0FVRmc?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-09-24T07:00:00+00:00",
+    "fetched_at": "2026-10-17T00:59:33.597551+00:00"
+  },
+  {
+    "id": "865a5680d44b7c4a",
+    "title": "China's HRC output decreases by 4.6 percent in January-August 2026",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclhnU3JoeHJuODBGNlRueEZQOTZMcm1OXzVhbVg2NXhEbTB5czVGdnhYNTE2MEZxWjVVY1JJQnBEd2dJRm1HRWJpZFdkR0lSdHptNXNlRUFXbmowNm9lM3BUaUw2VE1ScVhyNml1Rm5IZ2k5aGhLREpjZ1VzRHdjRzRoeDA5UldkYWRBbVZZVzNWa0hBZTdOSkdKZlhKZ2pzMlRRS2Zwa1puSmxRNS1MUWJXQnZZUU02ZGpxX0pTMHJrMHJm?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-09-18T07:00:00+00:00",
+    "fetched_at": "2026-10-17T00:59:33.597564+00:00"
+  },
+  {
+    "id": "f1ad2295b6143e77",
+    "title": "Worldsteel: Global crude steel output may reach 2.2-2.4 billion mt by 2050",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEpzUmhNVnNUR183UVhFTXZrMGVQSTNRdFhiQVg1NnJmeUNTeHVadEFaR1ZtcEF2YWswWXJ4MmQwQWtPdHhpSmZxT09mcm92TzFJQWNEcFhmYTBNb0hMMGFzdy03ZzU2NnFqTmRqTU10NVUzeU5aWVdUcWdiQWNzaThWRV9WMm12Y0Fjb0hJanBQTFlSd2dMNnhDS0VqYnBOa0RxcnMzTjRHdm9GNzJTa2lYYTcweDhfZmIwUmVlUVhGOUhLVllUM1dfaG9KQQ?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-09-23T07:00:00+00:00",
+    "fetched_at": "2026-10-17T00:59:33.597571+00:00"
+  },
+  {
+    "id": "ded160257b748cc5",
+    "title": "Queensland advances A$1.9 billion steel and recycling projects",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUmVZaDgzSnp5TDY5R0xrQThtYmJId1FNS19VQlNPejduTlRtZnE5RnVwd3hscU9zMzQtZ0JVRGdoa3luRjdIUG9pelg1THFnQmtSM19pUjc1SUVzNUZ0UlZxRDlhZnpjZEtNSTh0QS00dHdYejlHUHl0VEVGXzBzdUEwRUJEcnROUUdsZTRzaUtjZFNHanhhMVV3VXhMbVY3bGQyX3RtOVhDT0hLZVJfZFNVMHZoMFRyLU1GLXRsNA?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-09-24T07:00:00+00:00",
+    "fetched_at": "2026-10-17T00:59:33.597586+00:00"
   }
 ]
