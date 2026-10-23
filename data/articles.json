@@ -22952,14 +22952,6 @@
     "fetched_at": "2026-10-12T08:21:54.289942+00:00"
   },
   {
-    "id": "37d7a2cbfcf0dcd2",
-    "title": "Тамбовский Металл Сервис подтвердил качество трубной продукции в системе ГАЗСЕРТ",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84R01qRENtX3lpeDJkZGVkTTNjdXR3MjFwRl8tR2hKeFFieDFXa1lqVWJFYjVNVnpNQ19PMUNxZ2RtcW5CMTNrY1pMMA?oc=5",
-    "source": "Металлоснабжение и сбыт",
-    "published": "2026-08-24T19:50:42+00:00",
-    "fetched_at": "2026-10-12T08:21:54.840041+00:00"
-  },
-  {
     "id": "1005200966ad985d",
     "title": "Десять седельных тягачей КАМАЗ-54901 пополнили автопарк компании ”Авангард”",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYTE2ak1sMnE3aENLTnBIWHNoWEk0ZnhONDFxdzRNVDVQLVJCSHBaa0tHWTdBenpYX0JUUGJyS2JjVlN2WGZQbzBlVUtkRkRDcVNSX2V3eFpvUQ?oc=5",
@@ -42494,5 +42486,189 @@
     "source": "SteelOrbis",
     "published": "2026-10-22T15:34:03+00:00",
     "fetched_at": "2026-10-23T19:44:35.621410+00:00"
+  },
+  {
+    "id": "a9b82cf389b7ccd2",
+    "title": "Цена на алюминий консолидируется у $3 000",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51Z2dzMW81ZEc5WmpYem53QnJnSkVBbHFWMHRDRGUxMjVmcm50cFgwSEpBUUZWZ25PZGhEUzJ0LXpWRTN3ZmxNb01RVQ?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-10-23T11:15:04+00:00",
+    "fetched_at": "2026-10-23T22:42:23.621692+00:00"
+  },
+  {
+    "id": "3ca83cd969cd9b6a",
+    "title": "Цветная металлургия будет широко представлена на выставке «Металл-Экспо'2026»",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzc0pkdkFhQXhENGtaVlhyQ2UxMDd1czlyS0RQcURjY2pFRWtXTFB1NC1OeG45MGJqUGVGZzdjQWhkMEJGMWMzbmhBM0JUU0RX?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-10-23T08:16:00+00:00",
+    "fetched_at": "2026-10-23T22:42:23.621708+00:00"
+  },
+  {
+    "id": "09a26f1ed9bfb165",
+    "title": "Новый проект санкций ЕС не затрагивает ирландский глинозёмный завод «Русала»",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXBnQ0FETXUzLUFDell2MmxUeHBaeTVpSzRNQmM2NWVnamowN1NsTmNlS2I5bzB1RXZaa1NONWNSZ0NILWpTNzF3NGt2WTBqRjcxTVk2NjJlTE9lUGpfMzhRQ1B5b0x0S1MyblRUMWZZYUpWbnpZX1ExOE9Rb1k0RlJDX0RqYXlwenRGRC1PTUVjSlBSTnZEaGIyOE1OLWlQWXhsX1A3a2ltX2tKMmVYNQ?oc=5",
+    "source": "Prometall",
+    "published": "2026-10-23T22:02:00+00:00",
+    "fetched_at": "2026-10-23T22:42:24.683756+00:00"
+  },
+  {
+    "id": "95bb3d602a5ae912",
+    "title": "Лукьянцев сравнил нынешние игры \"Спартака\" с \"Северсталью\" с серией плей-офф",
+    "link": "https://tass.ru/sport/28248523",
+    "source": "ТАСС",
+    "published": "2026-10-23T20:55:26+00:00",
+    "fetched_at": "2026-10-23T22:42:30.947955+00:00"
+  },
+  {
+    "id": "ef3403c1692a1e04",
+    "title": "Госдеп назвал Евразию лидером по расходам США на пропаганду во внешней политике",
+    "link": "https://tass.ru/ekonomika/28248459",
+    "source": "ТАСС",
+    "published": "2026-10-23T20:08:18+00:00",
+    "fetched_at": "2026-10-23T22:42:30.948471+00:00"
+  },
+  {
+    "id": "0b7ef9e6ffb4cacb",
+    "title": "«Мечел» готовит металлургические предприятия к внедрению российской ERP",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzBuRVZCOFQ1empQcVJEaDJXREVoM3RSZ0c2NlRSTUpMdWdNNFN2aDZ4NXZNSzZ2S2psUUpOeU1OZkRRMWxCTVlGWC1fRkVfUmhVaW83ZldPZGYzNkVFdVdJcDEyRnJnY0lfMERVNmM0dVlyOW1DQU1zbDhWbGlFdVpUODQ1UnVQV3E1eU02dVlpQVR0WDNodk1HWTIxNzRwSzMxX3gzSTYzQlE1T0E?oc=5",
+    "source": "Компании — сводно",
+    "published": "2026-09-04T07:00:00+00:00",
+    "fetched_at": "2026-10-23T22:42:32.146948+00:00"
+  },
+  {
+    "id": "c6809ffc8084db4d",
+    "title": "US investor Ananym builds stake in Europe's top ticket seller CTS Eventim, urges changes",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORExYd185M3NWdVFwU2h0X0Z4TGhtVFprR3hnQThzVTc0dm9NUHlDQjVMRWZ6aFM5OGRjcEpjSUthWGw3ZG1HZjVKMHVzMEMtT2VENFFxSXhvYktjYTNaNW9ldDBjb3c3RGhFSVF3YkVMQ3pJTWhqMWxWTGtZMm5oelQ5UXhyVkYxeVgwZ0hWaDBpTHhDNzQxbmJHZ256S2ZqMEN6elctMXU5b2ZfYWcyVnRmaEpmYzVJOC1ZXw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-20T17:11:52+00:00",
+    "fetched_at": "2026-10-23T22:42:41.115240+00:00"
+  },
+  {
+    "id": "1d2f512da98fda02",
+    "title": "North Korean internet was hit by DDoS cyberattack, network monitoring firm says",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjBybXdvb01FSWlDRkY2NmViemhIVVVmN2FXZEhPU1BJLTZBaWhKSFYxclY3c0ptQ2hxLTFVQmdNSmt6NU9Fa2NtWllwVjU2OHFCalFWc09idGNaUkVtbzdsajB1bnpkWERiYTlfbnVRMjlra3drNUNYWjhFZXg0R2VrSHg1MjJoeDNURDZleHdraXhqM3VSUjk5elY0dExvNkE0RjhOSXltTVRjZmhxSTJiSFBDUFF6NHNSWXVKeVJDLTNQ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-23T04:54:00+00:00",
+    "fetched_at": "2026-10-23T22:42:41.115377+00:00"
+  },
+  {
+    "id": "5e5861b81b6b6833",
+    "title": "US Supreme Court rulings reshape midterm election battlefield",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHJpX0tZVUZndXRmTDJCVWRtZ2xNM1I1ZWdRU3A0YTBCYjNubVA4WERsLUtlckRPdm9td0V2VmN6WFVYZ2Y2dXl6dGZRV1N3U2VlR09lOE1MbjZ0alBjNFdGb2FEWE5jSEUyWTNjaGZQTVczX2J5UkFnVC1sR01Yb0tYNElfaWV1Mjhac2czQURsNGpqbmtuQkVjT1ZVRHBBRnA4X1ZKYkhQXzYtaTE3V3Rkdk4?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-22T10:27:20+00:00",
+    "fetched_at": "2026-10-23T22:42:41.115387+00:00"
+  },
+  {
+    "id": "ae200ce3a975af99",
+    "title": "Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXU4UEVFNmN1Z1hTZW5oWUhXVXRSWDMyM2JVa1FPUEN2OGFqWEdydi1zbElVb3ZsNGo3Z0RZLUU0bG94emsxTzl3RTV3bG1zUEVmckd1aTZ2MmVjY3V3dWdtR1lWSWxlT2NwR3ROTFFnNlFianNZMS1GdHUxR3BCYTJSQlBnUk9KcEVJNXlOSF9iWjZrR0RvU1lkOWNVa3RjWUREZ1lMTkFsMUFkVmJuN3JEWFRwcE1zbHNqX3BEZU9GQkF1elE?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-22T23:17:04+00:00",
+    "fetched_at": "2026-10-23T22:42:41.115392+00:00"
+  },
+  {
+    "id": "74ca9ca285054e1d",
+    "title": "EXCLUSIVE: New Mexico's outside lawyers could collect up to $1.27 billion in Meta case",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzNZc0QwOUpsVnl2MFM4cHZieTFUQ1ZSR1VXaGlSZ1BpdzlVRFJ1Zm4ySFdtRVRUNnpNSUlQWENXTjkydjJ0VjBXYjRUTm1aeUdSZzUzRmNjWDNZcTVsS3VHUG5XajlkWkhOdG5ROVJxWGtlOHptMFJ1aUdQMGlOb2Z6RE43YmxWaTFEdUNfS0lpWUdabEdxcDc2dWFHb3M3YzhBYl9JWHR4Y3dI?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-23T15:46:18+00:00",
+    "fetched_at": "2026-10-23T22:42:41.115400+00:00"
+  },
+  {
+    "id": "411fb1d4bfb2c18f",
+    "title": "Meta has strong chance of getting $25 billion New Mexico penalty slashed on appeal, experts say",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmJDVWZDbGFIeUdUbnJCT1lxWFVMN3RJbENSdm1QRTZkcExxb3NNV1Q0UFlRbUl2Ymk2TXZTQjd1dDAtUGdvRVJxZVVrZHJwS0tULWI2YlRmV3RVUnI0emhqcXVfVmw5cTZEZ0FORDcyZTBKejh2Z203Z2t2Wmhud2FlMWl5MHY5UzRNME85LUZueDJqRnJnQnU4U3RiWlh6UDN3UEc2c1BSQUdTODd2b1F0d05jUGUwdzFmRw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-22T15:37:01+00:00",
+    "fetched_at": "2026-10-23T22:42:41.115410+00:00"
+  },
+  {
+    "id": "8b25c81c36a252b3",
+    "title": "Rising indium prices drive shift towards separate concentrate payables: LME Week",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWllHeUkySUdIZlE2bV9oSW9Bem9TY1FpaXZ3cEtLVkFwcnMzZEc2V1JaVHoxZGxsLW5uVzZRb2JXR1lSckNEY0tyMEQ2Yl9kN29sTW5Kc09BOHJkZExCSlEwOExSX3NYYlhfQU83eXJBelhuSFBNRkJ3dFh5UnFLODAxOFY4N2h5QjBic0tGS243MER3T19uODJKRXp1VzcxX0hpeHdWRkRfUGpSTUJrQVF6cFdBOHQ5?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-23T16:25:58+00:00",
+    "fetched_at": "2026-10-23T22:42:42.042065+00:00"
+  },
+  {
+    "id": "d27942941f08eb57",
+    "title": "Early publication of Fastmarkets’ primary foundry alloy silicon 7 ingot premium assessments",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1JDNTM2SGJpWUdqbG43cGg4Ukp2Y0ZnQ3hGTWx3N2oyMFdBS0ZtOFROVXYtTldWdVZRUHZQM0JSVndzLVZJWU5LaHQ4M1BZM1laTXBPLWVzUkhOVjhUOEd5Tng4SFFLRWlpYk5qZUtzMUhWaXc5N19ERHM1cVM3RWpCSUk1blBYRlhwSXcxS1hzQThGSzZlRExveDF6R2xsaVNhSFlqTjlHNllBU2ctTFFlSG1CanE1dVRBNWNJeEh5cjhYM2FV?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-23T17:28:02+00:00",
+    "fetched_at": "2026-10-23T22:42:42.042078+00:00"
+  },
+  {
+    "id": "19b5cdcc038bf061",
+    "title": "Delayed publication of Brazil soyoil domestic prices",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUlNOG14QlRMY19zOTN1UWtmNnVPSE1yM1hHTUZYYVN4ZkRPaUdETDFadFV5blVfSlBPVEs1MWxhRXhEWDJ3VmF0aklNQ1ZyS2tuLW5hUU4tYy03NEl5WlJMMXIwUWlwYldUOXNtc0pzek1lV3F1cUIta05MdXg5RHNqNFhvZmc5WTNjc3liV1IxVTV6?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-23T16:02:41+00:00",
+    "fetched_at": "2026-10-23T22:42:42.042082+00:00"
+  },
+  {
+    "id": "73b85510ebcb154c",
+    "title": "Correction to used cooking oil flexi-tank, fob China assessments for October 15-22",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnp5b3ZEXzA4cXE0aHhOWVE0QnhGZ0Z0OXB2VzRJdGxmelU5MWZuZjk1eWk5TlRKdVlsY1llQXVQalB0Q0M2NHBzS0xCY1Q4YkYwMzhuSzFJYklGMXhvUE9RTlI1WWRGTm51X2hjWVF2VW9ybVpJUzg2bXA2MkU1aFNxeWtwVE4wOGQxNnZLYlRablJHQW12VXVfTGNjVlFzQ3hEbkZDOVVEbWV1eE95LUlxcy1rU19Rd0JB?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-23T15:22:34+00:00",
+    "fetched_at": "2026-10-23T22:42:42.042086+00:00"
+  },
+  {
+    "id": "18f6a145a4906339",
+    "title": "Fastmarkets proposes calculated FOB South America lithium carbonate, hydroxide prices",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTlaYlFvRXJDdGQzZDRIbU5nUE4zSUlSY3JKNHhGUUh1ZXFsN2pYTkhTcmQyWGpzRHB2RWJobHFyZ0lERzVUM21XekEzZUFnTnF0NUVxRWtUSFNuMUFiNVJVUEI4WTJwMGdSRnZ3TEF6SmswVlNrVFhyd2xwV0JzQ2hfNTQ3eW1lcHBKTUo0MWlhak1JY2ZMTnBYU3c3V1k1YWpoMGR4cFMxVE9aZmEzMjVHbWl3LU9hUG41bmNZUQ?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-23T20:03:57+00:00",
+    "fetched_at": "2026-10-23T22:42:42.042090+00:00"
+  },
+  {
+    "id": "61f9c6ff25997e4c",
+    "title": "Fastmarkets clarifies data submission window for voluntary carbon price assessments",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFRGdDFDTXJHSEVfd2EwUnN2U2JfSFF3YVFia3dEMDZBV1JzVmlTdVlwNWoxSFlqVlVPWVZFUkZ6Y1NFUW1yT2xJXzFhQzJOdnhjR0dXWDVYRF85Nm56bFFlcy1GLXQ4ejNSTFctYjNNcUtROFhYSzJxWUYxNnJZSTRId2FXZjVJbWxkVllJbG55Zks0WUpLLWl5dV9rTUF5Z0p3T3Itd1F1Q293Zm5OQWItYTlIeXJ2VlpKSWJB?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-23T15:17:31+00:00",
+    "fetched_at": "2026-10-23T22:42:42.042094+00:00"
+  },
+  {
+    "id": "5ecdd5e2b2cd2409",
+    "title": "US merchant bar exports up 23.5 percent in August 2026 from July",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWhJT2ZjdGlJM21qVTNIY1ZFWnY4WWZyS2FWaTVJWmlPZXlLb291alMweEhBSVZEVDAtUExFVUg5VmJuUVp4SlFIQWZDNEMwSHl2RndVMXBsajVXN2NqeVI0bHJoeGJjSkgxNWJKVWVkb1NnMnpDQlY1MmJZQW5uZUh2RHNvRjhIbFhLck5vRnpIVHM4VFNZbk9aS2VPWm0tMVUxNUdJUzd1ajI3LXVGWjZtalRHVzJVbWFYM1U1MkNMMzg?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-22T14:29:59+00:00",
+    "fetched_at": "2026-10-23T22:42:43.026507+00:00"
+  },
+  {
+    "id": "361885d6668cdc43",
+    "title": "Samarco's Q3 2026 production at highest level since operations resumed in 2020",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY3paSkIzUU9GaGJ3N2tFVWxyRlp0SEM1RV9iNGw4cjNnT1p0bWZZdWxucnFtd0lfa2t0cU5seEdWTmhkRDBxR3VkQm1oQzdkY2xySUQ5Rkg0OHJEeXdmLXZ3dl9Da3hrd0ZYS3VRUTVsQUZUTExpRHlIQlF6OE83QUhCWWJnZmExam5OZHBLTDdDUHlKN3hUYXpxM2lDbXVxeTd4MWhwZnFySzhGckIyVk1vQTBIX1B2RFhhM1l6MmRvYmZNc2lxT2pwOTBaYmdiN05TQ3h3?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-23T15:44:30+00:00",
+    "fetched_at": "2026-10-23T22:42:43.026563+00:00"
+  },
+  {
+    "id": "397246301dc880f8",
+    "title": "S&P Global Ratings revises Gerdau's outlook to positive",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjFWd0phRUtCeTF4cUpCdGhIWW5WTkpudGxLbFZBM0lUZC1uLVZWbG5iSHRrODM3UEVTcWFEdk1UcGg5NEpwMkI3ay1BVk0zeU5hQkZWTzdDY3pqUHVoQnpWWURIVmx6dUlzakNOMWVCa0xEVzA2akpDVXpVRXhrSV9aNEN1TjVhWF9rUUhONklxNVRuYTBLdEZCZVIwOWllaENQU2RwakljWDl1cm9fdTNYUVpMZw?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-23T15:26:40+00:00",
+    "fetched_at": "2026-10-23T22:42:43.026584+00:00"
+  },
+  {
+    "id": "f12fb63f0caaed00",
+    "title": "US standard pipe imports up 14.7 percent in August 2026 from July",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDRpU2xzX3pjOUNTbFM5T25uTXVXTGFfeU5RazZOQW1jb0R4UUFuVVV4R21kcHNvYl9Zc1ZsRGxSVjVhOFFaRFJvM0tBWkdtX2VJRXVLQ3gzZEVDckhqYWZ5ZzhKS29jZXlPVGM3MUdicFlWaTl5Z1FYZHNkc1RjS2M2NENOYTgxUFY0S2lTWnd5S3RIWldqNEtpbHc2OWtOYlpnM3ZGclp3ZFczY2t1Y2twbk1XUnNyX0VHWHdwWS1hSjU0?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-23T14:36:40+00:00",
+    "fetched_at": "2026-10-23T22:42:43.026617+00:00"
+  },
+  {
+    "id": "b2a214f08da6e84f",
+    "title": "Brazilian steel distributor sales up slightly in September, inventories still high",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTjNKMDBpUlhPaGhmeXlrNU4xaDFtZkZJQ2JiNFBZMUVsdDRySDMyeWZVZE90WVVJWGE1TDNqYkVyRTdGU0hDa2VwVGlCYjRLcVlEbVFGdW9lYzZJSkp2Y19LTU9ETnI4cDB6VEd4RGRHTXZCNmJ5emhVSzVBcFNXYm0xbU8zanR0YVdpRkJqSjNidTRZc0hjRXZSWDdBTjZzMHJGTFNWTENEdFFZdlZaeXJuQ2JRZU1EUHRfUm9QaFk1d2lSM0V4T1BXZnV3elMzaVBOSlNQc0g0Sl9LLUE4VTk5YjZDTXRW?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-23T14:54:31+00:00",
+    "fetched_at": "2026-10-23T22:42:43.026668+00:00"
   }
 ]
