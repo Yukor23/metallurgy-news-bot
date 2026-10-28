@@ -50486,5 +50486,325 @@
     "source": "Металлургия РФ — общее",
     "published": "2026-10-28T06:55:00+00:00",
     "fetched_at": "2026-10-28T19:07:00.611128+00:00"
+  },
+  {
+    "id": "1d0efca557475427",
+    "title": "Green Manganese извлекла марганец и цинк из промышленных отходов",
+    "link": "https://www.steelland.ru/news/business/15985.html",
+    "source": "Steelland",
+    "published": "2026-10-28T23:12:10.260786+00:00",
+    "fetched_at": "2026-10-28T23:12:10.260798+00:00"
+  },
+  {
+    "id": "23453e32c41d33e6",
+    "title": "Всемирный банк повысил прогноз цены меди на 2027 год на 18%",
+    "link": "https://www.steelland.ru/news/business/15984.html",
+    "source": "Steelland",
+    "published": "2026-10-28T23:12:10.260813+00:00",
+    "fetched_at": "2026-10-28T23:12:10.260815+00:00"
+  },
+  {
+    "id": "910579a5fbc63b36",
+    "title": "Veramark запустила платформу для ответственного снабжения металлами",
+    "link": "https://www.steelland.ru/news/business/15983.html",
+    "source": "Steelland",
+    "published": "2026-10-28T23:12:10.260827+00:00",
+    "fetched_at": "2026-10-28T23:12:10.260847+00:00"
+  },
+  {
+    "id": "51a9df5af2fdedd0",
+    "title": "На рудниках ”Казахмыса” отремонтировали 346 единиц горно-шахтной техники",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1NHpNNzk0VTRyckpGRW5Od25KQnRIVi1tSEQ5STdUeHZ3bTdRYlRSenVGMHZIS0Uza2VKSUt0VTJpSXAyMWVnN0JlcjNPZFk4RGlTal95QkJHUQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-28T14:32:23+00:00",
+    "fetched_at": "2026-10-28T23:12:11.491018+00:00"
+  },
+  {
+    "id": "b037764258f03430",
+    "title": "Турция в сентябре снизила выплавку стали на 5,9%",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYalR4VU9pWjExRGpmNm9NT1pTUU5qbVRtU2JjR0hfdVdqalpncGs3dFpfT0ltMm9Ta2k0VkZ4VGg4bXpWbmNCVkZiNU1iejhKVUFtQnhMUEZvZw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-28T14:32:13+00:00",
+    "fetched_at": "2026-10-28T23:12:11.491059+00:00"
+  },
+  {
+    "id": "1e2a0369318a5e6f",
+    "title": "”Северсталь” завершила сезонную кампанию капитальных ремонтов доменных печей",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwVS1YaEFuR2xvUVJwUUNUcjM0N3o4M1NRbmNaRm84b0RubVU1UjBTWkpBZkV3d0RKeE1hMzVoNEZZcERULVhYYzYwZVd4ZTZBMFZtbjhZQjVEUQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-28T11:31:33+00:00",
+    "fetched_at": "2026-10-28T23:12:11.491115+00:00"
+  },
+  {
+    "id": "5f23450a7798c43d",
+    "title": "Выплавка стали в странах Европы вне ЕС в сентябре упала на 5,3%",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fb2xPMTF3WE1TWG5COGx2RG9ra3RHZi1uM1Boa09lU3p0UXQwUDQ1TENlUDdlckJmSXBJQy1XUGQ2MWFYUTltN1ZsRnQ1bFhhVllZTmpTNmJFZw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-28T06:33:03+00:00",
+    "fetched_at": "2026-10-28T23:12:11.491166+00:00"
+  },
+  {
+    "id": "818fc0bde0cf8e2d",
+    "title": "SAIL в июле-сентябре нарастила чистую прибыль на 315% год к году",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMkp6UHdiajVfbVEwdWN3T3lhZ0lTQ1hsSmpUYmE4ZzBWRV9mOTVQcUJvMTlYckdVWlJQYmFOekhELTNHREhNNkpCUnBaeGxvSUJUbTdXY2RzUQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-10-28T14:32:13+00:00",
+    "fetched_at": "2026-10-28T23:12:11.491238+00:00"
+  },
+  {
+    "id": "c15c629436b17b1e",
+    "title": "Президент Египта призвал расширить сотрудничество с Россией в добыче урана",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1Flc3VDNzVtcVBMY0gwa1BhUHEtbS11QVBxSEhvQmJGWnV3Um56ZW9DTXEyTUFhQTJNU3B6TTVJR1A0UElOalprallybFAxUklRT0dCeTZzdkxvOHR1SjN1MUpCd2taWEk4NEl3Q2taZ19TRXVZdnVpSGtyc3NaSmNrOHJvVW5zU0xiRjczbTlkc1BrMHJ5V3hTdnBNSnk5ZmZBTmxZeGI4YU1VNDhrag?oc=5",
+    "source": "Prometall",
+    "published": "2026-10-28T21:00:43+00:00",
+    "fetched_at": "2026-10-28T23:12:12.199061+00:00"
+  },
+  {
+    "id": "21fe5867caf212f9",
+    "title": "Прокат особого назначения",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yRUcwRWoxVlpOZHkyeHlLWXpCSEEzbTlnc0M4TUI4VFBBZVhlVDNnWXlRUFhVOEs5dnRyMTFPcC05ZFllSm9JdkNDekN3U1pKaUFaejZ2WGZqQkwtTWxpTE44bC1fdDFiNDVYVkl2WXpPTzdU?oc=5",
+    "source": "Prometall",
+    "published": "2026-10-28T21:15:00+00:00",
+    "fetched_at": "2026-10-28T23:12:12.199090+00:00"
+  },
+  {
+    "id": "eb95c8a516fbc728",
+    "title": "Магниевый стент Teleflex получил статус прорывного устройства FDA",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkxIdzhxT25JYWM0dkFvOWNobDRTWDJPaEZFWTdKazBVRmJqeGpiS0FUTWk0S3FoMHV3M2dNbWhrRkVidnk1bmdKdHRfb01ESnhQQjc2QTQ5dkgwcG12ekczX0pnWE5TNEYydTctLTF6RUJVYkN3amZkSzRzQUN0dFZUcG14dkNMSkEzVGE2NHVYUHRiaHBoSlJQdWZUUHpsQ3Fr?oc=5",
+    "source": "Prometall",
+    "published": "2026-10-27T21:51:15+00:00",
+    "fetched_at": "2026-10-28T23:12:12.199143+00:00"
+  },
+  {
+    "id": "05ffe64ccf0dbd2a",
+    "title": "В Татарстане хотят строить прокатный завод",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkhuc1pXMWpQX0tHLVNESzc1d2c4Q0t4bVlFV01KeWZFRFNWaEJselFxQkRzOHRNSWhxdjJKRW5DM0lsdWJVaGtyWGdCSFdXcFNQTmwtbDFiRGdLYkQzZmdJV2txVmRxZUpqcnR6bFRMMG9kT1RBWENwZFhBQmtzTndKY1c?oc=5",
+    "source": "Prometall",
+    "published": "2026-10-28T21:05:45+00:00",
+    "fetched_at": "2026-10-28T23:12:12.199251+00:00"
+  },
+  {
+    "id": "44fd1cae8fa9e995",
+    "title": "Редкоземельные металлы могут храниться в потухших вулканах",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmlCZTF2VmFVV09BZWx1UFhqSVNvVEFTcU9wczZGekMwNklCUEFRSHdKdWwzb1MxdTA1NUJsMml1cnFMRHdWVVk2MWo5c0kwbXFmR1pqWnRRdVVJVFNwMG5Nb081M3R6UU1kdlowam5JZUktd3pjZ3FfTWxselZVYWh5VnVRa0ppV2R3amMwU3NrXzdhUHRPSU1KR3Q3UTA?oc=5",
+    "source": "Prometall",
+    "published": "2026-10-28T21:05:00+00:00",
+    "fetched_at": "2026-10-28T23:12:12.199297+00:00"
+  },
+  {
+    "id": "7b4820469ae5560e",
+    "title": "РНК планирует начать производство стали в Волжском с I полугодия 2027 года",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oQTlLZnU5OGxXbTFsYnJHbFhaOXQ2ZmhCUTdnbzFDeGtyRkpGaHZRTlRDSDBpeDNEcjhaUDlveWRzZDEwNzh1UEtFSG0?oc=5",
+    "source": "MetallPlace",
+    "published": "2026-10-16T11:57:26+00:00",
+    "fetched_at": "2026-10-28T23:12:12.809495+00:00"
+  },
+  {
+    "id": "ba252bf9e347c2e5",
+    "title": "Цены на цветные металлы до 2030 года останутся ниже рекордов",
+    "link": "https://www.kommersant.ru/doc/9063175",
+    "source": "Коммерсантъ",
+    "published": "2026-10-29T05:00:00+00:00",
+    "fetched_at": "2026-10-28T23:12:14.813429+00:00"
+  },
+  {
+    "id": "f7ee86efe6627047",
+    "title": "ФАС опубликовала ценовые показатели для расчёта НДПИ на руду и уголь за август 2026 года",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0ladFRaOG8xTzl3dVgzUU9QbzFtQ3V6WHRIeEVkMGU3NjRsZ21HcWtSRjQyTURuRmRheFJ1LUsyOFR2bEtpRGxySXR3N29GZi02ejBKZHlfSmhSVHFOTy0zVi1zYkRrXzlNV3J6MnJtbUZGcGo4SmlwejB2aG81VFRudDRhc2FkSDJxM2NEbXdHU2JfaWxZOG5tMVdDMy0tZE92SEdrTVk0b1NLUXVYWkgzVWpGckstallGdkFUY2UxUQ?oc=5",
+    "source": "ФАС России",
+    "published": "2026-09-17T09:40:24+00:00",
+    "fetched_at": "2026-10-28T23:12:28.750691+00:00"
+  },
+  {
+    "id": "a8a4b20400e9c1c2",
+    "title": "Gold slips on higher oil; markets assess Warsh comments after Fed holds rates steady",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T06:16:00+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477175+00:00"
+  },
+  {
+    "id": "182b0f855c93faee",
+    "title": "Britain to extend upcoming carbon border tax to include refined products, documents show",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnlUN29fcC1uQlV6THNJMDZRdGFXZlZSYktUaU9pZjZOQzV5emhTYTFOM2pqSkhaNHZDWkN0Vldia1EyODJ3U3RKaklQOXFCaGdOQ2pacEJ1S2RzbVYzVkRjaGhYMmpnUUhlTGZ0V3lWNURlMTZZZHBKdldQSVhtVjNHTDVEdEhLZ1V3SHhBb3lTYS1kWU5xU1FZTTJURlJVamhoNFExeEE2QlhoeDdHVTdJZ0wwNUsxUmVtWTloY1h4eW5OczhJ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T16:07:08+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477203+00:00"
+  },
+  {
+    "id": "06bb14509b9a8ae3",
+    "title": "Indian tax officials visit liquor maker Radico Khaitan's offices amid Scotch imports review",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUxyMUFTSm1EMGstLWN1TFBfN29lSW1USF9UNTNFQUlEakl6XzNPZm1IYUhXeHlxLXFZbXpQcmRjZVpTUUFsUWJmSjJxTVcydVF5QmVBc2RPeWd3V05pSWJDbE80dHhLTzMwWVFucFZHM29EeGJGWmdiRlpIR1laSlpuYUs0OHpmNC1mal9icWZmcjduT29MNkZHWlo5LXA0T1dpeEhnWGpzbm9lZnFZWlVURWZrbDNYNzROQnF5d0c?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-27T16:19:33+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477300+00:00"
+  },
+  {
+    "id": "b9d99593fe6805a8",
+    "title": "In China, the AI bubble has already burst",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-27T12:37:58+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477404+00:00"
+  },
+  {
+    "id": "6eb3c8c6df39c7c3",
+    "title": "Wendy's gets $1.4 billion take-private offer from Peltz-led group",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnFKUDFDOS1hQ2VWYzRDVXdvOHJ6dkhDeG5ITElPUzc5SkdZN2FxMXhVeFJpb2JEZlJZN0ZzdUVIQ3VuUC0xeEhrVTZza2RNNHpTQmx3bkh0VjBwSE1sWFdTdXV5dDdibmtnOXBRZWtoMzMzUnRSOTQzclNHRnc2UVlHQlJncE1NYmFFMFlwZGt4RjU3YmJiS0VibUNpUXV0M3M3czRsbW5HQnM?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T19:11:27+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477412+00:00"
+  },
+  {
+    "id": "7cde93d0c6c7b38c",
+    "title": "Bank of England orders review of Revolut product approvals, FT reports",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFBGeDY4NHNQMjVXTHVXdl9QVnlObUNSQ25wSnBZM2NpTTdxWHdjX012QzNpOTFkQXRHRTVLTHBocUtZT2xabWtSRGFjdnVGY09kb3FJc01BLXo3LWdRdzJzeXB0RmR1X1dpX0stdmFkQzdlUDl5TjJsVF9iOUEyRDkzNjk1d1hndnRfclNxNEFZZ3cwRGV2RU1CYzhicWZmb1hDWE5xM000X1lxempQX3Zad0ZDUEU?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-27T05:19:00+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477425+00:00"
+  },
+  {
+    "id": "bdd4cbe54367dcdc",
+    "title": "Bank of Canada raises key interest rate, says another hike possible",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUNfMFh2VXFuRUpyWjNldzQ4dmZROU5kNjhfUlNoXzd1UXNWV0NiTXJiclpmYUlnS1dFUXJ0QkVPVno1VkJxaEpOUDc5Qk5PS2ZBR1NUbE5RSU5ja2FRQmVpd1VZZWhmdjl6dzRFTE9hNGJvWHNCc2VFN2NFQlNvYzNtdjYwWnVoNmdIZUdMRkZBbHY2OTJ1OEpvMFlRYkRHY2ZVZmZKM2RUdU9IckpCMzV2Wm4?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T15:33:08+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477432+00:00"
+  },
+  {
+    "id": "ce12491663398904",
+    "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T22:32:38+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477439+00:00"
+  },
+  {
+    "id": "1d819e5ebee2722d",
+    "title": "36 countries to compete in Eurovision 2027 as Ireland, Netherlands stay out over Israel",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbWZYNkRlbEpKa0JIaTg1SDR5X1NMZHdGUmlRV1B2blhMTDlFa3E2ZWFzTzJsa3pGUGQ4aW1QV0c1d3J0WTVPbWNoOGtMbjJJUEpKTm1uWllIOW9HN0xpTEZsSG1oY0x1VmNmcG9sWWxMem9ORFotekdtczNwU0tWRGVqSnZieklnNVV3Vk9PdjltSXJvWkRtTzM0X2o0aVRnSU1HRkM1ekwxSHFJLS1uVmFRaVJSdVZETGE3SVR6ajI0R1JKaEszN1JXNkxkNENQNjZqTnRB?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T12:58:44+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477452+00:00"
+  },
+  {
+    "id": "23157535a7c83106",
+    "title": "Meta delays indefinitely its rollout of new commercial terms after publishers' concerns",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmxxX0JFWUowUGY3OXdUSDhwZkkyampiYmZUbnNVOF8tVXNMdExmTWp1TVBFTmQxQkluZUp5UHg2QTZTS1JkSlMxV0VWRURtSlZZai1COUFOYUF6RHo3aDZfMUJ1Y2NWSFI1QXQ5cExYUlgyQ1VUWkFYSkZmNlJjWFZYR01sYjVhOFFUb1RMc0hVUXBDSDh3QkN2OUk2U2FoUnFLVjhxOGFzaWNWZHYzZVFKR2Z3eC1xMWRSX1QxTzZoR2NGaWNJR1laMHBuZw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T18:39:43+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477460+00:00"
+  },
+  {
+    "id": "e2b83573af0e6aca",
+    "title": "Equinor warns Europe is vulnerable to winter gas price spike if cold weather hits",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEt6cnhrTXVDSURqaGNVdGRlT1l4QzNJN3NHcDB0RHB5emRCTWhxYy1LZHVTdDhGbmxmNHBRNWFVR3RWd2lfTlF5bDBNd3lTSkRfTUJsSHZBQl83dldKWkNyemwwdzA4QkxOdGFEZ2VVdGNGOW5TbWZpMmY5M1JIaFg5YXNkRmRObF8wMWp3dDFEOHJhZjRSQTUwc0pGSU1vRFBsQ3lPMDVmTmZQM280S3huclJjdnBXdnpZTHNURGIzLUduMU1DM2tn?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T13:26:09+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477470+00:00"
+  },
+  {
+    "id": "fa228150de43d8d9",
+    "title": "UK homebuilders slump as budget's first-time buyer scheme disappoints",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVnNKeVZDczBqYWoxcmRkaUFBNkZaSFNnWmZHYXZ3QnJsMVNSQ0pLaWVnZUZvQXJqeDl2UWJxY0I4NFhoWWhRdVBUR0dnZE5tRjA1cGI0SVQ2ZW5OMFVVdG5xR19YVGZCczA3ejZvWndoNy1vbGk0eWJ4cE00cjNMdW5OUGtsNElmZUZtaGpFZlNWbk9qT0FuLURZeTBjX1V2STZmMVVseUVxZ004ekVEM0tsX091RjliZHRTRWE0QkdVQQ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-28T17:00:24+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477486+00:00"
+  },
+  {
+    "id": "9e940eb52f9106c3",
+    "title": "EU readying for major Australian resources investment, ambassador says",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDVZNzBPZU51NVFRd1ZtRXA1WDhWZURsbjdFWUFnYzE4eEpGT0hZcHY3Z0lwY3FaQmhIUTJIRlR3TGZ0LXBQeGw0ZWIzYl8wYnBidVJwUHlJRnlhNVZkbGFlLWxDcjVxcTB0UU5kNkM2V19CWW9MazBPTFp0ek9GTkpxWENCaXFnUFhBcDJjNmhzMnpvUXAtUFRmMVR3N1F1SngwdVo1dGVZUTQ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-10-27T08:57:47+00:00",
+    "fetched_at": "2026-10-28T23:12:29.477502+00:00"
+  },
+  {
+    "id": "6a845014435e0824",
+    "title": "Product Marketing Manager, Metals in Multiple Locations | Ratings Forward EMEA Virtual - October 22nd, 2026",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXR2b1IyMXB5V09ZNlRENDIyQ3dZM2F6RWFETDRsNUNKUmUyWlRLRlZGa1d6SkN2a0pwRmtEbEN3MmhfWjVpN0dhX0RpQ0tQLUE0Tm9oN1NKXzA4cEJudExKdmpkeE12aWZmUVFlM2J1b1R4YkE1ams4SDBaQTJRU3ZoM09YSXc?oc=5",
+    "source": "S&P Global",
+    "published": "2026-10-26T06:08:08+00:00",
+    "fetched_at": "2026-10-28T23:12:30.001202+00:00"
+  },
+  {
+    "id": "3e3484c525698d6b",
+    "title": "US-Canada trade negotiations pressure metals prices higher",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOV9rc3dWcU5vWUprOUp1a3ZodzNVUTFvRWltdzZHWWNrNzZVckpiOGs5SXZCalAyVV9FQ3dxUHczcVJNYTkzSlhYb0QxZjI2ZlhlZ1N1cjBSN1hGY3FIZC1PSVFHWXQ5RjFsZ25vOHhTSmhWRjNGTG96S2kwRFZjYWtYalZrcC1pR1B5ejVvdVNyOVBWUEh2VUMxREZnRDBpMGtLOWFOMU55SzYxSFR6dHNXZ0tWOWZxNGRoVkUwVl81QTRuSkg0?oc=5",
+    "source": "S&P Global",
+    "published": "2026-10-02T07:00:00+00:00",
+    "fetched_at": "2026-10-28T23:12:30.001213+00:00"
+  },
+  {
+    "id": "5152aab2b5092767",
+    "title": "ArcelorMittal advances €1.3 bln Dunkirk EAF project, progresses Mardyck expansion",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWJvOVd4VUZwRDZlYnRaZ01uR3hsMDVXMGVPZ3Nva0trX1ZWd2t3T3hrOTZYcXdiX3VhT0hCeXdDNEN4LWtfalhaZXVUOUFyYUhZWFA4NUFCcERiZk05OTNxMG1tRE1YOHh5clF1YUprSXJVOC1veEFZNkxwaWdWVHRjU25IdXNXV2RNZ1JxeFlBbzAzTEtzaUxNRUhlTVd2UnlEMVFVOEdSdll4NFltYlFBQjYzOWd4SVE?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-28T09:13:56+00:00",
+    "fetched_at": "2026-10-28T23:12:30.487451+00:00"
+  },
+  {
+    "id": "a78439867960b3ba",
+    "title": "Correction to Alumina index, fob Australia and inferred prices on October 26",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjZZMTdFcEdhUFYyWkhLYm9FTlBwNFV2THo3OHpreUxuaDBXV2c3VllwRmtMaTZRNWN1bTVkX2pNZDc0TWtreUszN1VhLW9OZE1SZjhCdzJHRm9MT2k2U0czQjBvTktnVTVtSXM5NXg4bkxwdDVaZVZYSzBWNDVlR1duNGo1QnhoRGFzNVBPRFo2cU5FdjktX2o0Tk03UlV4cGpOM3A1b3E1b1BST1MzSmVYUQ?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-28T18:33:02+00:00",
+    "fetched_at": "2026-10-28T23:12:30.487475+00:00"
+  },
+  {
+    "id": "fef733a1bd883cb0",
+    "title": "Correction to rationale and trade log of cobalt hydroxide 30% Co min, cif China assessment",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNzhzeFRYd1MyNWZndXhvZW4tblk0cXU2cVUwMjhoQVl0MTdiS1h5QkpKa2NqVDZZekREYVRjOUVBOHRJLTJiTldveVlRVHJfaGZqNW5PTnFvUEQ4Nzc2bGM4TmxmSEFrY0habVZEbVJmN0NiYkFsc2hKb0dYbDBnZXNNTnRtSWxlQzNYd18xdWlqNzh1cXFTVmhMOXBYMWFNS0lzX3FNM25pdl9iVHNFZWVqWWlWZFNYbWV2bkFETXNyNFhT?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-28T19:38:11+00:00",
+    "fetched_at": "2026-10-28T23:12:30.487482+00:00"
+  },
+  {
+    "id": "4cacdec9a32b4d48",
+    "title": "Nia Radenkova",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiTXVaaHZGZ1dVd2psd05vejAyYml1STRTQVJQbzhPVlV2WV9rVjVXTDduWjVuYmZtcVRmdzhHT1JPUHFRQ29pUkpiUlNEYWhBN1hSUjBGMGhvUFpYbFpUVV9MbDJ0aFV2?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-28T09:13:01+00:00",
+    "fetched_at": "2026-10-28T23:12:30.487513+00:00"
+  },
+  {
+    "id": "b9e94d77767e843f",
+    "title": "Fastmarkets proposes to launch kiln dried Cypress prices",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGQ2cVBtSmhrT2tUMUxVWmJOVWZHTXY1dVY0bWpRZkxOM0w4UUpkQ1U2UGJ6am9JdTNpNV9ud19KY3JrVDdZQmFYTFdfRmNLQW5nd2xQT25rcVJqUlBsNWNHWDhjUEFTQTBrQU82aTVVVEhZWmRtMzNkVVpuMkIyQ1pmMUMtdVFQWENSc2F4LWczR0tURGZ0dUF3?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-28T20:08:22+00:00",
+    "fetched_at": "2026-10-28T23:12:30.487520+00:00"
+  },
+  {
+    "id": "431ccce339103bd8",
+    "title": "Fastmarkets proposes to launch Eastern spruce-pine-fir 2×6 10-ft stud prices and 2×3 straight lengths",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWDlPd0FrSzJnS1hSbEhFa3dRUkFNYVJaSEFraGM1dnQ0Xy1mQU1FblprQjBuM01NSzRJaXBQQTZTWEkxakg4YzMzUFljMm9XaGVKMXZmVm1kT2JHZUVhYmpyUmZDRzEzS1FLbXFTcnA4dDhySDdGb2tuWklPUUJXXzNyNDFwVVAtZHZLMHluWUxyeW1aSzFtZjRPTk5rbTB4VW1ESEpWdmJaR3ZkT21wTFlyaHVUQmh5VC13aUFjUjBocUFEMGFWN1JQV2pDOEEzcURod2Zn?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-10-28T20:08:22+00:00",
+    "fetched_at": "2026-10-28T23:12:30.487528+00:00"
+  },
+  {
+    "id": "5e91d8841677c4e4",
+    "title": "Fed holds rate steady, awaits more data: Update",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUtwekJqaVpxSWk4VVdCLXZaV2JxTURWWDZvandDTmVxUnF5bjhrcDVsY0FCQVkxdHVrUXVZNl9rOVU4ZVRrRENkOEl5LVJLQVZxSlZvRHpucFNKMWtCdTFXbmZRdjVBQnpQbUtFSjA1aFFMS2RybVRCZG9KSkxfdU9tS2Y3VXhPc2REeW1HdXpfdkIwV0NOamgzMUdqV3ZZdXNrc0Y0d0Z3WnNYdGw3ajRaZ1ZiejJO?oc=5",
+    "source": "Argus Media",
+    "published": "2026-10-28T20:22:18+00:00",
+    "fetched_at": "2026-10-28T23:12:31.026637+00:00"
+  },
+  {
+    "id": "d0016d0697673f45",
+    "title": "Mali authorises carbon projects for Article 6",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjAzVm01b005bV9OTGNyZWF5YzlodElNblJuMWk1ck5jSFdrZkhrWjFnbXdveTVWQlZwTURVS0xSaEtvQUpwcGtibnJKSHFIdVVhNFNLMDByYUxVU3BRUjdidmNwaElhemRBMWFIRUhjU3pnZDZiZE1yUmVDYnBSaFNEVGF0ck9KTnlMOTM0dWZIR0J6OEUyeGticW9qdTJOckFEbDd5bjdSM0ZUX0JtekhHT0EtalFG?oc=5",
+    "source": "Argus Media",
+    "published": "2026-10-28T20:22:20+00:00",
+    "fetched_at": "2026-10-28T23:12:31.026650+00:00"
+  },
+  {
+    "id": "e5cf3b6210d48205",
+    "title": "Fifth Brazilian iron ore miner halts ops on high Brazil-China freight rates; low ore prices",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLVdKb0tBbW8yZjVlRWNLdVdCa1cxMENaRHZnT001X0hWNGpmb2ZfbkZDMnpsNUNDZTdCR2hWUUg2WDFpa0xRbXZsMzM0OEtSNW54MHhGTFJMV1hhd2E4Z1hIZDVyUnZid3RKTXlQRmRkN1BWV194cEczTmRHdU1KNnBxWkF6NDR0NE8tcTl2RV9jcGowTGFsdVpTbW9KdFFpZWI2b1p4TExUR3lvTTV1TGNMU1VBLXRObVlTUUN6eEpJOFRlM1JWRDFfLVFZaWVFUGFJT2s4dXQ5bmk3QTlFQ3cwcVhtZk9RaXBiaXctbmQ?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-10-15T18:51:20+00:00",
+    "fetched_at": "2026-10-28T23:12:31.804163+00:00"
   }
 ]
