@@ -320,14 +320,6 @@
     "fetched_at": "2026-09-11T07:35:10.114057+00:00"
   },
   {
-    "id": "e104d624113a45f4",
-    "title": "Сталь прирастет фрагментами",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jYjlzTlNZQlR5UkhraHRMWF9LRE4wSXlWY1o0UE1wZV9WZGF0eXFITHhxVnM4Sld6WUgzLXE3SzJOWVdSUEM1cEgwOTdrdw?oc=5",
-    "source": "Коммерсантъ",
-    "published": "2026-09-08T23:35:30+00:00",
-    "fetched_at": "2026-09-11T07:35:10.114072+00:00"
-  },
-  {
     "id": "2bb446bd049e1c18",
     "title": "Дисконты под огнем",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QdlFlUHBxeDQyWWF1U1RnQUtXYVZQYXkybVJycmZJMzBlcUp1dEprUFE4VURsc1poWUJ2cDVSWDBpX3V2WWVPSGxBeFBwZw?oc=5",
@@ -342,14 +334,6 @@
     "source": "РБК",
     "published": "2026-09-09T06:13:16+00:00",
     "fetched_at": "2026-09-11T07:35:10.743580+00:00"
-  },
-  {
-    "id": "ea042a23dc700139",
-    "title": "«Электроцинк»",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NMHJJUnFqaVVFZTN6OWZBLVplbU5QVXcyWFczdEtCUEdwRldVTUJRLWVjemoyLUo3WTUwSGpHWkcxNl8xbXllcnFBdzhoR2Y0bXJScjBNVQ?oc=5",
-    "source": "РБК",
-    "published": "2026-09-09T02:13:46+00:00",
-    "fetched_at": "2026-09-11T07:35:10.743590+00:00"
   },
   {
     "id": "de343fa0809858ff",
@@ -64966,5 +64950,29 @@
     "source": "Reuters — металлы",
     "published": "2026-11-05T21:34:38+00:00",
     "fetched_at": "2026-11-07T23:03:41.392849+00:00"
+  },
+  {
+    "id": "3005233a8047cd3f",
+    "title": "Норникель представил в Китае ИИ-лабораторию новых материалов - Комментарии к новостям",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XSER3NTA0NTVrMXhlMnNxY0UzaVYwNFh2VW83X0FrZFZ2dXlSU09KR3VPa0k4R3dfSXhhNHNVQ1pnbHpyVHJqdUh4VkVCcVB4WDl4QXRaSkpaSmZsTEhRMEZ3?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-11-06T05:38:00+00:00",
+    "fetched_at": "2026-11-08T02:22:26.554542+00:00"
+  },
+  {
+    "id": "4dcd8fe8917416c9",
+    "title": "Европа готовит Закон о циркулярной экономике",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2taMGZZSmxPXzNoVERNUlpaWjIxeENvZ2VsVTFYNno5VTN0emQ5eW5SeUNib3R6Rm1yWDI2YTlIRGJoeTNGRmN5YlFKelpkdGZUVDZMY0xTeUJGbGdXMUZONXNiYmJZWWJ0R2NLbGVpbzlEZERpaXdQOGlsSHZ2T0RtdVN3Q1pZ?oc=5",
+    "source": "Prometall",
+    "published": "2026-11-07T23:28:00+00:00",
+    "fetched_at": "2026-11-08T02:22:27.209499+00:00"
+  },
+  {
+    "id": "ab3ecf33da1fa029",
+    "title": "Trump says \"let it take tariffs\" to revive U.S. steel jobs",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0ekQ1VkZaRjUxSkpLalZ5bUNIMXJSVDVRZzlZdHVzTXFaMktyY2s3SHVwd3hxejdFaW1ZcUZuNGJfX1ZaUWxEV2YyUWlZZEEza0toUm9TVWxzZTFI?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-05T13:06:47+00:00",
+    "fetched_at": "2026-11-08T02:22:42.313833+00:00"
   }
 ]
