@@ -256,22 +256,6 @@
     "fetched_at": "2026-09-11T07:35:10.114037+00:00"
   },
   {
-    "id": "a7c1081dc6eecdc3",
-    "title": "Металлы потянуло вверх",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Va0ozbzFYVW5rSDRQbm1Gc0NnX1ZmVjJSRUlGR2tiR3NRVUdOc29rUWgyV19WN3FtemxLaWdSYWNwYm5zUElTaG96cW5XZw?oc=5",
-    "source": "Коммерсантъ",
-    "published": "2026-09-09T18:01:49+00:00",
-    "fetched_at": "2026-09-11T07:35:10.114057+00:00"
-  },
-  {
-    "id": "2bb446bd049e1c18",
-    "title": "Дисконты под огнем",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QdlFlUHBxeDQyWWF1U1RnQUtXYVZQYXkybVJycmZJMzBlcUp1dEprUFE4VURsc1poWUJ2cDVSWDBpX3V2WWVPSGxBeFBwZw?oc=5",
-    "source": "Коммерсантъ",
-    "published": "2026-09-09T17:03:43+00:00",
-    "fetched_at": "2026-09-11T07:35:10.114077+00:00"
-  },
-  {
     "id": "de343fa0809858ff",
     "title": "На Кубани объем отгрузки в машиностроении за 10 лет вырос в 2,6 раза",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCTVNXUjJ3b2N2eGhqZ0dvaTRqUEp3M1lPZ0hVN1Fwa2Zma1g0MnB0UVJuS3dmdkpDZEFWNk5lQVhfYl92WTlPbm9ha2d3dm91UEZNNmloM0ZYaTlWbmF2ekxjd1pYMGFxZUk4QkhrVGNGVWozRGp3bXJSd9IBe0FVX3lxTFBCTVNXUjJ3b2N2eGhqZ0dvaTRqUEp3M1lPZ0hVN1Fwa2Zma1g0MnB0UVJuS3dmdkpDZEFWNk5lQVhfYl92WTlPbm9ha2d3dm91UEZNNmloM0ZYaTlWbmF2ekxjd1pYMGFxZUk4QkhrVGNGVWozRGp3bXJSdw?oc=5",
@@ -13158,14 +13142,6 @@
     "source": "MetalDaily",
     "published": "2026-10-03T14:51:40+00:00",
     "fetched_at": "2026-10-03T22:24:36.966843+00:00"
-  },
-  {
-    "id": "c15954a84a90b8d8",
-    "title": "Новости металлургии — 09.2026",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04Ui1QcG5WRFFHX0JMOU50Z0JYVWpwTnEtUXpWdHlkeEtxZ0lTWFgybWhpZjJaVHdjbUZkRkstZmVNb0FIdVc3eVRiVmhPbmR5MHhaQkpn?oc=5",
-    "source": "MetalDaily",
-    "published": "2026-09-09T18:56:34+00:00",
-    "fetched_at": "2026-10-03T22:24:36.966863+00:00"
   },
   {
     "id": "ea43dbf0cd9f755f",
@@ -65110,5 +65086,125 @@
     "source": "Argus Media",
     "published": "2026-11-05T17:12:39+00:00",
     "fetched_at": "2026-11-08T16:06:55.589924+00:00"
+  },
+  {
+    "id": "96b23d6bc55dc96a",
+    "title": "Горнодобывающая отрасль Австралии требует льгот по налогу для геологоразведки",
+    "link": "https://www.steelland.ru/news/business/16113.html",
+    "source": "Steelland",
+    "published": "2026-11-08T20:27:29.342488+00:00",
+    "fetched_at": "2026-11-08T20:27:29.342506+00:00"
+  },
+  {
+    "id": "6510de4ea28c0ce9",
+    "title": "Код лидерства: как сохранить устойчивость на сложном рынке",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WUXFQZi1zOVFYN1RvLWluS09odVM3R2MtSi1YazlXbXp2QnoxWWNsN1pYbExRX29iN1dmX0w5ZUJNMmhOdEVRTXdUTDJFTkNZ?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-11-05T13:38:00+00:00",
+    "fetched_at": "2026-11-08T20:27:29.969939+00:00"
+  },
+  {
+    "id": "106aff7b9d47967c",
+    "title": "Производители кранового оборудования представят свои возможности на «Металл-Экспо»",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxcUpWeTJfYnprc29LUXpEQ1pxempHOVFEak04eDVwUThXdkFsYlFvNlpaRnlHY0pFaWpqMUlSNFhtTGY0aVJDbjQ3NzZ3a2o5?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-11-05T09:36:00+00:00",
+    "fetched_at": "2026-11-08T20:27:29.969955+00:00"
+  },
+  {
+    "id": "ea827b00da439285",
+    "title": "10 ноября пройдет пленарная часть и церемония награждения победителей конкурса «Metal-Vision’2026»",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4TDlEYUF2WUhoYXc3TklfYWZOQnBuVVhPeWJTVDRMTGlFal9ucG5sSER1NURSYndYMmZtRFpSVy1OWDhTN1hqMHJKNXBLV01t?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-11-03T04:35:00+00:00",
+    "fetched_at": "2026-11-08T20:27:29.969977+00:00"
+  },
+  {
+    "id": "4439a4a262438022",
+    "title": "”Северсталь Стальные Решения” поставляет металлоконструкции для Хоккейной школы ”Буран”",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pWnFYQTFxWjNWc2NneGhMdnd5ZGlzYTVqY0ozbC1RYmVLM3o1aVlrQUxlcU45X2E3bUJ6RTdZaUFNUnpYUl82Wm5sRUU4STZ6UFY4dnV1TlRXZw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-11-08T15:10:32+00:00",
+    "fetched_at": "2026-11-08T20:27:30.301756+00:00"
+  },
+  {
+    "id": "219e2b79c19c8338",
+    "title": "Бразильский экспорт стальных слябов в октябре вырос на 45%",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMWGNMRVVHTXlOOTdmN25ob0MzUEc0V2J1TlprYU9VcXJMVEUwbDQ5bmVuWkg3SjRZdVRwVmxXejQzMzVNRXFRY1h3YmljQUNKOGdYVzNJMmZZdw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-11-08T15:10:16+00:00",
+    "fetched_at": "2026-11-08T20:27:30.301770+00:00"
+  },
+  {
+    "id": "0e09270b5c5998ab",
+    "title": "На строительстве Ленского моста в Якутии приступили к устройству ледовой переправы",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hM29zZGdMbWNmSXZXc1JSSVRiTVJjdHNWVEY5aV9lSkdCQTVSOTVleWJuVFZDZVRUeTMwOUNac1ZpOU1kdmllU2FxNUlDSTRmaEV0bzRtRFlyQQ?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-11-08T15:10:22+00:00",
+    "fetched_at": "2026-11-08T20:27:30.301839+00:00"
+  },
+  {
+    "id": "f1cc738630ad9d5d",
+    "title": "Свердловская горнодобывающая отрасль решает кадровые вызовы с учетом роботизации",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzb2p2SEc3d3lEMk1XdHNoVGl4VklSUko5ZnNwQ0c5eTNGNUJKb2ZPWk4yUG5TWGRCS2s3ZGNFRF9kejRrU2pYMGpzSUsyY0NjX1ZPY0Q4Wlh1Zw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-11-08T15:09:55+00:00",
+    "fetched_at": "2026-11-08T20:27:30.301874+00:00"
+  },
+  {
+    "id": "d11c852d38e71684",
+    "title": "На Запорожской АЭС восстановлено внешнее электроснабжение",
+    "link": "https://www.kommersant.ru/doc/9092312",
+    "source": "Коммерсантъ",
+    "published": "2026-11-08T17:37:10+00:00",
+    "fetched_at": "2026-11-08T20:27:32.800066+00:00"
+  },
+  {
+    "id": "a433402883f5d07c",
+    "title": "Beget лишили статуса регистратора доменов после кибератаки",
+    "link": "https://www.rbc.ru/technology_and_media/02/11/2026/6ae8876e2273f59e1557a612",
+    "source": "РБК",
+    "published": "2026-11-08T19:54:54+00:00",
+    "fetched_at": "2026-11-08T20:27:34.069484+00:00"
+  },
+  {
+    "id": "4131b8e75939b0a7",
+    "title": "В Турции запустят «стальной купол для медиа»",
+    "link": "https://www.rbc.ru/rbcfreenews/6acf62628aff6683cf0c33ba",
+    "source": "РБК",
+    "published": "2026-11-08T19:41:31+00:00",
+    "fetched_at": "2026-11-08T20:27:34.069561+00:00"
+  },
+  {
+    "id": "89a07e56d0415519",
+    "title": "Внешнее электроснабжение Запорожской АЭС восстановлено",
+    "link": "https://www.interfax.ru/russia/1127699",
+    "source": "Интерфакс",
+    "published": "2026-11-08T17:24:00+00:00",
+    "fetched_at": "2026-11-08T20:27:35.711258+00:00"
+  },
+  {
+    "id": "33df58792b5cad49",
+    "title": "Activists breach Microsoft data centre construction site as protests spread in Europe",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-06T17:28:19+00:00",
+    "fetched_at": "2026-11-08T20:27:45.236731+00:00"
+  },
+  {
+    "id": "035604a0a1e8e72f",
+    "title": "A&O Shearman's $1.1 billion AI plan builds on law firms' tech investments",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQblM2cm9BNktXeTQ2NUhMOVkzNXpMSm04Yl81c1g5bW9iUzFEWVpJZXlzeDZQTFJub1pKaER6RmFTdmhDcVJfbkl4WlNzWWpxU2dCZ1FWakdKR0NlaG9zeEJLSVVJQnFTUWdDNGs1RWlVTTNITjIyeEF5OTdKSFhMZ29sakVMVUhaTjRCX1J1MXhqODBVLWFEejVybXJMNzhqYzd3Ym5Eb3drdDNKeThaUndKN0RwdThPRE9ibVBB?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-05T21:45:06+00:00",
+    "fetched_at": "2026-11-08T20:27:45.236793+00:00"
+  },
+  {
+    "id": "431efa0932a65e50",
+    "title": "Growth in global goods exports slows amid rising transport costs in October",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc0RkeHFvdWFCUWtRaTJ2aWZubTY5U3AzX1g2YzctYVdZSTVtSUFCbkgtSmk1T3JDVTB1Q0NlSDBWc2JrTFE2NFF3aFBFZjRkV19DRXZDZ05uRHlCRUZQUFhYWkJuNG5XeURqdXlib240Qk9ydVJlOUlSSkZCVVhZMlNEVHQwdVBEWVF1SGl2RUxSRktDQ21hSHJidGZVUHFzMzlzWkI4UDNWRWxISW9XaFg1cm5Ba3FLRTNob2Y3TjNJSWR6dF9aZ3lpYVJNeC1HbUUxY3ZXXzdGbHJ0R2U1cnBIRS1pZ2ZGcWc?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-06T17:44:25+00:00",
+    "fetched_at": "2026-11-08T20:27:45.646594+00:00"
   }
 ]
