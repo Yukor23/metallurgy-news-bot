@@ -1,27 +1,11 @@
 [
   {
-    "id": "c70305195405b8cb",
-    "title": "Елена Банатова — эксперт AXENIX",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pXzhvZ0JVMUxkTWdYcWJ0S0pVRjJNQXVGaVo2QldFTnhsYXBIMkUxc3BFdFBXdjh6Y0MxTnlveWkwU0tBMW4teHBxZkM1UkpuNkpKNzhocGd3TFA3dEV4UXh0TXg?oc=5",
-    "source": "РБК",
-    "published": "2026-09-19T10:38:31+00:00",
-    "fetched_at": "2026-09-19T11:00:25.620059+00:00"
-  },
-  {
     "id": "2fc3667655ed198c",
     "title": "Где в Европе дешевле предметы первой необходимости для ребёнка?",
     "link": "https://www.steelland.ru/news/business/15518.html",
     "source": "Steelland",
     "published": "2026-09-20T07:01:15.297518+00:00",
     "fetched_at": "2026-09-20T07:01:15.297531+00:00"
-  },
-  {
-    "id": "e1760d24f1980cd2",
-    "title": "ООО «ИТМ»",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeUMyazVpVXdqWVliaFhnMDdfcWVsUEhDaGM5X3B0eGJFanA1NTNOVlZvaE03OHB6Nmo0VGNuN2xFZTNWSzNlQjNxYjM3eFRpWEVkWlR5WktENkt4a2F0Ulh0QlZyWlNucnFCamhMVVI4ek5ITTBMakRDSmRwRVVMVnZDSUZPZUhZZGtQRlJWekY0TFNvZ1VXYVdLOTRqZEtlY0JrSThqOHc0b3hQU3N1TFFaS1h4TlQwa3JtLU5uR21tdUk?oc=5",
-    "source": "РБК",
-    "published": "2026-09-19T14:00:02+00:00",
-    "fetched_at": "2026-09-20T07:01:17.289318+00:00"
   },
   {
     "id": "249e7e870d21566a",
@@ -38,14 +22,6 @@
     "source": "РБК",
     "published": "2026-09-20T10:29:55+00:00",
     "fetched_at": "2026-09-20T12:15:42.134053+00:00"
-  },
-  {
-    "id": "cb68dae1aa46360c",
-    "title": "МИД России будет «тыкать» ООН ее предвзятым отношением к событиям в Буче",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kSmdPLW41YTlJcmRGdjJhemUzZ0VOMVpqMnJrUTlyeTR0OExQZ29DbG9VZm42UlBCMTZHSURZRjB6Nm8ySDBaYzFnZWIyMlg0OVZQRTBmUi1DdlJ5Y2JBT3pTTzZ0dw?oc=5",
-    "source": "РБК",
-    "published": "2026-09-19T14:00:25+00:00",
-    "fetched_at": "2026-09-20T12:15:42.134106+00:00"
   },
   {
     "id": "d1a0b5b5c741dc27",
@@ -104,14 +80,6 @@
     "fetched_at": "2026-09-20T16:16:04.065770+00:00"
   },
   {
-    "id": "61df6f70e3f45909",
-    "title": "ИП Останин Олег Евгеньевич — Пензенская область — ИНН 420400381058, ОГРНИП 308580914300036",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Z3ZBMWtMTHRIc1lkYnJDNTdxREp5VFVlQnBsanJwamFNbzNuVkpBSnlMRXdVN3VCTTFmMHJxM0s0UTUzY3U0ZzExVC1wVzNjci13d09KcVNCeW5SWkw3WVljQXVjTFlzZTZSdg?oc=5",
-    "source": "РБК",
-    "published": "2026-09-19T15:51:26+00:00",
-    "fetched_at": "2026-09-20T16:16:04.778490+00:00"
-  },
-  {
     "id": "8a224a8a92aa8c32",
     "title": "ООО «ЭКВАТОР»",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSTQwcFFLOTBpRC1XanFZVlotc1lsMUZtcW9sWE53YWx0dlR5QXhXOTBBbUd2V2JITHVyamsydE5YWkppelV3ajFZUG5IdWZLU2dpTmdtUUNnWTlZ?oc=5",
@@ -168,28 +136,12 @@
     "fetched_at": "2026-09-20T16:16:04.778597+00:00"
   },
   {
-    "id": "5ac3bd5c751e2158",
-    "title": "Фицо рассказал, какую ошибку совершила Украина из-за «русофобного Запада»",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LVVZydFJiNkxYbFBHbVZnbUp2T2hzdUxQXzlWNy03S051QXdaUjF0UjFwcFRoX296S0JNc3JSUU55VkpxeGx3Nk53TVpibFZrZkFucXZ5MzFnWnd4XzlLeEN3TXUwSTdiM1lWcnVQMGrSAXtBVV95cUxPV0VhYjZMZ2NpMmlpUUQwUEJHcGZMWFhQYjduSm5sZ3daNXhtSlpjeVBVOGNQRVdjczdCWV93c2FWTmx2WXVXS2piU1BxMFl6OWlIQTNSRm5FNDhxcjRrNUt0Z3BRNl9QMXlVZGJTdDRjNUNpVnVXd0NsbGc?oc=5",
-    "source": "РБК",
-    "published": "2026-09-19T14:48:00+00:00",
-    "fetched_at": "2026-09-20T16:16:04.778626+00:00"
-  },
-  {
     "id": "3b33ba4ef1c85555",
     "title": "Песков назвал «заблуждением» веру в успех Украины",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qOFpLMmg3Tm5YcmRuS3BGd3lDcHRpcWZfLUxnNmtkMkZRYUZ5WkJNNGw0bUtLdWowOFFuQndyaDY1M2U1RGpGOERvYUxfdFRFVWxNUW9rTVlRbV9qWXhoOXhuT1JXZ9IBcEFVX3lxTFBLTmZKS0JpNGt4T3pYdVlHR0hnR0k3VEpCdnVqei0yZms5cHI1RDFXdUZ4eGttbEh4ZExQZ0tzcmNndmtxRF9sVVh1MzN1cUNxOFk3ZElYWVNRNkh1UlZKWk1CM3lDbVF1YXpjcWJidHE?oc=5",
     "source": "РБК",
     "published": "2026-09-20T13:26:53+00:00",
     "fetched_at": "2026-09-20T16:16:04.778638+00:00"
-  },
-  {
-    "id": "32920b017b3a224c",
-    "title": "Санкции: что это, виды, как работают, влияние санкций США и ЕС на Россию",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMYXFhQWdjbFdCYVZfbWJyM0czaDcxbERhYWlQSjRKY0JCdlF6aTBMSHV1U3FIRUE0X3hEdVhkMml2cF9xRHptMnlYZ3UxWkY3OWE2d3A0T09KdFhQSFY5ZXV6Zk1kclhkcWw5cEVwdE1EMEk1ZEHSAXZBVV95cUxQTGFxYUFnY2xXQmFWX21icjNHM2g3MWxEYWFpUEo0SmNCQnZRemkwTEh1dVNxSEVBNF94RHVYZDJpdnBfcUR6bTJ5WGd1MVpGNzlhNndwNE9PSnRYUEhWOWV1emZNZHJYZHFsOXBFcHRNRDBJNWRB?oc=5",
-    "source": "РБК",
-    "published": "2026-09-19T10:11:16+00:00",
-    "fetched_at": "2026-09-20T16:16:04.778652+00:00"
   },
   {
     "id": "e526d548d12f7040",
@@ -1008,14 +960,6 @@
     "fetched_at": "2026-09-23T22:12:28.155053+00:00"
   },
   {
-    "id": "300df2906a2a26fb",
-    "title": "ООО «МАСТЕРСКАЯ ИЗЯЩНОЙ КОВКИ»",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hME5nWUFCelNCWTkzcFBFVEhocUFrclFPaDRkRTZUNkw3Tlp5aHBpUXZhY0NBX1diVkpfalpLS0phTWFoS2pVUlduR0l5UWRjdFdKXzN2LTJuektz?oc=5",
-    "source": "РБК",
-    "published": "2026-09-19T12:26:21+00:00",
-    "fetched_at": "2026-09-23T22:12:30.597415+00:00"
-  },
-  {
     "id": "e44670afd60bb0e8",
     "title": "«Новое золото»: почему цена на медь растет в 2026 году",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45dUJQZFlRTVhFSGdOTVM3ZmREczBkcTRiTlljX0h4dENXVjhNeEtTa3pzMHlBOUdnOUlyNW04d091a2FlRGgyNGZsR0duQkhKTE1FSk5Na05tMmJob3drV2Y3RVpfX3hpeFJsRXNWZE90dlVvZGlj0gF3QVVfeXFMTjl1QlBkWVFNWEVIZ05NUzdmZERzMGRxNGJOWWNfSHh0Q1dWOE14S1NrenMweUE5R2c5SXI1bTh3T3VrYWVEaDI0ZmxHR25CSEpMTUVKTk1rTm0yYmhvd2tXZjdFWl9feGl4UmxFc1ZkT3R2VW9kaWM?oc=5",
@@ -1326,14 +1270,6 @@
     "source": "РБК",
     "published": "2026-09-24T09:32:07+00:00",
     "fetched_at": "2026-09-24T15:15:17.558937+00:00"
-  },
-  {
-    "id": "112766524572c45a",
-    "title": "ИП Маслаков Олег Юрьевич — Республика Татарстан — ИНН 165201120900, ОГРНИП 311167718900090",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhVlpQWWw2dVZ1VWNBcUotTTAtZV9GY2hXX3VCbnhRTWlLUHpaTWdaanRvZUJHSERMdkY2bF9WVC0wX3A1N2l2Z240emFQMXBZTWJrX012a1paSFBVZU1iWVo2N1hzUTNCSUVXaw?oc=5",
-    "source": "РБК",
-    "published": "2026-09-19T16:07:07+00:00",
-    "fetched_at": "2026-09-24T15:15:17.558948+00:00"
   },
   {
     "id": "7e366e236472485a",
@@ -3054,14 +2990,6 @@
     "source": "Северсталь",
     "published": "2026-09-24T09:16:37+00:00",
     "fetched_at": "2026-09-30T08:25:40.449121+00:00"
-  },
-  {
-    "id": "3dca87e33175a2f7",
-    "title": "Спектакль «Умка» в Железногорске",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lNGpqR0hxbk9HX0dRZkdocGxudWFpOGtIaS1GanZOSkRiOEh2QXhNWnROMnFQMzVrWGszekk1QklfMFV4R2Q5dXQtdkZqZFBndnZubGZZZ3VvOXRvODZhMkNqSkFKR1I3QmVlWlp3bXBXTXhqS0E3UzJkMA?oc=5",
-    "source": "Металлоинвест",
-    "published": "2026-09-19T11:57:00+00:00",
-    "fetched_at": "2026-09-30T08:25:42.120660+00:00"
   },
   {
     "id": "e3844064ef1d25d7",
@@ -78006,5 +77934,725 @@
     "source": "SteelOrbis",
     "published": "2026-11-18T08:41:16+00:00",
     "fetched_at": "2026-11-18T10:00:37.770535+00:00"
+  },
+  {
+    "id": "5ebe4f156ba4a03b",
+    "title": "OMFIF: геополитические риски усложняют управление золотыми резервами",
+    "link": "https://www.steelland.ru/news/business/16248.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790863+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790876+00:00"
+  },
+  {
+    "id": "9d835ab5e0130ce2",
+    "title": "Медь рухнула на 4,9% на фоне ослабления ставок на ИИ и тарифы США",
+    "link": "https://www.steelland.ru/news/business/16247.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790887+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790888+00:00"
+  },
+  {
+    "id": "87bd0cadf20c0bea",
+    "title": "Earth AI выявила в Австралии протяжённую медно-золотую систему",
+    "link": "https://www.steelland.ru/news/business/16246.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790896+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790898+00:00"
+  },
+  {
+    "id": "14ab8e7dd9b22e2f",
+    "title": "За профессиональным становлением каждого из нас часто стоят люди, которые вовремя поддержали, поделились знаниями и поверили в наши способности",
+    "link": "https://www.steelland.ru/news/business/16245.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790905+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790907+00:00"
+  },
+  {
+    "id": "9880239f9facc194",
+    "title": "Впервые в России: атмосферостойкая сталь Forcera для винодельческого хозяйства",
+    "link": "https://www.steelland.ru/news/business/16244.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790913+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790914+00:00"
+  },
+  {
+    "id": "6df74a924b707fd7",
+    "title": "Бразилия оспорила проверку ЕС сделки Anglo American по продаже никелевых активов",
+    "link": "https://www.steelland.ru/news/business/16243.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790919+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790920+00:00"
+  },
+  {
+    "id": "1630301c634bb3e4",
+    "title": "Абзаково признан лучшим горнолыжным курортом Приволжского федерального округа",
+    "link": "https://www.steelland.ru/news/business/16242.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790926+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790927+00:00"
+  },
+  {
+    "id": "1f0e7456e7da8203",
+    "title": "Пакистанские геологи готовы осваивать недра, но отрасли не хватает инфраструктуры",
+    "link": "https://www.steelland.ru/news/business/16241.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790937+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790938+00:00"
+  },
+  {
+    "id": "e99de1d87df32f26",
+    "title": "ММК поделился опытом цифровой трансформации",
+    "link": "https://www.steelland.ru/news/business/16240.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790944+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790946+00:00"
+  },
+  {
+    "id": "e1b4e509d19d5772",
+    "title": "Время объявить победителя!",
+    "link": "https://www.steelland.ru/news/business/16239.html",
+    "source": "Steelland",
+    "published": "2026-11-18T18:47:43.790951+00:00",
+    "fetched_at": "2026-11-18T18:47:43.790953+00:00"
+  },
+  {
+    "id": "cdb2be03fce6c592",
+    "title": "Россыпь наград для ММК-Метиз (видео) - Комментарии к новостям",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JZGF1WXloUFJxaDJTZG9yS2NiWWREZ3I4X0Nra1RZelB4UEsyRTRxYXZCV2RBYUEtUG0tc3BhSlUwdEtUQlo1cDlSMnZNLU1mUXRxQU9yOC16dEROdHlKT0NR?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-11-18T12:05:00+00:00",
+    "fetched_at": "2026-11-18T18:47:44.397183+00:00"
+  },
+  {
+    "id": "18720fbd2b5ece42",
+    "title": "Форум «Металл-Экспо» подтвердил - Юнона-2 - надежный партнер! - Комментарии к новостям",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZVdYbGxuTTZ3RFdhTGF3WUh4aXM2X1A4MExHMTNaZTJ5SWRWc2NfV2N2S0pGNE14NHBQbUdqdkpUTFZzREdmZVpyTlRiNUJoYURvSVAwNXpmQW9FZGhkOVVR?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-11-18T13:06:00+00:00",
+    "fetched_at": "2026-11-18T18:47:44.397205+00:00"
+  },
+  {
+    "id": "b8d0d4bc32f69fd4",
+    "title": "Cостоялся энергопуск блока №1 АЭС \"Руппур\" - Комментарии к новостям",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzRlgyd21EV214R24tLWotT2hUYTFiRE51STBCb0NaYmtlY1hRc0xfcnpGTkdOUGhwMFE2bE1TOHI0TkYwWWtkTDU0ZHYyY2MyMGFmNzl3RmdiOWJLckRONUR3?oc=5",
+    "source": "Металлоснабжение и сбыт",
+    "published": "2026-11-18T11:57:00+00:00",
+    "fetched_at": "2026-11-18T18:47:44.397235+00:00"
+  },
+  {
+    "id": "0ecb9050af7f0245",
+    "title": "Импорт стальных слябов в США в сентябре упал на 8,6%",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBQzRnUnMyenZTTFpmLV9NNmxOWnBQWks1b2NxQUdNMHh3VUpFMUZrMTQ0WTFVUDFhVG5Eay1hUlVXbk5RNW1CczNOVW5URUwxU09USHFrR1F0dw?oc=5",
+    "source": "MetalDaily",
+    "published": "2026-11-18T15:38:48+00:00",
+    "fetched_at": "2026-11-18T18:47:44.816708+00:00"
+  },
+  {
+    "id": "9cb70845171dff2f",
+    "title": "Хоккеисты Морозов и Мальцев обменяны из «Спартака» в «Металлург»",
+    "link": "https://www.kommersant.ru/doc/9112537",
+    "source": "Коммерсантъ",
+    "published": "2026-11-18T10:30:57+00:00",
+    "fetched_at": "2026-11-18T18:47:48.500202+00:00"
+  },
+  {
+    "id": "d3065724b11428a2",
+    "title": "\"Северсталь\" одержала четвертую победу подряд в КХЛ, обыграв \"Сочи\"",
+    "link": "https://tass.ru/sport/28332279",
+    "source": "ТАСС",
+    "published": "2026-11-18T18:16:22+00:00",
+    "fetched_at": "2026-11-18T18:47:53.535908+00:00"
+  },
+  {
+    "id": "d3353fabc3f6eb52",
+    "title": "GTA VI опасна для развития мозга и поведения детей",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJeVVRZzhOQzZUcXFxM2R3aGIxc2h4U2xHSkNsMWdGa0pyYTg0MWZhOEcwMC1ycHhEczc3QWRjUzI0YkkzTG9wWDMtSm0wdDRjUnFWSlNUdm4yZEQzYUxZUmo4VzFMUDZNeEVxUUt4cE9PaDZxX2NJam5YNA?oc=5",
+    "source": "Эксперт",
+    "published": "2026-11-18T11:23:00+00:00",
+    "fetched_at": "2026-11-18T18:47:53.938652+00:00"
+  },
+  {
+    "id": "63ac7462c25025ed",
+    "title": "Адаптация к постоянным сдвигам стала ежедневной задачей рекламного бизнеса",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkY4YWlDZ2stQm5Yb0tOSHVMU01DbzhoQ2Q5TjFneG82eUxvS0ZOVTQzdHNjeE1HNU1sQnZRZnc2aEZ4U2hlSldtSzVnR1RDSWw2Z3h0bHdKRTk4MjhCN3pxbkI0VmZjRWI4UnZQUzUwQTFuTkNRLXRfSUdzcFhWbkJLZDRyQ2xEbDJkbE0ta2lYMTk1ZUJr?oc=5",
+    "source": "Эксперт",
+    "published": "2026-11-18T16:07:09+00:00",
+    "fetched_at": "2026-11-18T18:47:53.938698+00:00"
+  },
+  {
+    "id": "34bb4838302c9750",
+    "title": "Рособрнадзор сообщил о проработке запрета продажи микронаушников на маркетплейсах",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkFweVhobWNzQ2tyZlJ0SlUwenl0dXhaLUV1MWtmTUdKdXV0NmpqamhFSGVOZTE2blV5ZVNwMTFxSlB4N2JyaXQ1ai1JRHgzMmpEZzY3bTN5eEQ2QTJuOTdyZGhsQ2ZmNG5BZ2RlUDRGM0tBUDVaVDl6NlNnVWZWRm5RajVTVG00RHY3OUFST2JYa041TTRIOTZHcXM2ODFnS0phNDVwTVB1X2M3QWc?oc=5",
+    "source": "Эксперт",
+    "published": "2026-11-18T11:13:00+00:00",
+    "fetched_at": "2026-11-18T18:47:53.938717+00:00"
+  },
+  {
+    "id": "a2aac4ccafe15423",
+    "title": "Экс-президента Монголии обвинили в присвоении $280 млн",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUoxc1JlRDM4YU1JcmlramVlTHNlOXl1ZnE2TGZXMU9zR3p6NzdZTHRITnNQY284LVBaRGc2ZEg1QkZ2QVFqNVE4b1B6a3pPUlViTUZ0akJjZXRLRE5TM2NLVkZ0ZnliX0ZGcmdyX3ZhU2FXVkU2QVNFUFNhYmtTZDh3?oc=5",
+    "source": "Эксперт",
+    "published": "2026-11-18T10:59:00+00:00",
+    "fetched_at": "2026-11-18T18:47:53.938739+00:00"
+  },
+  {
+    "id": "e661688d37d02ccc",
+    "title": "GTA VI: как модные бренды интегрируются в игру | Эксперт",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZX255UDBlcGVYRkdja194REJnZW5qRGdfdEd1MmhpaWhxaVZCcTkwNEVuei1XajZuUGdSa1BvTWlIdFZGOE9sOTltVU9uWFBYNDgyNlcyWGI1Z3BCQjlwenhMcEprbTdkWTJRb1Q0OFh2bU9TcjZv?oc=5",
+    "source": "Эксперт",
+    "published": "2026-11-18T15:47:12+00:00",
+    "fetched_at": "2026-11-18T18:47:53.938774+00:00"
+  },
+  {
+    "id": "37d55873d0a13841",
+    "title": "Почему аграрная реформа Петра Столыпина не спасла монархию",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53U2cwS0VkNTFJM2NuSDR5blo0YUF4bEIyQUtEbVFCYUh0Yk9qc2p1QTc4Qk42Qm0wTVp0cm8xQUQ0VmUta0VlaXhsLWF3SC1sODJjN0k5UmFfZE5kTnpyUTl5SjZvSHlXRjV2Ug?oc=5",
+    "source": "Эксперт",
+    "published": "2026-11-18T16:10:00+00:00",
+    "fetched_at": "2026-11-18T18:47:53.938790+00:00"
+  },
+  {
+    "id": "682d4586300aa0e3",
+    "title": "ВЭБ.РФ и Совкомбанк профинансируют реконструкцию участка М-4 «Дон»",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzZXaks5ZzRTaEpLa3ZTTTJzSTBKLVlhTmQtS1BVeFZ6MmF3NDd4bzJTVnRnYUxJZ3VMWWxDMko2Uk1xRGZJamNIRnYxd1dfUktweWFhLXYzYXpTOUlDRjRVUGM5RFNHaFp2dlBacENaUnhNdnE1elF4dE51Yl93eHhaS1RtSFFSVmFxR1pHQzhGQ09W?oc=5",
+    "source": "Эксперт",
+    "published": "2026-11-18T13:42:00+00:00",
+    "fetched_at": "2026-11-18T18:47:53.938802+00:00"
+  },
+  {
+    "id": "b1eb0782e7acb901",
+    "title": "Правительство удвоило выплаты сельским медикам в трех приграничных областях",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbThjVElXUHdtUmtDY2NlcHhlWWphQm9SbjNobmo1cU5RSDQ3WUNCTnBKTjBLeHY5MlJXR2MwYUJsRnJfemtmRzB6ajBILXltUzZZYTM0WEx6M01VUWZWbzNaMFB4OW9DSWM3ZzJUVTZRd1RmbnM5TmNpS2o5TWtUNkM0ODFEX2NWdVFSZ0NOdXlGNDdmUGlQamRlZzBnYkFIN0kw?oc=5",
+    "source": "Эксперт",
+    "published": "2026-11-18T13:33:00+00:00",
+    "fetched_at": "2026-11-18T18:47:53.938809+00:00"
+  },
+  {
+    "id": "16d2cd26d06a7c99",
+    "title": "Более 540 компаний из России и зарубежья представили решения для металлургии на выставке «Металл-Экспо’2026»",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdlU2RVN0SGlkMUNBNkxZbTFha2VibWJrdXpZdXlpR2xUdlJUczhaUXJZR2Q5OG01MUh3WXpQTVBxaTZLdTlWWnNHN1pyQXBrLU56YktmSU9YVVNBZko3V0QwREt6SVEteTVxWTZ1UUhNMXZmcE82UWdwYkFKMWU3aDZsQlZpZHdXb09jTWg2NUxKVV9yeEJUWGZYZzA1dWhQY1UxN0ZDb0VvNUpkUTlOZ2VlNDVHV1dLeTlJWk5OV1o3Z1UwQ0swR2ZyYkMwM1RXQ0lBSVNBbklmMFVha3c?oc=5",
+    "source": "Компании — сводно",
+    "published": "2026-11-18T10:48:40+00:00",
+    "fetched_at": "2026-11-18T18:47:54.411051+00:00"
+  },
+  {
+    "id": "78b4fc6d8aa8c234",
+    "title": "Росстат отметил подорожание огурцов за неделю на 10%",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iMmtScjZuMWdXZmpWbXo1alotQ0dkeDd2N21RQmJtMGVGaHBkT1BDSkVJVU1LOFRWY2h4WEZXdW1STVJWMFlQeWZsMNIBS0FVX3lxTE1iMmtScjZuMWdXZmpWbXo1alotQ0dkeDd2N21RQmJtMGVGaHBkT1BDSkVJVU1LOFRWY2h4WEZXdW1STVJWMFlQeWZsMA?oc=5",
+    "source": "Росстат",
+    "published": "2026-11-18T16:07:00+00:00",
+    "fetched_at": "2026-11-18T18:48:01.705606+00:00"
+  },
+  {
+    "id": "b84a2f66f2da55a8",
+    "title": "General Flash привлекла $128 млн на выпуск критически важных металлов в США - Новости и статистика",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWg2UEh6ZmVlaHJNekoweTJubXc5Q09TcE9qM183RU5pdzN5WU84dE1WMFB6WklaZVBzMjdteDNfZzFveHBZclFOa1JXUFp6bV8yYzZEbzlta01OT2dwM05HSVgwSFVyQWtOWDQzM1N3M2NVQ1NrOHBLcFgyYU03VFp4dWFyXzVRdTgxZ0hRWGpoU05CUDBHU3hyS0NJU1NHR0JnX281QQ?oc=5",
+    "source": "Росстат",
+    "published": "2026-11-17T23:41:44+00:00",
+    "fetched_at": "2026-11-18T18:48:01.705633+00:00"
+  },
+  {
+    "id": "71c3ca19a329fdf2",
+    "title": "Погружной насос Tsurumi GSZ10150 для масштабного водоотлива - Новости и статистика",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjVVMk5rUzBUWUJaeXBFamNEOWdXTXRqN3Zpb1hmeUgzYnI1T213M01LdzFPRDQ2dWdqTkR1VjlPb2JuTTV3czIyRURhdkFjQVNPMXUwY09KWXVxbVBLbE1GQ0NWZENaVmp5ZXBDNUw5M1FJdVVPSWhXYU9SNHFDR25lTFBrb1hzUzdEaFVoOTRYbkFNVzF5VQ?oc=5",
+    "source": "Росстат",
+    "published": "2026-11-18T04:01:03+00:00",
+    "fetched_at": "2026-11-18T18:48:01.705638+00:00"
+  },
+  {
+    "id": "35d280a0e162aaf8",
+    "title": "Отчёт USDA по убойному скоту: поставки снизились, обязательства выросли - Новости и статистика",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUZhWURFYjRQOXlvRzRxOVpFOVhkN2tJYzlSTDNfcDgyaE5CVDZiUlNjV05RcmVmN3NGNjZ0Z2tIc29xaVBhZFp5YU8zcXpRTGZHWVljdnQ3RjZHQy1RZURNWW1vUHZsZmV6SHIyajUxZzZIR0NrQXduV1NYSVdJdHJ4VG05bkY1T1hEUXN0SEJTTDFQRlU1eG5ycVNjbHpiWUE?oc=5",
+    "source": "Росстат",
+    "published": "2026-11-17T17:50:38+00:00",
+    "fetched_at": "2026-11-18T18:48:01.705653+00:00"
+  },
+  {
+    "id": "0b1de23392a75d34",
+    "title": "Рынок вторичного жилья в России забуксовал. Что произошло со спросом впервые за год",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaVB4WDRmVW9ZRWZQVlpaWkE1b0pCdk5WN2J2VDEyM1pwX2NieXFFQWJibFNwVmg2UUlVVU5pSkN6SHVlX0V2Z1VsaGNqT3lEWVpYQVZ3WTFTVTFKTWpvZkwybUR6aklnckswZTNoNTI2T0E2N2pGU3VqYjZrVkFtLUx3eHV6WERTV1FfN3BKM1UxeHIxVzN0VFRWM09wVGVsWFFQOWVEVENQV3p6UVRPZGU4OF9kS0RyUXc4NENVclFaNV91b1E?oc=5",
+    "source": "Росстат",
+    "published": "2026-11-18T11:23:16+00:00",
+    "fetched_at": "2026-11-18T18:48:01.705672+00:00"
+  },
+  {
+    "id": "f31bd871a9d684f7",
+    "title": "США дали добро на удары вглубь России, Франция признала ввод войск. В МИД не стали молчать",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd01xQzlHeXJpNGpYSzNrNF9JYndWWWJaT29oM2hrN3ctLTE3NGtwcjAwSzgtVG5LRmFzWlhDRmV6bGxGdVktRC1uR1FZSHgxWWhfa0RNbjJDNjhYNWRzSWNCai1GVFNmUGc1eE53bGhtMGZiaF9nR1d4NUhXeVIzSzZoRHQtWFl0Rk5hR1VzVEZ3M3FQTlBLd3Fpd0dBUzJNeFRlTWJqVQ?oc=5",
+    "source": "Минэкономразвития",
+    "published": "2026-11-18T11:35:00+00:00",
+    "fetched_at": "2026-11-18T18:48:02.620662+00:00"
+  },
+  {
+    "id": "e862ef8157f197e5",
+    "title": "Gold drops to 14-month low as hawkish Fed rhetoric boosts dollar, yields",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T03:10:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367046+00:00"
+  },
+  {
+    "id": "071e3fe10b4999ba",
+    "title": "India's NALCO, Russia's Rusal sign pact to study scandium recovery from red mud",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUTVxM3N6djBuVXhXTGR1M0hLNkRucmZKakZ5eWUzTHpEU3hqS1l5NEdpZ05zYUJwM1lPNWJ1czJNQlRvX0ktMmtGUDU5NVdOdG9YUjByM0VITHZTaUVDVUhibk8wQnp0M0pYRFVUeFpabmdYRGdoYUtqSUVLbGxnUlFPb0dzS3g4bVVaeHZwRlg4N3hCcUNwaWZGbVRZVzlQc1FDYTVoQ0htcHQ3aEFuZnZTN3ctN2c?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T13:15:43+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367078+00:00"
+  },
+  {
+    "id": "116d51125b14c7cc",
+    "title": "Holding talks with Russia on Europe's security now would be premature, EU ministers say",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTdmMm1TbkluVjhvMWlfcWRfNjZMQVBERW9EUnJXUzczWGxSOTZKU3BlOGVHTU83bXVPb0FDY0RjUnJ4MXNzLXBRWGNJdklCN0NkbmJLVWxiMEpZNjBUNmNLWXVVdFRnbnRKR1JEbzdsQ3U5S1AxY3BldXY4eWVvS3RrUXhxS0VKX0lQM1RSRGQ4UDRreGRVZGdsZ0ktVUp6Z3o5bUJTdFdldS1GLUgteXRrUFZmOHBxTzg0OXZpMk5SYlkwZzlucENiQQ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-16T16:14:31+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367091+00:00"
+  },
+  {
+    "id": "91b45fc2675b4507",
+    "title": "PODCAST: Nvidia: Good earnings, bad timing?",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWszQjV4MEI3dzlQNjVKY2tVVWxGMUxodG80YUJiMHBDZXg0cDBhU21NLWdEWTZaS1B0bWpST1Y0NzdBSFRneHh0Z1QwRXNvOTFXMHVia3pDc3MzV1FRREFHbVpVTnZCdXJYeW5WcVJ3NjJlRzI1Y0pYMUppTURzZnBta1FaV3k0Ni1Dc25Kak5xZkp6b2NrVTNFaU0?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T14:41:09+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367104+00:00"
+  },
+  {
+    "id": "fcf58e0e3acd1383",
+    "title": "Canada adjusts China ties, Carney says, aiming to clinch right deal with US",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVW9oY0laelZGSWNoN085TXVRME1WWTNCQ2JYWGhmRUc1Z2hWdnRXZ0kyTktXaDAwaklsSlF5WFhPRUZpVjMzdzMyWW1KX05uTzdVemdnNTNUN0dNc1kzaEhiTFBrdWJtWWE4ZFBqQ2JkaGprV1dGaXJiODVDZ1NQVVAtc2FYTldwUFF6OGE1ckV3bVJEVjdURGRPVUVuWDdEUmZKalhGUUEwem90VE9faEFQRUQ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T06:41:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367119+00:00"
+  },
+  {
+    "id": "11d1c5d05c6cda65",
+    "title": "Indian shares decline from nine-month high levels on profit-taking",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEEyOUpKbWZ1NExUZWdZN0pEMTMzZjlLOVBhYUdIM0lsWmhYb3ZzTl9CRjJCVjJTcjlTQ29wTjBXdkVjSHRscm9QNlpUU1RTc3JzQllhUGVGVzkwZmtOc015VFJYV1hlSnJySzBrdW81THJHckNqOEh5bTFUd3ZUM0NHYUQ1QkJqa2wxQlJjUDNYc0hNVlE0VEkxQWdxWWZSN21TRk5KdDJSSTAwdEYyTk9iNWJXNEJwWUE?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T02:37:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367138+00:00"
+  },
+  {
+    "id": "d0df466604d0a936",
+    "title": "Sheinbaum says Mexico-US trade talks 'very far along' after meeting Trump at APEC",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUtHTXhXeG5haF9PeGN6aWVDRzdwejZOZHNyWmZTTXpKc2Fwa3VsZ0Q1VnZNc3lVSmltbFdzMjQtQ2E1ZGxhZlJjX19yRHVKNmF1QmZ1eEJ3UVh2eW1HUU5qMnctQXp1d1NUNkk4XzJ4TWlibHRPXzZmOWdIdU5fdFo4d2h2M1ZhbHpGNmtGZWdGMTg2bFNGV0Z4MzNDd2syblpaa0NmeHhScmRmb0lR?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T15:12:12+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367145+00:00"
+  },
+  {
+    "id": "5a6a0a3a541a5f5e",
+    "title": "Pentagon's Colby warns NATO allies against shutting US firms out of arms deals",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbVpJX0xhTmkyLW5Ga2FRT3p5R0tWeC02bWtmVUg0M1U3Q1hoU2Vfb2l2UEVGMm0yYWF1blktd1pVUjg2WkxBREozQTc1YS1ud3l3QzFpd3NCT01IU285Ui1ONHpLc2Qxck15WEpUQkU4ZS1JNmVORWdCdTVOM0NySmd5MS0tY1hNUUxPZk9EQTdWajZYbDMySmpUTE8wUV9TZ2p3a3NBdUlka1o5TGJqNVBLYmlwbWtDSUZxWDJsbVVtM01hU2I3UWlST1BEdUN0NDk4?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-17T23:26:18+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367173+00:00"
+  },
+  {
+    "id": "b7aa38f243d16e39",
+    "title": "Waymo pauses robotaxi rides on US freeways after California ban",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkw0bE5kQUlYTVp4amxvbkwtbnc3ZmZTc0FUaWtiUmtmbkF6SldmOXpGOUt0T3BHRk0zOVN3QXpLQ0d3UDRwakVSblEwT3h1NHV5ekdyVHhCMDJBOGtsZEdaZDJzUGlYTlMxRGxXWjZmRDU5dnh1Y1NyY0duUlFmNEF5YjVxQV85aVBhTUw3UGptQ1hBSFJQSXpVRkg4VXd4VEdlak9MTDdjM1FOTVdzaHB4djl1Y21VSGtLU1hLcS1OTTdl?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T00:18:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367178+00:00"
+  },
+  {
+    "id": "5810327c7f6c4bb3",
+    "title": "Operation Vivaldi: Ukraine melds man and machine to repel Russians",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazhESEU0enF3SmZRQ0ZNdTd2Ti1OeWpFeF9OODZETlZDUnVJMDFRMjlfdU05UkRpc3JOZ1FheFZiVWZSSFcxY0NZWjA4MjEzaERrMGpqR2JONHQyeTBOYjhHX09aam1IUFc3Y0ZabE9sQ09iZElGY0hjSkZwRmJHV1QwT2FVYmxFMGl1aU8tbFBTbklBbE5lSE1pSE5ueUpoYkhfeDdvZjlMQS13Y0ZkQmoxVmZiR1ljTmlER0NR?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T07:07:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367183+00:00"
+  },
+  {
+    "id": "e97769609f39c214",
+    "title": "Magnitude 6 earthquake strikes Papua New Guinea, GFZ says",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU1GYUNEX0tIOUhHR2IxTnZMMS1SSVhJeTZCdzJ1aGVYQnVsSmtyQm55c0c5VnhKb0JnQmItYk54ZWhsQndMWG5nTUdHVGRELXd4SXNOWFN0d29xNjFGSC1PMGtxQV8xaTBKWl9nMExZZldjOGxSRmNCUnNFdXpGOUg5SkJmZW9sX3hELVByU0pmby0wYVdTQzZjWXRibDdQTTNzb0U4NUVOS0QwOTJJOThlNA?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T03:57:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367190+00:00"
+  },
+  {
+    "id": "74e59f5dd46c0839",
+    "title": "Sellas vaccine extends survival in blood cancer trial, shares surge",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FEUmx6RWVvS3AzWXBDaDZvTUdmdUo4RjlwWmlrdDEyYUxrNUxVVTFybndQRGExYVA5SWdmWndNZkJkR1pkcVdvdVVtX21qZjNsZUFfd0VnMnRTTjVRTEtVSGpsNHk5R0N5eHFxRlROQmpCYk1TdVl5bm9qZ1AySlVNN1lvUVZYb1FRUVdFWDVUZVJFcExyYWNVb3VQWjZNLXZSNGQyLW9TeEJqWTdWSFJ2eVd6R3VON29KclpPTEFBTk55akk2aQ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-17T14:54:03+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367198+00:00"
+  },
+  {
+    "id": "3c3ea7a2154e6a69",
+    "title": "US FDA approves GSK's second lung cancer drug from historic Nuvalent deal",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0d4djBybzVqX0h1bm9DeWJoUkV0NzVSTmxLWmRVRmFtU1ZfS1FsN2c1SlVwQlNvMmIxUjVFSGRuTXFSZHZ5d0c2UDBVWVZhVk1jSUUwa2RmanZzdVU?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-17T23:07:33+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367209+00:00"
+  },
+  {
+    "id": "dc561719429a030d",
+    "title": "Off-price retailer TJX lifts annual forecast on strong holiday demand, shares jump",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOG93Rk1FOGRtZG16MHAwMk9EbkhyeU50MjlNaWtqVmhNaXUtQVhFLXJabmZxdmJEMnpucEdTU3RtamI4MExZbFVDazFUN2Z3Z3pwSWlQelY2a3F1TVM1UHgtbUdlSl93M3FnV3NzRFFfdmhjNEF1ME4yRVg4REVfR3BwOGJLRG1UbFJ5bHZYeUNxWnp2TERXRk1UVjlJd0la?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T15:55:55+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367214+00:00"
+  },
+  {
+    "id": "e1960e81eda772b2",
+    "title": "Australia frees largest LNG exporting state from reservation scheme",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT1UyVkE3WVc0X0hXdm14QmJ6dzJ4WHFuY1Q0S2EzaUp1aHAwRTRjU1NOUU1SUkxTNWt4dFd3WWZwM1hqRDM5MUVQOFFoSzczSUdvMl9CcXppOE9aQTNMTVNqT1lfM1A4ZWlIUGkxRU9heWhhMmVPX1FkUjN5Z3MyRXl6dlRuSXVGRzBGcm9Ob3pLZHVNZEtxdWFjUlE1Ny1QVzFrU1dpd1pxQjNEX2s3RDVRYjk0Ni13R0haUTdkQ216TDkt?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T04:32:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367221+00:00"
+  },
+  {
+    "id": "ee5ee6b681a0176e",
+    "title": "EU reaches provisional deal to speed permits for renewable energy projects",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1VzUmE4VkZSMHJ3WkZFUlFQaWxBM0lnSUtDSm9JVTJsbGFscVBybUJuQXFlbmpQSTRCbnhlbnNIS2VHN0ozdWMydGMxUWF5SldZcUxnT0pfZGctbUFRLXNISnY2M3NhNGZ1RnVxV3ltMkhkNzVhTGJoSEZTd01DX1Q4ck5LMkFOaGlnQzdYSUJBbnlYX2ZGb3JCR3V2RkNLOGRPb1JnYzM5MzJGNGdvaE9CS2FXRmNCLUN3?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-18T02:00:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367237+00:00"
+  },
+  {
+    "id": "d4984f62448c4613",
+    "title": "Zelenskiy says Ukraine struck Crimea bridge in response to Russian attacks on infrastructure",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWndISk9YeU42ZkszU1J4MVIybFFTd1RiOGJNT3g2THFhZXFJQjVkeWpNVV9uZjZ5aUR1NGlrOHBWRDdYaUlyeDladGlwNXBJbXJaa3h1cnNaWGstRjVLRGtFTkVHOFNDcXRvMmxFQ3h6dGJqc2s3XzlOeVJOd0cyV1M0bTlFUmRRQWptZlZzdFd5Ym9KdUtsa1VNWjd0Z3gxYmpSbU95U3JySVlRWV9RbHJjRTNaMlEyVWJXd1RWRkdfQWVTX09YeHhNbw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-17T11:26:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367242+00:00"
+  },
+  {
+    "id": "30d4b46d3450b17c",
+    "title": "EXCLUSIVE: US presses UN agency over Taiwan flight restrictions, China hits back",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb01SbktQd3U1ekI4M0szX3R3V1dweUM3SUdLTVQ3LXRzSE5sWEU0UDk3emRBQzVmLUxwX1JkZHNnSHFZTEUtNElQVlc3elkyMGNJYnc3eFpaT240NENvX3dpTjZaT0FUZk9FeC1xR0FYaHRqNzJERFh5M3BGWERQdDBfZzlaWjZNMERfYTRzRDBsNjB4VjVxU1RYb2tZWU9ZTVUyVFViR2tBbHhPMXcwN01nYkwwNVFaQkt4NXpuNl9wR0toSk1hX2RIYw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-17T05:06:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367247+00:00"
+  },
+  {
+    "id": "98fec6c5d1dfcbd8",
+    "title": "BT to hold off Starlink launch until Ukraine 'noise' dies down, CEO tells FT",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUNjZVZkRVQ4bjNDbkVTSFhpbEZhVUVNSHN4bmRNNEtGc1oxNmpZYTBLOTNnbkYyblJBUVppdWc4UGlUYlVaN0JldkVicTYtcjdxMDV4dDMyVVdOQmc3WUtEZWI5SGpBcXM4VUwyU3pEZ3VmWHBiT3M2eEpGX2wtb0E5X3FXU3AyLTl3YnhTWVRrdVBZTDhxSmFtRThsZGJVTGhzdHZLWXFDdzBGSmFYQ2NLU0o2OUEtTHMzTlZlY0d3ODBCRTlCcw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-09T08:00:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367253+00:00"
+  },
+  {
+    "id": "aff7ff8bedfabaf1",
+    "title": "Rhythm drug shows sustained weight reduction in patients with brain damage-related obesity",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVmZJQUxGWHZmeFp5N1BEZkd0MkVKeDB0djZQUXAwY2ZDX183RVlqa3lrQ1hTRlc5MTRDSjBraG10SmpQOGJDQURNWkk3Ti1EaTRKQ2tMNmVLNlhpOUpXNFN5SjU4OVI0VU04T1I1S1lrNm5uRmtMeUlzcDRjZjZYcmx1VWF3OW5FWHp0UkNnOUctYnRHN0VINGVDOGI4R3NHckJINzhxN2N5SVRRMGhxQnE1cUtDOTdsOXdPSjF3cXhXTVhyUGVGTjc2OFp4aGk0dng0QTd2bllLLU1lam44aUtQX1VtUQ?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-16T22:54:01+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367279+00:00"
+  },
+  {
+    "id": "8bd112ab326b26f3",
+    "title": "India raises diesel, jet fuel export levies as inflation stays elevated",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUR1T3FvYTAxZENpTnZnX0FmZlZsRUE1SjVHMWsxSjhhUHhRTFBkVFBiVVdiTUlzUE5jVW5Xbng5azJHRHF0aWdZUk5YUVJzbVdRQTFWMGtYb3JaZXZiX0tPWlR3RGd5RVRuUGJxSTJOaHlDZ01aS0ZrRFMxVkE5di11QkRTZTNuT0tIcVJDdzB1WmJFLThwTFV1NVZ2NG5CQ3dsUEdfbkdubk1tMUcwbTkxZHVmRXkzMWMw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-16T18:15:43+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367286+00:00"
+  },
+  {
+    "id": "362847a1f1c34a83",
+    "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-14T15:08:32+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367317+00:00"
+  },
+  {
+    "id": "9bdc321e127e99ec",
+    "title": "US flight shutdown exposes deepening air traffic network crisis",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-14T11:19:37+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367332+00:00"
+  },
+  {
+    "id": "1b12b613446fbf9a",
+    "title": "Cartier-owner Richemont's quarterly sales raise fears of jewellery slowdown",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUHB0M2ZFYl9MeGtKQV9Fb0E3eG5LYXRlNVFzeUcxTFZIRlFSSi1xU3Z0eURaeEV6MVdYX0tZc3lTeFR3X0dpOUZXQ3hyMnB5czhvZWUydEpBUmJoUzFJb1JfcnhVMUYybWpQV3NzWTJzMkVmSFp2VDJwR2FsTmxlR1V4RE9OcGIyY2lJbnVtLXdvOXZTOWtoMUI3MmVrTDdMaGpveEUzRHhHMlVpYVFxaVpja3RFS0pKSG9KbUxNaHZ2LWRJMEVEamg1aDdDZ1dSWVZHcTdzWXA?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-13T15:22:36+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367356+00:00"
+  },
+  {
+    "id": "cf7e0477c4f4c8c0",
+    "title": "Anthropic sued for trademark infringement over 'Mythos' model",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWI3VWZ2VXZxZWhRY19fWW5PbUljYVVtYWphUWhqVXM0SmQxclVabTRldFdUTXNiVHVWZXVXVWctaUhhOEhzNVJUT1VRMFBlZmtZc3N0eGdaSnh4aDBDenpWcTIyRmNrOUI5cHVpb0w1TGRHblhlSUlyOU1zcDVydXdXQVExV2dtaXRsUmlacmd5cFB4THl1NjFJNmctSHM0bmVteEtUSWZCZG9aVzA2Tw?oc=5",
+    "source": "Reuters — металлы",
+    "published": "2026-11-13T18:22:27+00:00",
+    "fetched_at": "2026-11-18T18:48:03.367366+00:00"
+  },
+  {
+    "id": "e171290750a3b926",
+    "title": "INTERVIEW: ADNOC looks to deepen India footprint through crude, chemicals, oil storage",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdFM0Njgzbl9nWm9MWXQ3OGhuSnROQlVBcXB0SU9ER2dlMUE0QzlZM2hUbDZ6OGl4LXRHN0lWRVV4UEhkbmFkb2ZKVjJJdWh2YlVlMW9hOGh0YlNNbkROVk81M0J1OERBVFl2WGFrNEFwbk5vbFUzc21wR0xTWkZDNVBJUm5vdldYZnUxdm1XcWFLRTNuT3JkZ1ZRc1BBQkZKUmNEUjNucnVLSExIU0hSaXlQOUQzVUI0d1BsM3ZqZS1JTE1hTWRxY3pwVHQ4dEZZLThlQlhVNnROWktDTjExQUl5SzY5NVJpUC00TlJwVC1GWjA?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-17T11:13:57+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766319+00:00"
+  },
+  {
+    "id": "3b3934f2b8230beb",
+    "title": "Platts to include graphite and change an underlying component in the Platts Global Battery Metals Index",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPS29Gc2NRS0s4dmJUanEwOVlNcjBkTkNyQVUyWXNGdVotTkh6dTY2aHMyRHQ3c3ltMDU0SkRZSlVXdkZUOGd0eU4tWndrclV3NEVuczZIMEZwSVdLQTlPQmRacVVETUVjNUo4OS01bDBDMkd0aHQ2UUJIY2U5blZtSjlhbUtfLWNsYmN3TldMbVozN2xfUFZHRkRBUFdMMmFOVXpsbWtjX28xNTVodXBuNWpORG9jOXpnT3dTTnhVRWhxZmlTdWY5aXpTUFdpeEx4X0ZHd3hNcGFjOThhcE5XVW14QTc1SFl4SG83T0R1Y3NTeHVrWW01QWpmQUZySEYyTFhtU1l4dnRxaUkwYmJfTlgtZkg0SU91S3ZWODU4SW9GNFE?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-17T10:15:06+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766360+00:00"
+  },
+  {
+    "id": "cb7a90e16ab5fa4f",
+    "title": "Cleveland-Cliffs Inc. Outlook Revised To Positive From Stable On Expected Deleveraging; 'B+' Rating Affirmed",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRkpUdDh0bXpla3V5VTBRcDJ0VDBOUUVCOUFnekdseVV4WlFOYzlaWXdVQTBXaFRDbTRTeE80OFlzSm11cEFXd082TjBCVzNJckFWN01OTzNsYUZDNHBZY3Q5Z20zYW9ZV2FxYkZyWTFZM3JBU3pCUWtQMzZqNzZVVXlyNXRBU0U?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-18T14:26:00+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766672+00:00"
+  },
+  {
+    "id": "05703bee7a1fb5b2",
+    "title": "Vitol Asia Pte Ltd to join Asia Alumina physical MOC",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajVnWS13a1VrSmN6YTZVeG0wLTJvbjJLamdXTDdUdFV2SmFLQzNqaUI1aVRnajFSTzJRWkR2VVZPOUxoQXJ5R1YzVUdFaTYwSEc3RHNWeEFmRDFGajF3WlBaeGdrWnZUR3dPZExCSVlzbVRmNnB2UUptMm9yVkllNHl1VThhMlpHUDVjUnJxWElyWURFWVlkNW5RNlI5Y2JncmFDRUlQVDhDYm9SX2lsLVhYb3VwOXBCRFY3TUtNanpIb1JLSVppbXk3MzdpUG5wUGhpa2xUVWlkQVE0Z24w?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-17T08:21:12+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766691+00:00"
+  },
+  {
+    "id": "b3cd64091c758ad1",
+    "title": "Platts changes publishing schedule for GCM, WIM LNG pricing month derivative assessments",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcGUwcklVU25mLW1LNlE4U3I1UHpFX3BqbHJ3SDJoTVNsMWRGaTBYZXRsMkxFaDFtYXFOSk5WRHFHNHgzMXN1d1c2Y2UzbmEyRG5wQVZwQ2wtcExuU1paWWRJS2VuU1F0TWhGdFZPMDUyZTAwQTZnaHRBay1Xb05xdE9JR0tkV3N5Z0hyN2JUSEtCY2Z5c1BXUEZEZURNTDFaUWxUd25GUmNaYkFxT3FlZ0xYNVZ0YTdDenlMT2pkcG5mN3Nkb2RGOW16YzJQNV9wMTBWbkpJTWNNVEZtSkJnemx6VG5qcEZndXVMYVdzS01tLURkQTRtck1VRDBURG5FeU51cDhSV3hJYVRrVlE?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-16T16:18:22+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766698+00:00"
+  },
+  {
+    "id": "0ae7110d9bd5ecd8",
+    "title": "Japan domestic oil products Nov 23 publishing schedule",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc1hocDhXUGc1d0NQR01pclhaZGNDUjRDZUw2UTJSX3ZGTTZlWVhvbndTa2JlRS1LcWh6OV9uVm1Mc1hUNGxjQzQ2UjkxZ0JKMmxNUENvVXpJTW8wUGxCWlZqNjZaV21pdkhLbEV3dU9qTVYwUTRxTThCRWxQZEdJYTV4cFJ4Si1GNm05NWFOMDQ3eFg0alkyRHRDX3FBd1hCYk9NMHhQQzVMWmdaaUZnX0JCSnV5QW9RcUtPLUppOHdXVTRkM0M5Q2RmQ0MwMmZYTFkyRXV2NU83dUVxWmpvRzBB?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-18T04:31:30+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766703+00:00"
+  },
+  {
+    "id": "b489a3627670ece0",
+    "title": "Platts postpones proposed update to 2026 and 2027 RVO assessments",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeUVJbG1jUjJTMnpESnBoX3pDX082dEppSW81Y2ZVdXhVTjE1bnQ1Q1htblRybmZ2azBwVUNSam8tYUVYWmVOQlZoaWEzcjVGMWlOTVN4eXlBZ29QSG16TFNhWVlhMkFGNGJHdEdYVFAyOW5IVUtjX3Z4Wm10OERWLUdIajEtOHp1UW4zN0ljb2pCZjIxSXl4WVl6dklkdnVnejFPYVNVVW5adTR5elZkS210X1BIbGRSRUhnVEpaaU9sa0xIWmNiMTMzVVU0WklIdXA0d3A5Qm5WLWlRN3N0M1J4ek0yWFBZX01RanYyVmY?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-17T00:19:40+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766708+00:00"
+  },
+  {
+    "id": "8c9e3cde57cd6f02",
+    "title": "Platts Brazil domestic refined products publishing schedule for Nov. 20",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYmpJZ1E1TGJjWnRtakNCYnRsR3NVTmZxTkJWUGJ6WmVHRE9vVkpsdm1fNmpxYXVOVVQ1blBrZGlEaHF1TUpSVHN3Q080d1lETkxieXJlT2dKQ2tkdktWYVRoT2hYSldBV0otbFp0VFFLbnVKb3k1bVB3TXpzTDFyYmcwTkUyTWYzVk5zTFBLUkNIcHVkMnZSd1ZMaGYtSjhucFNZY0lnM2pNWWIyN0pUVVRIVEdpTG1kU1ctS0JTM29ucWo5YW02MVU3cm9qdWNtSHB3emtRVDhEWmNjai1td3ZIamVMNGlwaXRKWC1VR0JzNHFBVTZB?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-17T00:19:40+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766713+00:00"
+  },
+  {
+    "id": "ca66002d756352e1",
+    "title": "Americas Agriculture & Fertilizers publishing schedule for Nov. 20",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQm4tT3NLLWY2MER6TEJaS2o2THNwcFkycEtzZHU2VEcwdWxJNzVqdk1GT1Z5UjlSVXh2a1BOWWc5UG4xOHNRM1NONXg5Q29yY0dOSW1teHFQQk9UbThUVXZES3BZZi1mN0ozVXd0dnZmWnQzZ2dVd0J1YkVQNnAzTXdCVTV5RlV5R3E1VEt4MXhja2xjeFpMekEzcWt3VnlubVdGejVHQXd4ckxqT1dGSlZXVFE4NC1GN1JGdmlaN2JHd0ZfaDdCcEJfMkl5XzZFTnZYdWxzTVk2S3FoNkVtbEhOSmtlanEtTDQ5MUppa2ZQUmM?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-18T02:23:42+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766718+00:00"
+  },
+  {
+    "id": "b576eca154d21693",
+    "title": "Platts backfills Nov. 11, Nov. 12 Platts Industrial Materials Index",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQem9GYXdsVkI5ZUV2S3gxOTl5OHV5d1Izal9oRFNfUks5NDBTUGZQdjJ5TzV2Vnd0eGVJcGUzRFJ5VnY5cW9mcTc1aXo3SzlGVXZUN0c5OXBZQVVVQy1TNWFBRzZ1dUhTb3JZNFY1WnFpZDM2Wkd3OFdoenl4MmZNRGpnOXAySU1lb2M1WmF4aGRSTmJBOURPRVFwdzJ5YXBRZXo5eW14SDNBSEJyYjhBa0g3RkJkM2pmSFV4c1k4b0FILWFwZUVlR2IzTlk3cVZGRUI1Mi1Za0dxZnBHZnZ4bXlZNG5iX2dmR2tSX1FERQ?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-17T18:22:31+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766722+00:00"
+  },
+  {
+    "id": "140acb248084a2ee",
+    "title": "Gurunanak Jayanti publishing schedule for Platts APAC compliance and voluntary carbon assessments",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNkdIemI5OUVnRVBGYVJhUFQ4b2VoWWdkaU1SMkh3c3NUM1kwb3VsZFdhLUJGTi1oWjM1dlA2YzA4VG5mVjZOX2xVd1N0T0hpQUQxeVRYelJ3US1QcEljTTRUMlpJdWJDUlJaVWViX0tLOXlLWlBkekVmVTdET0JMdHZXZzc1THh0ZjY1d3A2ZGNaQjR0ZktDRzBlUVpOblR4ZTZHaTcxTDJ4MzJkZ25BUGN6eXljS1BuUWJUZGRZLVF2Y3VWU292bDU3Y3VQVVBHWTBFZXBxaU9EOFVGUVFsVWxQWnZvR0JBc1dSS3UxSk8xeUxvWGdsLXZiZF95cVVfdDdFRTBmNXNfci1ZMi1VamVvQk1GOTZVckZj?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-17T12:19:34+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766730+00:00"
+  },
+  {
+    "id": "546faa8a88f265ee",
+    "title": "Platts opens consultation on CFR Japan naphtha operational standards, quality specifications",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWUNabUJxcktVR0VNRmlHWmt3RGNvRnNsWDA0MlNsSGdEbEp3ejBqODlpQlRLc01HU1hVNWc4eUJTdGxUTkJsSmROZk43Q2ZyM0gwMjFQTnhWRk4tVGtQWFhLb0c5Y1hBUFVoaHlpSGVLcHlaN3NPVFVfNFJHbzN6aXF2QWR5bnZVLVNqN2VYX2hsNHhpeWhfTV85bDhFOWJZTkNfOF83a01uSTNHMkhGa1BQOURNQjZEWGZYTVVuSWUxTTF1eGdna2pSY0hUYzlxemlsdUJ4VzQ0QlZYWFpXd2s1bnpYUGN4OUpoU2xNcGdqNWIwMi1QY2VsOU5nclJ2cERLNjBKRzI0bEhTNWV0amg4Zw?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-16T08:16:41+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766735+00:00"
+  },
+  {
+    "id": "9144d8c634132d7f",
+    "title": "Platts to amend Global Industrial Materials Index component weightings and composition for 2027",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPeERnY1c5aFlEQV9WU3Y0d3Utb1FWd1hWZ3M5aXpGYkJrb0dnX1NaTWJDUFhuNjhLbkpnTXNKeUZjSVZUd0huWURqSXh5VUM2bHBCN3ZFeGpsUW9XRGt6UVpCVEZGU281YXZLNS10dTN2Z1ZjZENZV0FqOElVaFZrTC1pdS16d0ttVVB2bEdPNUNmNFhaVldvY0t1OVRkbUxZZzU5T1QwR1Z4REdlVzRMNGl6ZklITHRBT3N1WHZDZ1JJeEJEMFEzUGc5Y0ZuVXpiUTE0UkNDZUthMDlRMkNoTk9MaXBEc0psVm9QRjRpSUZsdEwyam5BczhTMjhDczJOUHpqei15cGUwQ1ZnaXM2a2Y5Y1I1NzRa?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-18T02:23:42+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766753+00:00"
+  },
+  {
+    "id": "8d5495bc9fcfc65b",
+    "title": "Platts proposes to change its pipeline WTI Midland versus ICE HOU volume-weighted average index methodology from Dec. 7, 2026",
+    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNNzhuQXNzbU5VMnZpN1JxUXhLam1NeFctRy0tdWRfMkRGSVU1Wm5HRkVhNzNiRktEM3A4WWwzbkZ4LTIxSWVzTWRPQkI3TW0xbFNUb1F4WFhXMmVkYTRoNXBEaDdjT1R5QWxJWE5Fb01tYWNXVkpoUzdramVnbWJSQnNjWklHbTRpUkxMRFBqTzdabUNzeUZwZ1I4MG55YjRzazdJUjdHSlBnZVFUSkw4MTBIcmtLZ3lNZWlMMmFWX2hpNEE5ZkthU2o3d1BaTXlUWGcxQlR4TTNTMF9fbGlDbDlvVlMwbjBQV2NNZGo2bjBIQTVGY0VCRTJuTFN2d0VwOEdIQzl5SnBaZHZZZ2xwQlRvZWN6aWVPdW9FU1cxeHN4Rk9jQ3ZqQkdtWS05aVRxd2tOZVQzYkV3NmJYV3c?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-17T18:22:30+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766760+00:00"
+  },
+  {
+    "id": "ed4d5112d5666c95",
+    "title": "Platts Energy Transition Highlights",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVzIydGlQa3hYajV3THpsa3RlNHhReF80a2xCclIxZHFWLW9jMEllSm04RjNXeTJYYWdJRzZLM3VUeVQyX0NldDlaNW9wX0l2VEpjVTJITUsyS1RUbDFKeS1TSDloTmFEOVhCR0s3MnR3QTZ4ankxT0h2M3hkVUxsaTAtOTdpeUVQZnEyd1N4RVFkU0FLY1M5WHk0T1BENU5IXzNrSDVHbXU1WktQajhPWVEzTnFLOGNCU25lalRLbjB3TUgtSXV6TUR1WWw2Y085OFd6ODMtLUJmRklSQUpvdGJ4WWE?oc=5",
+    "source": "S&P Global",
+    "published": "2026-11-18T12:08:48+00:00",
+    "fetched_at": "2026-11-18T18:48:03.766771+00:00"
+  },
+  {
+    "id": "4dbfbbb12ac5d317",
+    "title": "Overcapacity, protectionism drive agenda for Arab steelmakers: AISU Cairo",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTgzRUFFZ2FzaEtKd09RMEVzaHg0b0MyNmkxcHdraG52VVNsc0c2UXB2dWt4ZTYzNkR0TUtFeVVmbTlIeVA2V2M0Ulp0Y0pjaW5iVnZkS3YzTkwzZ1lodmtyUnhEOXZkWnYwQVBzd2hxU3NBUmRlRTBBZ2xDcF9FTUFHZVIxaGFJa3JNSHlxUmZKMnNLaXlVTlZWa1BUUQ?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-11-18T11:41:04+00:00",
+    "fetched_at": "2026-11-18T18:48:04.212941+00:00"
+  },
+  {
+    "id": "746d05a034366fd5",
+    "title": "Pet food ingredients, 2027 outlook: Supply, competing demand and price risk",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEJLeWllTkNCdFNNUG9fbjFfeldoTTJBNlRTNVR6cjE2TDl6UHpUcnBWSVowbTdkRkVjQWxzN0lxcjNSS3BCV29mSXRkMS11Njh4SUstRnh6NmVaSTNzMDZyNFFybWsxUTBYUmw4bnRjaVI0c3J4aFJBNHlBNlpfMlBQRVI2a2dNeUVick14YWVpZlhQa2RhNFctNVo5czJNZTlzZ1B3TnJtMFFybmh0N3FWOA?oc=5",
+    "source": "Fastmarkets",
+    "published": "2026-11-18T10:54:50+00:00",
+    "fetched_at": "2026-11-18T18:48:04.212976+00:00"
+  },
+  {
+    "id": "1968fc890badc935",
+    "title": "Cop: Electrification goal backed by 75 countries",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaU1WekpZVGtNVzU2UmVwUy02U08wbjVZZEgtVjd5SV9SaHlsblRIMk5SX0VESmRZYzdGalRUR2dpaUhQWjFOU3RPM3BvUDNyYUhBbDVhbkMzVGVQVGpTdEp4VHJwZ1pmR0dhSmlZckF4WDhzandQbmxEUE9YNnRxN3oxWWNOLThtNXVfMFhDb2g5a0JmQV9Tai01VGRjY1RIUjZ4c2NFcTRuOXNvblhtSDVwZW96NFJEOER3?oc=5",
+    "source": "Argus Media",
+    "published": "2026-11-18T18:07:26+00:00",
+    "fetched_at": "2026-11-18T18:48:04.620311+00:00"
+  },
+  {
+    "id": "3173e1a3b1c3d997",
+    "title": "Western Australia seeks permanent fuel data reporting",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWF5TkRCSGVKWkQ3aDRnbWxwZ0pfQ21JZ21aVkc3TjF6WENiMW1MTTM5SS1PcGwxaW9ndU5sVmhWTDA3a3FWTjlVUzZBbDExRDluTnd6YXZBb0FZNlNzSC1CNC15bWZLZTNLamhyZDBwQTVXa3ZtVy1mTFgydUhFYktCZHQtZ2Y4bi1iOUpIRENHTVlOTmlYV2hhWVUxczBab0RmSjlWY3I2OGxUX2NNQW9ndzRWeWNTdXBCTGp3a0cyOEU?oc=5",
+    "source": "Argus Media",
+    "published": "2026-11-18T11:31:38+00:00",
+    "fetched_at": "2026-11-18T18:48:04.620322+00:00"
+  },
+  {
+    "id": "2bb1e4f2e298ee28",
+    "title": "Cop: South Korea reaffirms 2040 coal phase-out",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGw1RFlwbElKRFB6ZDZoTVY0ak02R3RFdUtpV2JMM1JjQVhnd2lDWFdJN0VvUG9rcXNIQmlUc005N2U4dmhhQzV3d0lmZk5RdXhuQUoyMTJjLTBXZlRPVHJwbDVJRXFiY1ZfdVd5b19mWGIwSm9UX0hCdkRCSGxrWVY1U1I5NDM4Z0NOSjdIaFRJeXd5Q3VnNmNJSWs0YUlNdUx2RVduYmo1RTBBVS1taGpSNmY3bTYz?oc=5",
+    "source": "Argus Media",
+    "published": "2026-11-18T18:12:34+00:00",
+    "fetched_at": "2026-11-18T18:48:04.620328+00:00"
+  },
+  {
+    "id": "00b7f8af7c7fdf17",
+    "title": "Managing Natural Gas Risk Webinar | Argus & Zema",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PVHhZdnFZTy1sSExBeE1vZTk4alZUTmlBamhMSmF6czZlN05XMWt0RjJCTXZPS0FibXpSYk8wcl9PT2N0cWFMeUVHWExNc1g2NmlGbTU4ZUJMQUNDU0phQWlDbk9YbG1yRXZvWm9qRWdNZWpnYzFEejh3?oc=5",
+    "source": "Argus Media",
+    "published": "2026-11-18T18:08:54+00:00",
+    "fetched_at": "2026-11-18T18:48:04.620623+00:00"
+  },
+  {
+    "id": "a593ff4d56081c97",
+    "title": "Cop: China to widen management of non-CO2 GHGs",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY0toNG9lcmttaGNlYjNicVEwSTE2VFY0cTB0RThhR25uNUZNWUFfLWkxVXdYVHdqVnhfdEFXZDNXb1JZQ0plMk54MWxSb01JazFwUlE2elJnNUNrajByTVJnQjFUSjFTcHpUaW1jeGhTLUdxRWFWTlQxWlpTRVNpZ0xzLThwdnQxN2dkTV9Id3RHTTVITllGMVBScnM5NHp4WndTbVhhVE9hWG4ySTR3RV81SzVVREJwZVFDUA?oc=5",
+    "source": "Argus Media",
+    "published": "2026-11-17T17:50:31+00:00",
+    "fetched_at": "2026-11-18T18:48:04.620641+00:00"
+  },
+  {
+    "id": "f6350a6ce5eac58a",
+    "title": "Extending existing nuclear best for France: audit body",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOXzJoVktwdkJfV3NOTDdUSlgtbmdMTXNPb0FnbHJQRzFYNExkNXh5WFZHdGRBUURkX3dad0M5MXd0UURXOFByRDlfdlF1eGJfdm9oTXVkbkpBcjdzaUxEQjRYVGloVXphc1dNbm10QV9YS2ZJQXNodVRzbkllUXRkY3llckZBRThDd2psS3Q5UlhJLUtVcXFGVEFndUFCbnl6MEFnY0s0cm9MeXJocm4tMGVwZjFnUnVBNm9HT0hPU19GeDNzRDNv?oc=5",
+    "source": "Argus Media",
+    "published": "2026-11-17T17:20:29+00:00",
+    "fetched_at": "2026-11-18T18:48:04.620662+00:00"
+  },
+  {
+    "id": "230b43695173e24a",
+    "title": "VLGC attacked, drifting in strait of Hormuz",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzVudEpfa2Nid3NnY3RTNHR1M05oU3NrMjRhSjlJampzXzFjM1dKb0diaUlOOGx1MGhsSXlFUFVvaFB3RWpiWmQzenBwYnBMT05BYkIxeFdNMDRLZ1N4MHUxY21Pem1ybjNlN0hMeDNUQ0FtTFh0MFpIcVRCazl1UVozNmRPRDU2X1c2WnNZdlRucXp2Z3UzaDJDUWZ6TkVsYUh2eE5qUDBqVmQ2Qno5VnhVbzFpUVRG?oc=5",
+    "source": "Argus Media",
+    "published": "2026-11-17T19:05:52+00:00",
+    "fetched_at": "2026-11-18T18:48:04.620689+00:00"
+  },
+  {
+    "id": "fb728bb4856adb0d",
+    "title": "Arabian Pipes signs $28 million steel pipe contract with Saudi Aramco",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlRuMkFzZG0tSDdLbmI4alY4OGVlRjVkVTNYaVVoTHV2eDZRYldvT3FjLWl5M2prS0JrelpfY3NFdEJOZmVSRU1fVFY5QW5sOERKak1TQWI1T19EQU9qWmJUd25xMnhlYU9IZFR6bjNicXpaWUk5b3RtZGY3SERRdXZoUzBsbHJTSnVSdk15dEJYalptbERLWURmQk9ETHpVTGJKeGQwUkdVYVRvZUM2QTIxLUg0ck81T1U3M2JRSUJDMGZOTFhiOU5B?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-11-18T11:50:04+00:00",
+    "fetched_at": "2026-11-18T18:48:05.065577+00:00"
+  },
+  {
+    "id": "64d5e537a7fdcfad",
+    "title": "Liberty Galati to resume welded pipe production with new orders, but continuity remains uncertain",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcnRuVzdhaVdMdWdORkFHc01vVHRSZF9QLTE0SW01Zzd3RGJCdHJldHN4SzdVeVJEOTNpeVNYcE5yZXdISTVYVGFaRFlIYmlSWXRKUExFbmtIRWxaZnZzU2RfSmZ2WWtpWDR0NEY1QlhhSFlYVWQ4MzlwS3NzdDBtUU5CRlhVQk1OTGhDZzJwMFJhVGdMZXI1eGdxTFVmMEZNYURuMnFHZlJncTBpMk4xSWc3QUhoNkI1UlIybFlKYzlMdVV6cjRSMXVSSjkydFFGWV9Edm5mWENaa01XcVVXdG9aN1hCYXFQdjZoeEhzVQ?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-11-18T14:07:01+00:00",
+    "fetched_at": "2026-11-18T18:48:05.065594+00:00"
+  },
+  {
+    "id": "7988e70dabf4e4e3",
+    "title": "European automakers warn EU's 'Made in Europe' rules could undermine automotive supply chains",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRnd0R2xEQ3ZqU0dlMm5OLTRIQXphbUY4aEt3UXNuZnA3STE1U0lqWmhENHdUWE9Vc1ozTGNmNkliUFhRMmU2cWNoNGZYNkhFVnQ2SVhrVVJ0aHE0TlcxQi1jU1RaclEwb2lOR3FxRmpWNks5NmR0SkxTSk1FWElEN2NWRld0eHY1MEJ4Y0kyOXhsSEg5TF9ZaV9fenViazVxeUZKVmFFNGszX1BseU45dEI5YVB4dFRXSUN4MHIyZXFtNTQ4RjduYjRPblp2VGtjUlBrdTZkeVgwYmpzOUtheVhZdmFiX0k?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-11-18T11:40:29+00:00",
+    "fetched_at": "2026-11-18T18:48:05.065617+00:00"
+  },
+  {
+    "id": "226e235cc940eb69",
+    "title": "Pakistani steelmakers face further cost pressure amid power tariff revisions",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORVhwWlo0T0E4NHJtMFpXV2dsTGR3dGlIRFFZZ0xLS2tadEhhMVotNU5KbEsxblJsX2NockZCZUU1TERVMnZuMFBKdy1aT0w4b1pOZmowVE53YWFmV29Hd1RNQlFLVUFCbzZiN0s2cDFtYnFkdml1NHhxU0ZfaHhIZTB0dzVBRGc5ZFdQNFZxdEw3RWh3V1U0WnU1VTNaZkdaMjVFZUlVVExlVEI4aUJWalE3X003VmgyU1lkOTNodDBOZWZWYlFab3NfT0J3ZmI1Mm1CWg?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-11-18T13:36:38+00:00",
+    "fetched_at": "2026-11-18T18:48:05.065625+00:00"
+  },
+  {
+    "id": "ebe65a8c2bc7439f",
+    "title": "US HRC exports up 12.2 percent in September 2026 from August",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjIyMGRVdENTay1OM2dVT3FZekpYT3V6M3Y3cTlnYktGdl80M04zd2ZEc0tQSnc5V3RWTHZsYUtXZzJMQ21ZeG9wRWZfYjUyb25aYTl5MlJEcEN5Z29Zdjg0NHBidEZsYW51Y2RCaXgtYWRIckRYVHIzdE5GU1d2bmUxT28yNFpIRU41X01fVWwxN3I1WXQybEY3QjZWUnVwVC1COHB4aWpXRzNSaXhjR3Q2OVpvZ1FvcllPNjVB?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-11-18T17:48:05+00:00",
+    "fetched_at": "2026-11-18T18:48:05.065630+00:00"
+  },
+  {
+    "id": "b971626c8d7ca4b4",
+    "title": "EU steel import quotas under FTA-CSQ and FTA-Others exhausted for several products",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMS1TZWN5aGFFYkhIbWtZMEo2eFZyZzFNeVR6bEJEM181MWRiazdJUWo5MElDVzR6UkRxMVZMRWw3TEhSajdxbkxjZ1pOWkE5Q3haaWJRLS1XaE9vSzNYMVdHT1RrZ2pkUUdDbUpFeTZkbC11UTRLQkluVlNuRUJYVGpJTkNUbDk2RVhvWS1FU1dmaGhoQkViQnp1SVFnQ0YxSW04UFRQVV9nbEtfb0xROHZIRmZsdWFoZnlZdm9lU2w5RmhBa2lzY0dxTmd4TzNGT2o3NWNUOWRmV1o4?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-11-18T13:39:59+00:00",
+    "fetched_at": "2026-11-18T18:48:05.065645+00:00"
+  },
+  {
+    "id": "4af7d91c08bc5b51",
+    "title": "Chile's Grupo CAP net loss soars 389 percent in Q3 2026 on sales decline",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkNTR000MzVldnpLcWFfS3QyTWdQYXFSWGRyQlVKQlJ1cUxBTC1jdHE1OElKQlYySHBfZHYweUE5WWxXV0h5YUJXV01wUmNEVFA5a1dKbDBocHFNajFOY0VocVN3Rm9GNi02SGNSTlRUbkI5YzV4bEVQTFFQRDNCWEdlS3VDTjJrUjVlU2tXcGozZG5yUlhBZUhxWTBObkstUlZyQVhrN2s1djY0eE9xUDJsRFNEM1A1QTZpYWlYckYxb19HRzFiSDlqcV9iQQ?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-11-18T15:26:06+00:00",
+    "fetched_at": "2026-11-18T18:48:05.065652+00:00"
+  },
+  {
+    "id": "a41fb35f83ffb3b5",
+    "title": "US HDG imports down 6.3 percent in September 2026 from August",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS1BZzJtQTZYSXQ0cTk5NE1WR3gyUnowRlZpSGJURklGOEdCcEZGd2VyOEZUbXJKb0NDNWZ1NmxZWUowckl6Y0VzcThpRE1TUDYtMFpGNEFnTUhWZFh4aDRYanp4ZmdfWm8wbXJmcW5OekVzTjRDZ2FTbzVsNTVoREt3WS1ncHBiWGMwYjNfMktzZXdEWXo2ZmNoZ25xdHRvMVBVSkZVOUJTci03RTR0aXNIT1VwZG56cDlkcWZ4QQ?oc=5",
+    "source": "SteelOrbis",
+    "published": "2026-11-18T17:52:33+00:00",
+    "fetched_at": "2026-11-18T18:48:05.065658+00:00"
+  },
+  {
+    "id": "aab6e50137fa9045",
+    "title": "World Women in Steel (WWIS)",
+    "link": "https://worldsteel.org/steel-people/world-women-in-steel-wwis/",
+    "source": "World Steel Association",
+    "published": "2026-11-18T12:36:26+00:00",
+    "fetched_at": "2026-11-18T18:48:06.163607+00:00"
+  },
+  {
+    "id": "861b26e9f238378d",
+    "title": "World Women in Steel (WWIS) Fireside Chats",
+    "link": "https://worldsteel.org/steel-people/world-women-in-steel-wwis/world-women-in-steel-wwis-fireside-chats/",
+    "source": "World Steel Association",
+    "published": "2026-11-18T12:20:48+00:00",
+    "fetched_at": "2026-11-18T18:48:06.163621+00:00"
   }
 ]
